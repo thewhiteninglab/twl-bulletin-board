@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Keep this out of search engines: internal tool only -->
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+<title>The Whitening Lab — Bulletin Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-mark">TWL</span>
+      <h1>The Whitening Lab <span class="divider">—</span> Bulletin Board</h1>
+    </div>
+    <div class="search-wrap">
+      <label for="search" class="sr-only">Search bulletins</label>
+      <input type="search" id="search" placeholder="Search bulletins…" autocomplete="off">
+      <span id="search-count" class="search-count" aria-live="polite"></span>
+    </div>
+  </div>
+</header>
+
+<main class="layout">
+
+  <nav class="sidebar" aria-label="Bulletin list">
+    <div class="sidebar-head">
+      <span>All Bulletins</span>
+      <span id="sidebar-total" class="pill"></span>
+    </div>
+    <ul id="bulletin-list" class="bulletin-list"></ul>
+    <p id="empty-state" class="empty-state" hidden>No bulletins match your search.</p>
+  </nav>
+
+  <section class="content" id="content" aria-live="polite">
+    <!-- filled by script.js -->
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <p>Internal use only · The Whitening Lab team</p>
+</footer>
+
+<script src="bulletins.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
