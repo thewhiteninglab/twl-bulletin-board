@@ -98,6 +98,9 @@ const BULLETINS = [
       - If you see a code or a person's name in the Appointment Note, that's most likely a discount the customer wants to apply — please honor it.
       - Not every customer will follow this process. If someone mentions verbally, even after their session, that they'd like to redeem a code, please try to honor it as well.
 
+      > **NEXT ACTION FOR TABATHA**
+      > Please provide Angel access to bookings made by customers in Square, so he can track the codes customers use for proper attribution.
+
       ## 6. Social Media & Content Marketing — Diversifying Our Content Mix
 
       Molly's videos continue to bring virality and fun to the brand — that engagement is a huge asset. But for Social Media to become a true revenue-generating channel (not just an engagement channel), we need a broader mix of content types working alongside it.
@@ -111,6 +114,11 @@ const BULLETINS = [
 
       Showcasing our Google Reviews and blog content positions us as an authority in the industry, strengthens our reputation, and drives more bookings over time.
 
+      Here are a couple of sample reels Angel has already put together:
+
+      - [Sample 1 (LinkedIn)](https://www.linkedin.com/posts/if-the-thought-of-a-whitening-session-makes-ugcPost-7477834648434266112-JzGx/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAI3zRwBFUdG8g9EY9fmaXaIylcH1WiWuXk)
+      - [Sample 2 (Facebook)](https://www.facebook.com/share/r/14gBk3GD8rR/)
+
       **Long-term: The Five Content Pillars**
 
       Long term, we want to publish the right blend of content following five content pillars. I'll be building an easy production process for four of the five pillars, while Molly continues doing what she does best — the fun, on-camera Lab Life content.
@@ -120,6 +128,10 @@ const BULLETINS = [
       ## 7. Paid Ads Marketing — Retargeting Launching Soon
 
       In the next few days, we'll be launching Retargeting Ads targeting people who showed intent to book an appointment (i.e., visitors captured from the new Book an Appointment page — see Update #2). These ads will introduce a new set of promo codes specific to this campaign. As with this round, I'll send everyone the full details on the promos and codes before launch.
+
+      > **NEXT ACTIONS FOR TABATHA**
+      > 1. Create a new Facebook account and provide Angel the URL so he can add it to our Meta Business account.
+      > 2. Update our Advertising Account with her payment card details so we can run retargeting ads. [Add a payment method here](https://adsmanager.facebook.com/adsmanager/billing_hub/accounts/details/?business_id=388562282943538&asset_id=1314335607582621&session_id=upl_1783104306_667932af-3c43-40ba-a46c-a6b4a82c7605&payment_account_id=1314335607582621)
 
       ## 8. Why Are We Using So Many Promo Codes?
 
@@ -151,6 +163,13 @@ const BULLETINS = [
       Questions on any of the above? Reach out to Angel anytime.
 
       ## Quick Reference
+
+      **Next Actions Expected from the Team**
+
+      - Tabatha: Give Angel access to bookings made by customers in Square, for promo code attribution.
+      - Everyone: Create a LinkedIn account (if you don't have one), fill in your About/experience/education, link your work experience to The Whitening Lab's LinkedIn profile, and build connections.
+      - Tabatha: Create a new Facebook account and send Angel the URL so he can add it to our Meta Business account.
+      - Tabatha: Add her payment card to our Advertising Account so retargeting ads can run.
 
       **Promo Codes Mentioned**
 
