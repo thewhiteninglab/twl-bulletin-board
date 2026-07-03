@@ -138,6 +138,23 @@ const BULLETINS = [
       Once ORLA inventory arrives, we'll begin marketing the brand to our existing customer base — so now is the right time to start keeping ORLA in mind and brainstorming our launch approach.
 
       Questions on any of the above? Reach out to Angel anytime.
+
+      ## Quick Reference
+
+      **Promo Codes Mentioned**
+
+      - RETURN20 — $20 off next touch-up/booking (Lapsing Customers email)
+      - SMILEPEN — Free Teeth Whitening Pen after next visit (Dormant Customers email)
+
+      **Links Mentioned**
+
+      - [Full detailed update on each channel (Google Doc)](https://docs.google.com/document/d/1MJe36q__eLF3bcSLrkFWVhQFkCN6RevhQpWgOOq2LoQ/edit?tab=t.d7xzqc4lusfj)
+      - [Milkshake link-in-bio (old, still live)](https://msha.ke/thewhiteninglab)
+      - [Book an Appointment (new primary booking page)](https://thewhiteninglab.co/book-an-appointment)
+      - [Refer-a-Friend Tracker (Google Sheet)](https://docs.google.com/spreadsheets/d/14cbvh2-Pa9Rc8Sg9MRkY-h5coan7TZnSqG3rFYiPMTs/edit?usp=sharing)
+      - [Refer-a-Friend page](https://thewhiteninglab.co/refer-a-friend)
+      - [Blog](https://thewhiteninglab.co/blog)
+      - [ORLA site](https://orla.thewhiteninglab.co/)
     `
   }
 ];
