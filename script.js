@@ -182,6 +182,19 @@
           <p class="placeholder-eyebrow">Welcome</p>
           <h2>Select a bulletin to read the full update</h2>
           <p>Choose an entry from the list on the left, or search for a keyword above.</p>
+
+          <h3 class="placeholder-subhead">How to read a bulletin</h3>
+          <ol class="placeholder-steps">
+            <li>Find a bulletin in the list on the left.</li>
+            <li>Click it to read the full update here.</li>
+            <li>Want to find something specific? Type a word into the search bar at the top.</li>
+          </ol>
+
+          <div class="callout placeholder-contact">
+            <p>Questions? Contact Angel:</p>
+            <p>Email: <a href="mailto:hello@thewhiteninglab.co">hello@thewhiteninglab.co</a></p>
+            <p>iMessage: <a href="sms:+639177236062">+63 917 723 6062</a></p>
+          </div>
         </div>`;
       return;
     }
@@ -219,7 +232,7 @@
   searchEl.addEventListener("input", handleSearchInput);
 
   // Deep-link support: #bulletin-id in the URL opens that bulletin directly.
-  // Otherwise, open the most recent bulletin by default.
+  // Otherwise, show the welcome page by default.
   function init() {
     renderList("");
     const hashId = decodeURIComponent(location.hash.replace("#", ""));
@@ -227,8 +240,6 @@
 
     if (hashMatch) {
       selectBulletin(hashMatch.id, "");
-    } else if (bulletins.length) {
-      selectBulletin(bulletins[0].id, "");
     } else {
       renderContent(null, "");
     }

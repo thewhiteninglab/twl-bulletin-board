@@ -264,6 +264,40 @@ body {
   line-height: 1.6;
 }
 
+.placeholder-subhead {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 32px 0 12px;
+}
+
+.placeholder-steps {
+  margin: 0 0 28px;
+  padding-left: 22px;
+}
+
+.placeholder-steps li {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #2b2a26;
+  margin-bottom: 8px;
+}
+
+.placeholder-contact p {
+  color: #2b2a26;
+}
+
+.placeholder a {
+  color: var(--twl-black);
+  text-decoration: underline;
+  text-decoration-color: var(--twl-yellow);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+}
+
+.placeholder a:hover {
+  color: #545045;
+}
+
 .bulletin-full {
   max-width: 680px;
 }
