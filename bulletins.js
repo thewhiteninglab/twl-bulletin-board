@@ -129,7 +129,18 @@ const BULLETINS = [
 
       We're reaching out to businesses that share our target customer base — salons, gyms, events companies, and similar — so we can tap into their existing market. I'm finalizing this campaign now and will share full details with the team as soon as it's ready to launch.
 
-      ## 10. ORLA Website — Early Foundation
+      ## 10. Our LinkedIn Company Page
+
+      We now have an official The Whitening Lab LinkedIn Page: [linkedin.com/company/the-whitening-lab](https://www.linkedin.com/company/the-whitening-lab/)
+
+      Building a presence on LinkedIn helps us in two ways: it gives us visibility to attract new clients and potential partners, and it puts a face to the brand by introducing the owners through LinkedIn.
+
+      > **ACTION FOR THE TEAM**
+      > 1. If you don't have a LinkedIn account, please create one. Then fill in your About section, work experience, and education.
+      > 2. On your work experience entry, make sure to choose the actual Whitening Lab profile in the Company/Organization field — when you type "The Whitening Lab," our profile should appear in the dropdown. Click on that so your work experience links to our official page.
+      > 3. Build connections on LinkedIn. If you know people on LinkedIn, please add them.
+
+      ## 11. ORLA Website — Early Foundation
 
       I've started building the foundational ORLA website. This is just a basic foundation right now and I expect heavy changes as we go.
 
@@ -153,6 +164,7 @@ const BULLETINS = [
       - [Book an Appointment (new primary booking page)](https://thewhiteninglab.co/book-an-appointment)
       - [Refer-a-Friend Tracker (Google Sheet)](https://docs.google.com/spreadsheets/d/14cbvh2-Pa9Rc8Sg9MRkY-h5coan7TZnSqG3rFYiPMTs/edit?usp=sharing)
       - [Refer-a-Friend page](https://thewhiteninglab.co/refer-a-friend)
+      - [The Whitening Lab LinkedIn Page](https://www.linkedin.com/company/the-whitening-lab/)
       - [Blog](https://thewhiteninglab.co/blog)
       - [ORLA site](https://orla.thewhiteninglab.co/)
     `
