@@ -38,7 +38,7 @@ const BULLETINS = [
     date: "2026-07-10",
     title: "Weekly Marketing Update — Follow-Ups & Social Media Staffing",
     body: `
-      Hi team — quick update this week following up on last week's action items, plus a couple of new updates. Short one this time; more to come as things develop.
+      Hi team — quick update this week following up on last week's action items, plus a few new updates on the Partner Referral Program and our July Newsletter. More to come as things develop.
 
       ## 1. Follow-Up on Last Week's Next Actions
 
@@ -61,6 +61,39 @@ const BULLETINS = [
 
       Angel will keep owning our LinkedIn presence, since this channel will be used as part of our Partner Marketing Channel going forward.
 
+      ## 4. Partner Referral Program — Mechanics Finalized
+
+      The mechanics for our Partner Referral Program are ready. Rather than a menu of reward options, every partner walks one simple path: **Experience → Refer → Ambassador**.
+
+      - **Stage 1 — Experience:** We comp a whitening session for the partner (owner, plus a key staff member for larger teams), so they experience the studio first-hand and become a walking before-and-after.
+      - **Stage 2 — Refer:** The partner gets a unique code (e.g. GLAMROOM, FITLOFT) to send clients our way. Every referral gets $20 off their first session, and we cross-promote each other on our website, social, and in-studio.
+      - **Stage 3 — Ambassador:** Every 5 confirmed first-time bookings earns the partner a $100 Whitening Lab gift card, repeating at every 5th referral going forward.
+
+      Tracking runs on the same Square appointment-notes system we already use for promo codes — no new software needed. Target partners are salons, spas, gyms, photographers, bridal/event vendors, and similar local businesses with a loyal client base.
+
+      [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+
+      ## 5. Next Steps for Tabatha — Partner Outreach Review
+
+      Goal is to start outreach to potential partners on Monday. Ahead of that, please review:
+
+      - Mechanics of the Partner Referral Program (Update #4 above)
+      - [Partner 1-Pager](https://drive.google.com/file/d/1LzPSFmSIK6pYXDHmgkeLjpGl8KFXeqzi/view?usp=sharing)
+      - [Partner Posters](https://drive.google.com/drive/folders/1LmHCGHC0zW5ButNoGzA_mdSLlg5_Wiqp?usp=sharing)
+      - [Partner Outreach Email Sequence](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?tab=t.0)
+
+      > **NEXT ACTION FOR TABATHA**
+      > Please review the Partner Referral Program mechanics, the Partner 1-Pager, the Partner Posters, and the Partner Outreach Email Sequence — the goal is to begin outreach to potential partners on Monday.
+
+      ## 6. July Newsletter Sending Monday — Code SUMMER20
+
+      On Monday, we're sending out our July Newsletter (already approved by Tabatha). It promotes one of our blog posts and the code **SUMMER20**, which entitles customers to $20 off their next session.
+
+      [Preview of the newsletter email](https://drive.google.com/file/d/1nV68ECOcRpVCFijC8U3KxaOftGzJT2LN/view?usp=sharing)
+
+      > **ACTION FOR THE TEAM**
+      > Please review the newsletter email before Monday, so that when a customer books a session with the code SUMMER20, you recognize it as a valid code.
+
       That's it for updates this week — will add more as things come in.
 
       ## Quick Reference
@@ -71,14 +104,21 @@ const BULLETINS = [
       - Tabatha: Create a new Facebook account and send Angel the URL so he can add it to our Meta Business account. (Outstanding)
       - Tabatha: Add her payment card to our Advertising Account so retargeting ads can run. (Outstanding)
       - Angel: Forward Molly any collaterals that need social media promotion.
+      - Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence ahead of Monday's partner outreach.
+      - Everyone: Review the July Newsletter email so you recognize code SUMMER20 as valid when a customer books with it.
 
       **Promo Codes Mentioned**
 
-      - None this week.
+      - SUMMER20 — $20 off next session (July Newsletter, sending Monday)
 
       **Links Mentioned**
 
       - [The Whitening Lab LinkedIn Page](https://www.linkedin.com/company/the-whitening-lab/)
+      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - [Partner 1-Pager](https://drive.google.com/file/d/1LzPSFmSIK6pYXDHmgkeLjpGl8KFXeqzi/view?usp=sharing)
+      - [Partner Posters](https://drive.google.com/drive/folders/1LmHCGHC0zW5ButNoGzA_mdSLlg5_Wiqp?usp=sharing)
+      - [Partner Outreach Email Sequence](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?tab=t.0)
+      - [Preview of the July Newsletter email](https://drive.google.com/file/d/1nV68ECOcRpVCFijC8U3KxaOftGzJT2LN/view?usp=sharing)
     `
   },
   {
