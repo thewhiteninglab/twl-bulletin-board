@@ -34,6 +34,54 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-07-10-26",
+    date: "2026-07-10",
+    title: "Weekly Marketing Update — Follow-Ups & Social Media Staffing",
+    body: `
+      Hi team — quick update this week following up on last week's action items, plus a couple of new updates. Short one this time; more to come as things develop.
+
+      ## 1. Follow-Up on Last Week's Next Actions
+
+      - **Tabatha: Give Angel access to bookings made by customers in Square** — Not yet done.
+      - **Everyone: Create a LinkedIn account, fill in your profile, and link The Whitening Lab as your employer** — Done. Everyone now has a LinkedIn account and has linked The Whitening Lab in their work experience.
+      - **Tabatha: Create a new Facebook account and send Angel the URL** — Not yet done.
+      - **Tabatha: Add her payment card to our Advertising Account** — Not yet done.
+
+      > **STILL OUTSTANDING — TABATHA**
+      > Three items from last week still need action: Square booking access for Angel, a new Facebook account (URL sent to Angel), and adding a payment card to our Advertising Account. These are blocking promo code attribution and the retargeting ads launch, so please prioritize when you can.
+
+      ## 2. Molly Now Full-Time on Social Media
+
+      Molly will be working on Social Media full-time for The Whitening Lab going forward.
+
+      > **ACTION FOR ANGEL**
+      > Forward Molly any collaterals that need promotion on our Social Media account, so she can create videos to promote them.
+
+      ## 3. Angel Continues Owning LinkedIn
+
+      Angel will keep owning our LinkedIn presence, since this channel will be used as part of our Partner Marketing Channel going forward.
+
+      That's it for updates this week — will add more as things come in.
+
+      ## Quick Reference
+
+      **Next Actions Expected from the Team**
+
+      - Tabatha: Give Angel access to bookings made by customers in Square, for promo code attribution. (Outstanding)
+      - Tabatha: Create a new Facebook account and send Angel the URL so he can add it to our Meta Business account. (Outstanding)
+      - Tabatha: Add her payment card to our Advertising Account so retargeting ads can run. (Outstanding)
+      - Angel: Forward Molly any collaterals that need social media promotion.
+
+      **Promo Codes Mentioned**
+
+      - None this week.
+
+      **Links Mentioned**
+
+      - [The Whitening Lab LinkedIn Page](https://www.linkedin.com/company/the-whitening-lab/)
+    `
+  },
+  {
     id: "four-week-marketing-recap",
     date: "2026-07-03",
     title: "4-Week Marketing Recap — Multi-Channel Strategy Rollout",
