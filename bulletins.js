@@ -54,8 +54,10 @@ const BULLETINS = [
 
       Molly will be working on Social Media full-time for The Whitening Lab going forward.
 
-      > **ACTION FOR ANGEL**
-      > Forward Molly any collaterals that need promotion on our Social Media account, so she can create videos to promote them.
+      Please promote our blog posts — so far, we have 6 published blog posts. [Here's where all published blog posts are listed](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
+
+      > **ACTION FOR MOLLY**
+      > Promote one blog post per week on our Social Media account.
 
       ## 3. Angel Continues Owning LinkedIn
 
@@ -85,14 +87,25 @@ const BULLETINS = [
       > **NEXT ACTION FOR TABATHA**
       > Please review the Partner Referral Program mechanics, the Partner 1-Pager, the Partner Posters, and the Partner Outreach Email Sequence — the goal is to begin outreach to potential partners on Monday.
 
-      ## 6. July Newsletter Sending Monday — Code SUMMER20
+      ## 6. July Newsletter Sending Today — Code SUMMER20
 
-      On Monday, we're sending out our July Newsletter (already approved by Tabatha). It promotes one of our blog posts and the code **SUMMER20**, which entitles customers to $20 off their next session.
+      We're starting to send out our July Newsletter today (already approved by Tabatha). It promotes one of our blog posts and the code **SUMMER20**, which entitles customers to $20 off their next session.
 
       [Preview of the newsletter email](https://drive.google.com/file/d/1nV68ECOcRpVCFijC8U3KxaOftGzJT2LN/view?usp=sharing)
 
       > **ACTION FOR THE TEAM**
-      > Please review the newsletter email before Monday, so that when a customer books a session with the code SUMMER20, you recognize it as a valid code.
+      > Please review the newsletter email today, so that when a customer books a session with the code SUMMER20, you recognize it as a valid code.
+
+      ## 7. AI Blog Writer — Feedback Round on New Blog Post
+
+      Our AI Blog Writer keeps learning The Whitening Lab's writing style from our blogs, and Tabatha's feedback is integral to making it better over time. We've created a new blog post and would like her feedback on this writing round.
+
+      Blog title: **"Teeth Whitening Strips Fail for Two Reasons"**
+
+      [Read the blog post (Google Doc)](https://docs.google.com/document/d/1SmLY8ZZV1vxesZXiM0BbEZQzDjKC0XBgW1lbcnskMTM/edit?usp=sharing)
+
+      > **NEXT ACTION FOR TABATHA**
+      > Please read the blog post and feel free to edit it directly. We'll send the edits back to our AI Blog Writer to capture the differences, so it can adjust its writing style for the next round. Once you're done, let Angel know it's the approved version.
 
       That's it for updates this week — will add more as things come in.
 
@@ -103,22 +116,25 @@ const BULLETINS = [
       - Tabatha: Give Angel access to bookings made by customers in Square, for promo code attribution. (Outstanding)
       - Tabatha: Create a new Facebook account and send Angel the URL so he can add it to our Meta Business account. (Outstanding)
       - Tabatha: Add her payment card to our Advertising Account so retargeting ads can run. (Outstanding)
-      - Angel: Forward Molly any collaterals that need social media promotion.
+      - Molly: Promote one blog post per week on our Social Media account.
       - Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence ahead of Monday's partner outreach.
       - Everyone: Review the July Newsletter email so you recognize code SUMMER20 as valid when a customer books with it.
+      - Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version.
 
       **Promo Codes Mentioned**
 
-      - SUMMER20 — $20 off next session (July Newsletter, sending Monday)
+      - SUMMER20 — $20 off next session (July Newsletter, sending today)
 
       **Links Mentioned**
 
       - [The Whitening Lab LinkedIn Page](https://www.linkedin.com/company/the-whitening-lab/)
+      - [Published Blog Posts list (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327)
       - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
       - [Partner 1-Pager](https://drive.google.com/file/d/1LzPSFmSIK6pYXDHmgkeLjpGl8KFXeqzi/view?usp=sharing)
       - [Partner Posters](https://drive.google.com/drive/folders/1LmHCGHC0zW5ButNoGzA_mdSLlg5_Wiqp?usp=sharing)
       - [Partner Outreach Email Sequence](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?tab=t.0)
       - [Preview of the July Newsletter email](https://drive.google.com/file/d/1nV68ECOcRpVCFijC8U3KxaOftGzJT2LN/view?usp=sharing)
+      - ["Teeth Whitening Strips Fail for Two Reasons" blog post (Google Doc)](https://docs.google.com/document/d/1SmLY8ZZV1vxesZXiM0BbEZQzDjKC0XBgW1lbcnskMTM/edit?usp=sharing)
     `
   },
   {
