@@ -107,6 +107,29 @@ const BULLETINS = [
       > **NEXT ACTION FOR TABATHA**
       > Please read the blog post and feel free to edit it directly. We'll send the edits back to our AI Blog Writer to capture the differences, so it can adjust its writing style for the next round. Once you're done, let Angel know it's the approved version.
 
+      ## 8. Customer Journey Email Series — Ready for Review
+
+      We've updated our Customer Journey Email Series — a set of emails that go out to customers automatically based on where they are in their lifecycle with us, rather than one-off blasts. Built around what Square Marketing can actually automate, it's four emails:
+
+      - **Welcome** — sends within 24 hours of booking the New Patient Package, so clients know what to expect at their first session.
+      - **Touch-Up Offer** — sends 14 days after a New Patient session, to get the first touch-up on the calendar before the shade starts fading.
+      - **Touch-Up Reminder** — sends 3 months after a client's last visit (any session), to keep them on a steady touch-up rhythm. This is the core repeat-revenue email.
+      - **Cart Abandon** — sends when someone adds a take-home product to their online cart but doesn't check out, to help recover the sale.
+
+      [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
+
+      > **NEXT ACTION FOR TABATHA**
+      > Please review the email sequence and let Angel know if it's approved. Plan is to get this set up in Square next week.
+
+      ## 9. FYI: The Whitening Lab Startup Intensive Is Live on Our Website
+
+      The Whitening Lab Startup Intensive is now integrated into our main website, right at the bottom of the homepage. Registration and more information are available on its own landing page.
+
+      [The Whitening Lab Startup Intensive](https://intensive.thewhiteninglab.co/)
+
+      > **FYI FOR THE TEAM**
+      > If someone asks about the Startup Intensive or wants to join, just direct them to the website above for registration and details.
+
       That's it for updates this week — will add more as things come in.
 
       ## Quick Reference
@@ -120,6 +143,8 @@ const BULLETINS = [
       - Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence ahead of Monday's partner outreach.
       - Everyone: Review the July Newsletter email so you recognize code SUMMER20 as valid when a customer books with it.
       - Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version.
+      - Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved (target: set up in Square next week).
+      - Everyone: If someone asks about The Whitening Lab Startup Intensive, direct them to the registration website.
 
       **Promo Codes Mentioned**
 
@@ -135,6 +160,8 @@ const BULLETINS = [
       - [Partner Outreach Email Sequence](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?tab=t.0)
       - [Preview of the July Newsletter email](https://drive.google.com/file/d/1nV68ECOcRpVCFijC8U3KxaOftGzJT2LN/view?usp=sharing)
       - ["Teeth Whitening Strips Fail for Two Reasons" blog post (Google Doc)](https://docs.google.com/document/d/1SmLY8ZZV1vxesZXiM0BbEZQzDjKC0XBgW1lbcnskMTM/edit?usp=sharing)
+      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
+      - [The Whitening Lab Startup Intensive](https://intensive.thewhiteninglab.co/)
     `
   },
   {
