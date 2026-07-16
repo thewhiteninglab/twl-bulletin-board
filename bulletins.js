@@ -38,9 +38,57 @@ const BULLETINS = [
     date: "2026-07-17",
     title: "Weekly Marketing Update — Last Week's Follow-Ups",
     body: `
-      Hi team — starting this week's update with a follow-up on the open items from last week. Good progress: the three items that were blocking promo code attribution and the retargeting ads launch are now done. A few review items are still outstanding. More updates to come as things develop this week.
+      Hi team — leading off this week with a big one: our Retargeting Ads are live. Then a quick follow-up on last week's open items. More updates to come as things develop this week.
 
-      ## 1. Follow-Up on Last Week's Next Actions
+      ## 1. Retargeting Ads Are Live
+
+      This week we launched our first Retargeting Ads campaign, and it's running as expected — which confirms the retargeting setup is working end to end (ad account, payment card, pixel/audience, and delivery all functioning).
+
+      A quick reminder of what "retargeting" means here: instead of paying to reach cold strangers, we're paying to re-reach people who already engaged with us — in this case, everyone who interacted with our Instagram in the last 365 days. That's a warm audience that already knows the brand, so it's the most cost-efficient ad money we spend. The ads send them back to our Book an Appointment page so we can turn that interest into bookings.
+
+      **Campaign: TWL | Retargeting | IG Engagers (365d) — July 13–16, 2026 (launch through today)**
+
+      | Metric | Value |
+      | --- | --- |
+      | Amount spent | $12.73 |
+      | Reach (unique people) | 1,264 |
+      | Impressions | 1,626 |
+      | Frequency (avg. views per person) | 1.29 |
+      | Link clicks (visitors sent to our site) | 43 |
+      | Click-through rate (CTR) | 2.77% |
+      | Cost per link click | $0.30 |
+      | CPM (cost per 1,000 impressions) | $7.83 |
+
+      **What the numbers mean**
+
+      - **The setup is confirmed working.** The single most important takeaway this early: the ads are delivering, spending, and sending clicks — so the whole retargeting machine we built is functioning. Everything below is a bonus read.
+      - **We reached 1,264 of our warm audience for $12.73** — a little over three days of delivery. That's roughly a penny per person to put The Whitening Lab back in front of someone who already knows us.
+      - **Frequency of 1.29 is healthy.** Each person has seen the ad about 1.3 times on average — enough to register, nowhere near ad fatigue (where people get annoyed by seeing the same ad too often).
+      - **43 link clicks at $0.30 each.** These are 43 warm visitors we actively sent back to our booking page. A ~$0.30 cost per click on a traffic campaign is inexpensive.
+      - **2.77% CTR is strong for this kind of campaign.** As a rough yardstick, a ~1% CTR is considered normal; because this is a warm audience, they click at nearly triple that rate — exactly what you'd expect (and want) from retargeting.
+      - **Caveat — it's early and small.** This is ~4 days and under $13 of spend, so treat these as directional, not final. The goal this week was to prove the channel works, and it does. We'll watch how clicks convert into actual bookings as the sample grows.
+
+      ## 2. Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
+
+      The Meta numbers above show clicks leaving the ad; the question is whether those visitors actually land on our website. Our Google Analytics traffic report for July 12–16 confirms they do — **Paid Social** (which is this retargeting campaign) shows up as our **third-largest traffic source** for the week, behind only Direct and Organic Search.
+
+      | Traffic Source (Channel) | Sessions |
+      | --- | --- |
+      | Direct | 96 |
+      | Organic Search | 71 |
+      | Paid Social (retargeting ads) | 63 |
+      | Unassigned | 48 |
+      | Email | 9 |
+      | Referral | 9 |
+      | Organic Social | 3 |
+
+      **What the numbers mean**
+
+      - **Paid Social drove 63 website sessions this week** — real people arriving on our site from the ads, not just clicks reported inside Meta. That's the confirmation we wanted: the ads deliver visitors back to us.
+      - **It's already our #3 channel** out of seven, from a standing start mid-week and on a tiny budget. As we scale spend, this channel has clear room to climb.
+      - **Why 63 sessions here vs. 43 link clicks in Meta?** Two different tools counting two slightly different things: Google Analytics counts *sessions* over July 12–16 and folds in any paid-social visit, while Meta counts *link clicks* on this one campaign over July 13–16. Small gaps like this between platforms are normal — the point is both tools independently confirm the ads are working.
+
+      ## 3. Follow-Up on Last Week's Next Actions
 
       **Completed this week:**
 

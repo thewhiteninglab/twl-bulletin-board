@@ -388,6 +388,48 @@ body {
   font-weight: 400;
 }
 
+.bulletin-table-wrap {
+  margin: 0 0 22px;
+  overflow-x: auto;
+  border: 1px solid var(--twl-gray-line);
+  border-radius: 6px;
+}
+
+.bulletin-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14.5px;
+}
+
+.bulletin-table th,
+.bulletin-table td {
+  text-align: left;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--twl-gray-line);
+  white-space: nowrap;
+}
+
+.bulletin-table thead th {
+  background: var(--twl-black);
+  color: var(--twl-off-white);
+  font-weight: 700;
+  font-size: 12.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.bulletin-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.bulletin-table tbody tr:nth-child(even) {
+  background: var(--twl-off-white);
+}
+
+.bulletin-table td:first-child {
+  font-weight: 600;
+}
+
 .bulletin-figure {
   margin: 0 0 24px;
   max-width: 420px;

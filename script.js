@@ -57,6 +57,7 @@
     let paraBuffer = [];
     let listBuffer = [];
     let calloutBuffer = [];
+    let tableBuffer = [];
 
     function flushPara() {
       if (paraBuffer.length) {
@@ -77,39 +78,61 @@
         calloutBuffer = [];
       }
     }
+    // Pipe tables: | Col A | Col B |  with a | --- | --- | separator row.
+    function splitRow(row) {
+      return row.replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+    }
+    function isSeparatorRow(row) {
+      return splitRow(row).every((c) => /^:?-+:?$/.test(c));
+    }
+    function flushTable() {
+      if (!tableBuffer.length) return;
+      const rows = tableBuffer.filter((r) => !isSeparatorRow(r)).map(splitRow);
+      tableBuffer = [];
+      if (!rows.length) return;
+      const [head, ...body] = rows;
+      const thead = "<thead><tr>" + head.map((c) => `<th>${inline(c)}</th>`).join("") + "</tr></thead>";
+      const tbody = body.length
+        ? "<tbody>" + body.map((r) => "<tr>" + r.map((c) => `<td>${inline(c)}</td>`).join("") + "</tr>").join("") + "</tbody>"
+        : "";
+      html += `<div class="bulletin-table-wrap"><table class="bulletin-table">${thead}${tbody}</table></div>`;
+    }
 
     for (const rawLine of lines) {
       const line = rawLine.trim();
 
       if (line === "") {
-        flushPara(); flushList(); flushCallout();
+        flushPara(); flushList(); flushCallout(); flushTable();
         continue;
       }
 
       const imgMatch = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
 
       if (line.startsWith("## ")) {
-        flushPara(); flushList(); flushCallout();
+        flushPara(); flushList(); flushCallout(); flushTable();
         html += `<h3>${inline(line.slice(3).trim())}</h3>`;
       } else if (imgMatch) {
-        flushPara(); flushList(); flushCallout();
+        flushPara(); flushList(); flushCallout(); flushTable();
         const alt = escapeHtml(imgMatch[1]);
         const src = escapeHtml(imgMatch[2]);
         html += `<figure class="bulletin-figure"><img src="${src}" alt="${alt}" loading="lazy">${
           alt ? `<figcaption>${alt}</figcaption>` : ""
         }</figure>`;
+      } else if (line.startsWith("|") && line.endsWith("|")) {
+        flushPara(); flushList(); flushCallout();
+        tableBuffer.push(line);
       } else if (line.startsWith("- ")) {
-        flushPara(); flushCallout();
+        flushPara(); flushCallout(); flushTable();
         listBuffer.push(line.slice(2).trim());
       } else if (line.startsWith("> ")) {
-        flushPara(); flushList();
+        flushPara(); flushList(); flushTable();
         calloutBuffer.push(line.slice(2).trim());
       } else {
-        flushList(); flushCallout();
+        flushList(); flushCallout(); flushTable();
         paraBuffer.push(line);
       }
     }
-    flushPara(); flushList(); flushCallout();
+    flushPara(); flushList(); flushCallout(); flushTable();
     return html;
   }
 
