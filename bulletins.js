@@ -34,6 +34,58 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-07-17-26",
+    date: "2026-07-17",
+    title: "Weekly Marketing Update — Last Week's Follow-Ups",
+    body: `
+      Hi team — starting this week's update with a follow-up on the open items from last week. Good progress: the three items that were blocking promo code attribution and the retargeting ads launch are now done. A few review items are still outstanding. More updates to come as things develop this week.
+
+      ## 1. Follow-Up on Last Week's Next Actions
+
+      **Completed this week:**
+
+      - **Tabatha: Give Angel access to bookings made by customers in Square** — Done. Angel now has access to bookings for promo code attribution.
+      - **Tabatha: Create a new Facebook account and send Angel the URL** — Done. Angel can now add it to our Meta Business account.
+      - **Tabatha: Add her payment card to our Advertising Account** — Done. Retargeting ads can now run.
+      - **Everyone: Review the July Newsletter email so you recognize code SUMMER20** — Done.
+      - **Everyone: Direct anyone asking about The Whitening Lab Startup Intensive to the registration website** — Done / ongoing.
+
+      **Still outstanding:**
+
+      - **Molly: Promote one blog post per week on our Social Media account** — Not yet done.
+      - **Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence** — Not yet done.
+      - **Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version** — Not yet done.
+      - **Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved** — Not yet done.
+
+      > **STILL OUTSTANDING — TABATHA**
+      > Three review items are still pending: the Partner Referral Program outreach materials, the "Teeth Whitening Strips Fail for Two Reasons" blog post, and the Customer Journey Email Series. The Customer Journey Email Series in particular is holding up the Square setup we're targeting for this week, so please prioritize a review when you can.
+
+      > **STILL OUTSTANDING — MOLLY**
+      > Promote one blog post per week on our Social Media account. [Here's where all published blog posts are listed](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
+
+      That's the follow-up for now — will add more updates to this bulletin as things come in this week.
+
+      ## Quick Reference
+
+      **Next Actions Expected from the Team**
+
+      - Molly: Promote one blog post per week on our Social Media account. (Outstanding)
+      - Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence. (Outstanding)
+      - Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version. (Outstanding)
+      - Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved (target: set up in Square this week). (Outstanding)
+
+      **Links Mentioned**
+
+      - [Published Blog Posts list (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327)
+      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - [Partner 1-Pager](https://drive.google.com/file/d/1LzPSFmSIK6pYXDHmgkeLjpGl8KFXeqzi/view?usp=sharing)
+      - [Partner Posters](https://drive.google.com/drive/folders/1LmHCGHC0zW5ButNoGzA_mdSLlg5_Wiqp?usp=sharing)
+      - [Partner Outreach Email Sequence](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?tab=t.0)
+      - ["Teeth Whitening Strips Fail for Two Reasons" blog post (Google Doc)](https://docs.google.com/document/d/1SmLY8ZZV1vxesZXiM0BbEZQzDjKC0XBgW1lbcnskMTM/edit?usp=sharing)
+      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
+    `
+  },
+  {
     id: "weekly-update-07-10-26",
     date: "2026-07-10",
     title: "Weekly Marketing Update — Follow-Ups & Social Media Staffing",
