@@ -88,7 +88,19 @@ const BULLETINS = [
       - **It's already our #3 channel** out of seven, from a standing start mid-week and on a tiny budget. As we scale spend, this channel has clear room to climb.
       - **Why 63 sessions here vs. 43 link clicks in Meta?** Two different tools counting two slightly different things: Google Analytics counts *sessions* over July 12–16 and folds in any paid-social visit, while Meta counts *link clicks* on this one campaign over July 13–16. Small gaps like this between platforms are normal — the point is both tools independently confirm the ads are working.
 
-      ## 3. Follow-Up on Last Week's Next Actions
+      ## 3. Retargeting Campaign — Next Actions & Roadmap
+
+      Now that the campaign is live and delivering, here's the plan for the next few weeks. The guiding principle: let it run undisturbed so we collect clean data before we change anything. Editing a campaign too early resets Meta's learning phase and muddies the results, so patience now pays off later.
+
+      - **Week 1 (this week) — Let it run.** Angel will not touch the campaign for one full week. No changes to budget, creative, or targeting while we gather a clean baseline.
+      - **Week 2 — Test 3 new creatives.** After the first week, we'll test 3 other creatives (videos) for one week, head-to-head against the current one, to see which drive the best results.
+      - **End of Week 2 — Pick the winners.** With two weeks of data in hand, we'll identify which creatives are actually working.
+      - **After creative testing — New landing page (v2).** Once we know the winning creatives, we'll roll out a 2nd version of the landing page and pair it with those proven creatives, so the strongest ads point to a page built to convert them.
+
+      > **NEXT ACTION FOR ANGEL**
+      > Do not touch the retargeting campaign for one week. After that, test 3 new video creatives for a week (two weeks of data total), identify the winning creatives, then build the v2 landing page around them.
+
+      ## 4. Follow-Up on Last Week's Next Actions
 
       **Completed this week:**
 
