@@ -125,6 +125,10 @@ const BULLETINS = [
 
       That's the follow-up for now — will add more updates to this bulletin as things come in this week.
 
+      ## 5. Marketing Hours Reduced to 20 Hours/Week
+
+      Effective the week of July 13–16, marketing hours have been reduced to 20 hours per week. Flagging it here so the team knows what to expect: we'll be prioritizing the highest-impact work (the retargeting campaign, the partner outreach launch, and the outstanding review items) within the tighter window, so some lower-priority items may move a bit slower than usual.
+
       ## Quick Reference
 
       **Next Actions Expected from the Team**
