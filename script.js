@@ -107,6 +107,9 @@
       }
 
       const imgMatch = line.match(/^!\[([^\]]*)\]\(([^)]+)\)$/);
+      // Video embed: @[caption](url). Google Drive /view links are converted
+      // to their /preview form so they play inline in an iframe.
+      const videoMatch = line.match(/^@\[([^\]]*)\]\(([^)]+)\)$/);
 
       if (line.startsWith("## ")) {
         flushPara(); flushList(); flushCallout(); flushTable();
@@ -118,6 +121,17 @@
         html += `<figure class="bulletin-figure"><img src="${src}" alt="${alt}" loading="lazy">${
           alt ? `<figcaption>${alt}</figcaption>` : ""
         }</figure>`;
+      } else if (videoMatch) {
+        flushPara(); flushList(); flushCallout(); flushTable();
+        const caption = escapeHtml(videoMatch[1]);
+        const driveId = videoMatch[2].match(/drive\.google\.com\/file\/d\/([^/?]+)/);
+        const embedSrc = escapeHtml(
+          driveId ? `https://drive.google.com/file/d/${driveId[1]}/preview` : videoMatch[2]
+        );
+        html += `<figure class="bulletin-figure bulletin-embed"><div class="bulletin-embed-frame">` +
+          `<iframe src="${embedSrc}" allow="autoplay; fullscreen" allowfullscreen loading="lazy"></iframe></div>${
+            caption ? `<figcaption>${caption}</figcaption>` : ""
+          }</figure>`;
       } else if (line.startsWith("|") && line.endsWith("|")) {
         flushPara(); flushList(); flushCallout();
         tableBuffer.push(line);

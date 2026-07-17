@@ -38,35 +38,43 @@ const BULLETINS = [
     date: "2026-07-17",
     title: "Weekly Marketing Update — Last Week's Follow-Ups",
     body: `
-      Hi team — leading off this week with a big one: our Retargeting Ads are live. Then a quick follow-up on last week's open items. More updates to come as things develop this week.
+      Hi team — leading off with our Retargeting Ads. We launched them this week and they performed well out of the gate, but we've since paused the campaign to address concerns from the leadership team. Full context below (including a short explainer video), then a quick follow-up on last week's open items. More updates to come as things develop this week.
 
-      ## 1. Retargeting Ads Are Live
+      ## 1. Retargeting Ads — Launched, Then Paused
 
-      This week we launched our first Retargeting Ads campaign, and it's running as expected — which confirms the retargeting setup is working end to end (ad account, payment card, pixel/audience, and delivery all functioning).
+      This week we launched our first Retargeting Ads campaign. It delivered as expected out of the gate — which confirms the retargeting setup is working end to end (ad account, payment card, pixel/audience, and delivery all functioning).
+
+      > **STATUS UPDATE — CAMPAIGN PAUSED**
+      > The retargeting campaign has been deactivated for now to address concerns raised by the leadership team. To walk everyone through exactly what's happening inside our Meta Ads campaign and answer those concerns, Angel recorded a short explainer video — please watch it below.
+
+      @[Angel's explainer — what's happening in our Meta Ads campaign](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
+
+      [Open the video in Google Drive](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
 
       A quick reminder of what "retargeting" means here: instead of paying to reach cold strangers, we're paying to re-reach people who already engaged with us — in this case, everyone who interacted with our Instagram in the last 365 days. That's a warm audience that already knows the brand, so it's the most cost-efficient ad money we spend. The ads send them back to our Book an Appointment page so we can turn that interest into bookings.
 
-      **Campaign: TWL | Retargeting | IG Engagers (365d) — July 13–16, 2026 (launch through today)**
+      **Campaign: TWL | Retargeting | IG Engagers (365d) — July 12–17, 2026 (launch through pause). Status: Paused.**
 
       | Metric | Value |
       | --- | --- |
-      | Amount spent | $12.73 |
-      | Reach (unique people) | 1,264 |
-      | Impressions | 1,626 |
-      | Frequency (avg. views per person) | 1.29 |
-      | Link clicks (visitors sent to our site) | 43 |
-      | Click-through rate (CTR) | 2.77% |
-      | Cost per link click | $0.30 |
-      | CPM (cost per 1,000 impressions) | $7.83 |
+      | Amount spent | $17.42 |
+      | Reach (unique people) | 1,630 |
+      | Impressions | 2,135 |
+      | Frequency (avg. views per person) | 1.31 |
+      | Link clicks (visitors sent to our site) | 54 |
+      | Landing page views (reached our booking page) | 45 |
+      | Click-through rate (CTR) | 2.72% |
+      | Cost per landing page view (the campaign's result) | $0.39 |
+      | CPM (cost per 1,000 impressions) | $8.16 |
 
       **What the numbers mean**
 
-      - **The setup is confirmed working.** The single most important takeaway this early: the ads are delivering, spending, and sending clicks — so the whole retargeting machine we built is functioning. Everything below is a bonus read.
-      - **We reached 1,264 of our warm audience for $12.73** — a little over three days of delivery. That's roughly a penny per person to put The Whitening Lab back in front of someone who already knows us.
-      - **Frequency of 1.29 is healthy.** Each person has seen the ad about 1.3 times on average — enough to register, nowhere near ad fatigue (where people get annoyed by seeing the same ad too often).
-      - **43 link clicks at $0.30 each.** These are 43 warm visitors we actively sent back to our booking page. A ~$0.30 cost per click on a traffic campaign is inexpensive.
-      - **2.77% CTR is strong for this kind of campaign.** As a rough yardstick, a ~1% CTR is considered normal; because this is a warm audience, they click at nearly triple that rate — exactly what you'd expect (and want) from retargeting.
-      - **Caveat — it's early and small.** This is ~4 days and under $13 of spend, so treat these as directional, not final. The goal this week was to prove the channel works, and it does. We'll watch how clicks convert into actual bookings as the sample grows.
+      - **The setup is confirmed working.** The most important takeaway: before we paused it, the campaign delivered, spent, and drove real results — so the whole retargeting machine we built is functioning correctly.
+      - **We reached 1,630 of our warm audience for $17.42** — roughly a penny per person to put The Whitening Lab back in front of someone who already knows us.
+      - **Frequency of 1.31 is healthy.** Each person saw the ad about 1.3 times on average — enough to register, nowhere near ad fatigue (where people get annoyed by seeing the same ad too often).
+      - **45 landing page views at $0.39 each.** These are 45 warm people who not only clicked but actually loaded our booking page — the campaign's real "result." (Of 54 total link clicks, 45 completed the page load.) That's an inexpensive cost per result for a traffic campaign.
+      - **2.72% CTR is strong for this kind of campaign.** As a rough yardstick, a ~1% CTR is considered normal; because this is a warm audience, they clicked at nearly triple that rate — exactly what you'd expect (and want) from retargeting.
+      - **The early read was positive — the pause is about leadership alignment, not performance.** The numbers were healthy for a few days of spend. We've stopped delivery while we address the concerns raised; next steps will follow once we've aligned.
 
       ## 2. Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
 
@@ -90,7 +98,10 @@ const BULLETINS = [
 
       ## 3. Retargeting Campaign — Next Actions & Roadmap
 
-      Now that the campaign is live and delivering, here's the plan for the next few weeks. The guiding principle: let it run undisturbed so we collect clean data before we change anything. Editing a campaign too early resets Meta's learning phase and muddies the results, so patience now pays off later.
+      > **ON HOLD**
+      > This roadmap is paused while we address the leadership concerns covered in Section 1. It reflects the original plan and will resume (or be revised) once we've aligned. Sharing it here so everyone knows the intended direction.
+
+      The original plan was: now that the campaign is live and delivering, run it undisturbed for the next few weeks so we collect clean data before we change anything. Editing a campaign too early resets Meta's learning phase and muddies the results, so patience now pays off later.
 
       - **Week 1 (this week) — Let it run.** Angel will not touch the campaign for one full week. No changes to budget, creative, or targeting while we gather a clean baseline.
       - **Week 2 — Test 3 new creatives.** After the first week, we'll test 3 other creatives (videos) for one week, head-to-head against the current one, to see which drive the best results.
