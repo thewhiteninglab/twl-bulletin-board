@@ -41,9 +41,9 @@ const BULLETINS = [
     // and deep links). Set to false or remove this line to publish it.
     draft: true,
     body: `
-      Hi team — kicking off this week's updates. First up is a quick task for everyone that helps keep our website analytics accurate. More updates to come as things develop this week.
+      Hi team — a couple of updates this week: a quick analytics task for everyone, plus the recommended transition plan for Alfred's closure. Action items (for everyone and for Tabatha) are consolidated at the end. More to come as things develop this week.
 
-      ## 1. Block Internal IP Addresses in Google Analytics (Quick Task for Everyone)
+      ## 1. Block Internal IP Addresses in Google Analytics
 
       Right now, every time one of us visits thewhiteninglab.co, Google Analytics counts it as a website visitor — the same as a real customer. That inflates our numbers and makes it harder to read how our actual audience behaves. To fix it, we're going to filter out our own visits by telling Google Analytics to ignore our internet connections' IP addresses.
 
@@ -56,14 +56,33 @@ const BULLETINS = [
 
       Once Angel has them, he'll add each address to our internal IP list in Google Analytics so our own visits stop being counted as external visitors.
 
-      > **NEXT ACTION FOR EVERYONE**
-      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data).
+      ## 2. Alfred Closure — Transition Plan
+
+      Following the discussion around Alfred (see last week's update), we've prepared a recommended transition plan for its closure and shared it with Tabatha for review.
+
+      The plan lays out:
+
+      - Proposed **email newsletter and social media messaging** to announce the closure of Alfred.
+      - Other items to consider in line with the closure — for example **prepaid services, gift cards**, and similar outstanding commitments.
+
+      [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
+
+      ## 3. This Week's Next Actions
+
+      > **EVERYONE**
+      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 1).
+
+      **For Tabatha:**
+
+      - **Review the Alfred transition plan** — the proposed closure newsletter and social messaging, plus the items to consider such as prepaid services, gift cards, and other outstanding commitments. [Transition plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing).
+      - **Provide the final close date** of the Alfred location.
 
       ## Quick Reference
 
       **Links Mentioned**
 
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
+      - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
     `
   },
   {

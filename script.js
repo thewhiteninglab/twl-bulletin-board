@@ -9,9 +9,12 @@
   const sidebarTotalEl = document.getElementById("sidebar-total");
 
   // Drafts (draft: true) are hidden from the public site entirely — excluded
-  // from the sidebar, search, count, and deep links. Sort newest first.
+  // from the sidebar, search, count, and deep links. Adding ?preview=1 to the
+  // URL reveals them (marked "DRAFT") so a draft can be reviewed privately
+  // before publishing. Sort newest first.
+  const previewMode = new URLSearchParams(location.search).get("preview") === "1";
   const bulletins = [...BULLETINS]
-    .filter((b) => !b.draft)
+    .filter((b) => previewMode || !b.draft)
     .sort((a, b) => (a.date < b.date ? 1 : -1));
 
   let activeId = null;
@@ -198,7 +201,8 @@
 
       const dateLine = document.createElement("span");
       dateLine.className = "bulletin-date";
-      dateLine.innerHTML = "Update Bulletin — " + highlight(formatDate(b.date), "");
+      dateLine.innerHTML = "Update Bulletin — " + highlight(formatDate(b.date), "") +
+        (b.draft ? ' <span class="draft-tag">Draft</span>' : "");
 
       const titleLine = document.createElement("span");
       titleLine.className = "bulletin-title";
