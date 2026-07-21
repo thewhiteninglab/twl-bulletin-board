@@ -34,6 +34,36 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-07-24-26",
+    date: "2026-07-24",
+    title: "Weekly Marketing Update — Keeping Our Analytics Clean",
+    body: `
+      Hi team — kicking off this week's updates. First up is a quick task for everyone that helps keep our website analytics accurate. More updates to come as things develop this week.
+
+      ## 1. Block Internal IP Addresses in Google Analytics (Quick Task for Everyone)
+
+      Right now, every time one of us visits thewhiteninglab.co, Google Analytics counts it as a website visitor — the same as a real customer. That inflates our numbers and makes it harder to read how our actual audience behaves. To fix it, we're going to filter out our own visits by telling Google Analytics to ignore our internet connections' IP addresses.
+
+      To do that, Angel needs each team member's IP address — for every internet connection you use to view the site. Here's how to get yours:
+
+      1. Go to [whatismyip.com](https://www.whatismyip.com/).
+      2. The site automatically detects the IP address of your current internet connection.
+      3. Copy your **IPv4 address** and send it to Angel.
+      4. Do this for **each internet connection you use to view our website** — office Wi-Fi, home Wi-Fi, and mobile data — since each one has its own IP address.
+
+      Once Angel has them, he'll add each address to our internal IP list in Google Analytics so our own visits stop being counted as external visitors.
+
+      > **NEXT ACTION FOR EVERYONE**
+      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data).
+
+      ## Quick Reference
+
+      **Links Mentioned**
+
+      - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
+    `
+  },
+  {
     id: "weekly-update-07-17-26",
     date: "2026-07-17",
     title: "Weekly Marketing Update — Last Week's Follow-Ups",

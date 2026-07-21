@@ -349,7 +349,8 @@ body {
   border-left: 3px solid var(--twl-yellow);
 }
 
-.bulletin-body ul {
+.bulletin-body ul,
+.bulletin-body ol {
   margin: 0 0 18px;
   padding-left: 22px;
 }

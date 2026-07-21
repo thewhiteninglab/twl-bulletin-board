@@ -56,6 +56,7 @@
     let html = "";
     let paraBuffer = [];
     let listBuffer = [];
+    let olBuffer = [];
     let calloutBuffer = [];
     let tableBuffer = [];
 
@@ -70,6 +71,12 @@
       if (listBuffer.length) {
         html += "<ul>" + listBuffer.map((li) => `<li>${inline(li)}</li>`).join("") + "</ul>";
         listBuffer = [];
+      }
+    }
+    function flushOrderedList() {
+      if (olBuffer.length) {
+        html += "<ol>" + olBuffer.map((li) => `<li>${inline(li)}</li>`).join("") + "</ol>";
+        olBuffer = [];
       }
     }
     function flushCallout() {
@@ -102,7 +109,7 @@
       const line = rawLine.trim();
 
       if (line === "") {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         continue;
       }
 
@@ -110,22 +117,24 @@
       // Video embed: @[caption](url). Google Drive /view links are converted
       // to their /preview form so they play inline in an iframe.
       const videoMatch = line.match(/^@\[([^\]]*)\]\(([^)]+)\)$/);
+      // Ordered list: "1. step". Numbered so step order is preserved.
+      const olMatch = line.match(/^\d+\.\s+(.*)$/);
 
       if (line.startsWith("### ")) {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         html += `<h4>${inline(line.slice(4).trim())}</h4>`;
       } else if (line.startsWith("## ")) {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         html += `<h3>${inline(line.slice(3).trim())}</h3>`;
       } else if (imgMatch) {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         const alt = escapeHtml(imgMatch[1]);
         const src = escapeHtml(imgMatch[2]);
         html += `<figure class="bulletin-figure"><img src="${src}" alt="${alt}" loading="lazy">${
           alt ? `<figcaption>${alt}</figcaption>` : ""
         }</figure>`;
       } else if (videoMatch) {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         const caption = escapeHtml(videoMatch[1]);
         const driveId = videoMatch[2].match(/drive\.google\.com\/file\/d\/([^/?]+)/);
         const embedSrc = escapeHtml(
@@ -136,20 +145,23 @@
             caption ? `<figcaption>${caption}</figcaption>` : ""
           }</figure>`;
       } else if (line.startsWith("|") && line.endsWith("|")) {
-        flushPara(); flushList(); flushCallout();
+        flushPara(); flushList(); flushOrderedList(); flushCallout();
         tableBuffer.push(line);
       } else if (line.startsWith("- ")) {
-        flushPara(); flushCallout(); flushTable();
+        flushPara(); flushOrderedList(); flushCallout(); flushTable();
         listBuffer.push(line.slice(2).trim());
+      } else if (olMatch) {
+        flushPara(); flushList(); flushCallout(); flushTable();
+        olBuffer.push(olMatch[1].trim());
       } else if (line.startsWith("> ")) {
-        flushPara(); flushList(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushTable();
         calloutBuffer.push(line.slice(2).trim());
       } else {
-        flushList(); flushCallout(); flushTable();
+        flushList(); flushOrderedList(); flushCallout(); flushTable();
         paraBuffer.push(line);
       }
     }
-    flushPara(); flushList(); flushCallout(); flushTable();
+    flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
     return html;
   }
 
