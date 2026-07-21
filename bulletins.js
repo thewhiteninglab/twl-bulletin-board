@@ -37,6 +37,9 @@ const BULLETINS = [
     id: "weekly-update-07-24-26",
     date: "2026-07-24",
     title: "Weekly Marketing Update — Keeping Our Analytics Clean",
+    // draft: true hides this bulletin from the public site (sidebar, search,
+    // and deep links). Set to false or remove this line to publish it.
+    draft: true,
     body: `
       Hi team — kicking off this week's updates. First up is a quick task for everyone that helps keep our website analytics accurate. More updates to come as things develop this week.
 

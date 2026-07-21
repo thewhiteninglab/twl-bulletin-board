@@ -8,8 +8,11 @@
   const emptyStateEl = document.getElementById("empty-state");
   const sidebarTotalEl = document.getElementById("sidebar-total");
 
-  // Sort newest first
-  const bulletins = [...BULLETINS].sort((a, b) => (a.date < b.date ? 1 : -1));
+  // Drafts (draft: true) are hidden from the public site entirely — excluded
+  // from the sidebar, search, count, and deep links. Sort newest first.
+  const bulletins = [...BULLETINS]
+    .filter((b) => !b.draft)
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
 
   let activeId = null;
 
