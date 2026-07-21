@@ -131,7 +131,14 @@ const BULLETINS = [
 
       Effective the week of July 13–16, marketing hours have been reduced to 20 hours per week. Flagging it here so the team knows what to expect: we'll be prioritizing the highest-impact work (the retargeting campaign, the partner outreach launch, and the outstanding review items) within the tighter window, so some lower-priority items may move a bit slower than usual.
 
-      ## 4. This Week's Next Actions
+      ## 4. Alfred — Mentions Removed from Website & Social
+
+      Per Tabatha's instructions, all mentions of the Alfred site have been removed from our website and our social media accounts.
+
+      > **FOR THE RECORD**
+      > On the website, the Alfred changes were reverted back to their original state as of July 20, following a discussion between Tabatha, Tamara, and the attorneys.
+
+      ## 5. This Week's Next Actions
 
       A fresh batch of action items — combining the new item from this week with the ones still carried over from last week.
 
