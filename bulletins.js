@@ -38,9 +38,28 @@ const BULLETINS = [
     date: "2026-07-17",
     title: "Weekly Marketing Update — Last Week's Follow-Ups",
     body: `
-      Hi team — leading off with our Retargeting Ads. We launched them this week and they performed well out of the gate, but we've since paused the campaign to address concerns from the leadership team. Full context below (including a short explainer video), then a quick follow-up on last week's open items. More updates to come as things develop this week.
+      Hi team — here's how this week's bulletin is organized so it's easy to follow: we start with where last week's action items landed (done vs. still outstanding), then walk through this week's updates — the biggest being our Retargeting Ads launch and pause — and close with a fresh batch of next actions for everyone. Full context on each item below.
 
-      ## 1. Retargeting Ads — Launched, Then Paused
+      ## 1. Follow-Up on Last Week's Next Actions
+
+      First, where last week's action items stand.
+
+      **Completed:**
+
+      - **Tabatha: Give Angel access to bookings made by customers in Square** — Done. Angel now has access to bookings for promo code attribution.
+      - **Tabatha: Create a new Facebook account and send Angel the URL** — Done. Angel can now add it to our Meta Business account.
+      - **Tabatha: Add her payment card to our Advertising Account** — Done. Retargeting ads can now run.
+      - **Everyone: Review the July Newsletter email so you recognize code SUMMER20** — Done.
+      - **Everyone: Direct anyone asking about The Whitening Lab Startup Intensive to the registration website** — Done / ongoing.
+
+      **Still outstanding** (carried into this week's next actions at the end of the bulletin):
+
+      - **Molly: Promote one blog post per week on our Social Media account** — Not yet done.
+      - **Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence** — Not yet done.
+      - **Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version** — Not yet done.
+      - **Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved** — Not yet done.
+
+      ## 2. Retargeting Ads — Launched, Then Paused
 
       This week we launched our first Retargeting Ads campaign. It delivered as expected out of the gate — which confirms the retargeting setup is working end to end (ad account, payment card, pixel/audience, and delivery all functioning).
 
@@ -76,7 +95,7 @@ const BULLETINS = [
       - **2.72% CTR is strong for this kind of campaign.** As a rough yardstick, a ~1% CTR is considered normal; because this is a warm audience, they clicked at nearly triple that rate — exactly what you'd expect (and want) from retargeting.
       - **The early read was positive — the pause is about leadership alignment, not performance.** The numbers were healthy for a few days of spend. We've stopped delivery while we address the concerns raised; next steps will follow once we've aligned.
 
-      ## 2. Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
+      ## 3. Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
 
       The Meta numbers above show clicks leaving the ad; the question is whether those visitors actually land on our website. Our Google Analytics traffic report for July 12–16 confirms they do — **Paid Social** (which is this retargeting campaign) shows up as our **third-largest traffic source** for the week, behind only Direct and Organic Search.
 
@@ -94,60 +113,39 @@ const BULLETINS = [
 
       - **Paid Social drove 63 website sessions this week** — real people arriving on our site from the ads, not just clicks reported inside Meta. That's the confirmation we wanted: the ads deliver visitors back to us.
       - **It's already our #3 channel** out of seven, from a standing start mid-week and on a tiny budget. As we scale spend, this channel has clear room to climb.
-      - **Why 63 sessions here vs. 43 link clicks in Meta?** Two different tools counting two slightly different things: Google Analytics counts *sessions* over July 12–16 and folds in any paid-social visit, while Meta counts *link clicks* on this one campaign over July 13–16. Small gaps like this between platforms are normal — the point is both tools independently confirm the ads are working.
+      - **Why do the session counts here differ slightly from Meta's click counts?** Two different tools counting two slightly different things: Google Analytics counts *sessions* over July 12–16 and folds in any paid-social visit, while Meta counts *link clicks* and *landing page views* on this one campaign. Small gaps like this between platforms are normal — the point is both tools independently confirm the ads are working.
 
-      ## 3. Retargeting Campaign — Next Actions & Roadmap
+      ## 4. Retargeting Campaign — Roadmap (On Hold)
 
       > **ON HOLD**
-      > This roadmap is paused while we address the leadership concerns covered in Section 1. It reflects the original plan and will resume (or be revised) once we've aligned. Sharing it here so everyone knows the intended direction.
+      > This roadmap is paused while we address the leadership concerns covered in Section 2. It reflects the original plan and will resume (or be revised) once we've aligned. Sharing it here so everyone knows the intended direction.
 
       The original plan was: now that the campaign is live and delivering, run it undisturbed for the next few weeks so we collect clean data before we change anything. Editing a campaign too early resets Meta's learning phase and muddies the results, so patience now pays off later.
 
-      - **Week 1 (this week) — Let it run.** Angel will not touch the campaign for one full week. No changes to budget, creative, or targeting while we gather a clean baseline.
-      - **Week 2 — Test 3 new creatives.** After the first week, we'll test 3 other creatives (videos) for one week, head-to-head against the current one, to see which drive the best results.
-      - **End of Week 2 — Pick the winners.** With two weeks of data in hand, we'll identify which creatives are actually working.
-      - **After creative testing — New landing page (v2).** Once we know the winning creatives, we'll roll out a 2nd version of the landing page and pair it with those proven creatives, so the strongest ads point to a page built to convert them.
-
-      > **NEXT ACTION FOR ANGEL**
-      > Do not touch the retargeting campaign for one week. After that, test 3 new video creatives for a week (two weeks of data total), identify the winning creatives, then build the v2 landing page around them.
-
-      ## 4. Follow-Up on Last Week's Next Actions
-
-      **Completed this week:**
-
-      - **Tabatha: Give Angel access to bookings made by customers in Square** — Done. Angel now has access to bookings for promo code attribution.
-      - **Tabatha: Create a new Facebook account and send Angel the URL** — Done. Angel can now add it to our Meta Business account.
-      - **Tabatha: Add her payment card to our Advertising Account** — Done. Retargeting ads can now run.
-      - **Everyone: Review the July Newsletter email so you recognize code SUMMER20** — Done.
-      - **Everyone: Direct anyone asking about The Whitening Lab Startup Intensive to the registration website** — Done / ongoing.
-
-      **Still outstanding:**
-
-      - **Molly: Promote one blog post per week on our Social Media account** — Not yet done.
-      - **Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence** — Not yet done.
-      - **Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version** — Not yet done.
-      - **Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved** — Not yet done.
-
-      > **STILL OUTSTANDING — TABATHA**
-      > Three review items are still pending: the Partner Referral Program outreach materials, the "Teeth Whitening Strips Fail for Two Reasons" blog post, and the Customer Journey Email Series. The Customer Journey Email Series in particular is holding up the Square setup we're targeting for this week, so please prioritize a review when you can.
-
-      > **STILL OUTSTANDING — MOLLY**
-      > Promote one blog post per week on our Social Media account. [Here's where all published blog posts are listed](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
-
-      That's the follow-up for now — will add more updates to this bulletin as things come in this week.
+      - **Week 1 — Let it run.** Leave the campaign untouched for one full week. No changes to budget, creative, or targeting while we gather a clean baseline.
+      - **Week 2 — Test 3 new creatives.** After the first week, test 3 other creatives (videos) for one week, head-to-head against the current one, to see which drive the best results.
+      - **End of Week 2 — Pick the winners.** With two weeks of data in hand, identify which creatives are actually working.
+      - **After creative testing — New landing page (v2).** Once we know the winning creatives, roll out a 2nd version of the landing page and pair it with those proven creatives, so the strongest ads point to a page built to convert them.
 
       ## 5. Marketing Hours Reduced to 20 Hours/Week
 
       Effective the week of July 13–16, marketing hours have been reduced to 20 hours per week. Flagging it here so the team knows what to expect: we'll be prioritizing the highest-impact work (the retargeting campaign, the partner outreach launch, and the outstanding review items) within the tighter window, so some lower-priority items may move a bit slower than usual.
 
+      ## 6. This Week's Next Actions
+
+      A fresh batch of action items — combining the new item from this week with the ones still carried over from last week.
+
+      > **NEW — EVERYONE**
+      > Watch Angel's explainer video on our Meta Ads campaign (in Section 2) so we're all on the same page about the retargeting pause and can help address the leadership team's concerns.
+
+      **Carried over from last week:**
+
+      - **Molly:** Promote one blog post per week on our Social Media account. [Published blog posts are listed here](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
+      - **Tabatha:** Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence.
+      - **Tabatha:** Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version.
+      - **Tabatha:** Review the Customer Journey Email Series and let Angel know if it's approved. This one is holding up the Square setup, so please prioritize it when you can.
+
       ## Quick Reference
-
-      **Next Actions Expected from the Team**
-
-      - Molly: Promote one blog post per week on our Social Media account. (Outstanding)
-      - Tabatha: Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence. (Outstanding)
-      - Tabatha: Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version. (Outstanding)
-      - Tabatha: Review the Customer Journey Email Series and let Angel know if it's approved (target: set up in Square this week). (Outstanding)
 
       **Links Mentioned**
 
