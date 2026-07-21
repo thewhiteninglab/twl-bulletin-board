@@ -151,7 +151,6 @@ const BULLETINS = [
 
       - **The engaged group is exceptional.** A 65.75% open rate and 19.69% click rate sit well above ecommerce email benchmarks (which typically land around 35–45% open and ~2% click). This is our warmest audience, and they're highly responsive.
       - **The unengaged group is warming up too.** Even contacts who ignored June's campaigns opened at 44.33% and clicked at 2.56% — right in line with (or above) typical benchmarks. The list as a whole is reacting well to our newsletters and getting more receptive over time.
-      - **Clicks are the signal to trust most.** Apple's Mail Privacy Protection auto-opens inflate open rates (especially for the larger unengaged group), but clicks aren't inflated that way — and clicks are healthy in both segments, which is the real proof of interest.
       - **Zero spam complaints to date.** Across every campaign in the report we have 0 complaints — a strong sign our content is wanted and our sender reputation is clean.
       - **One cleanup item: the unengaged group's 18.41% bounce rate.** That's high (mostly soft bounces on older, inactive addresses). We'll remove these bounced accounts so we keep a clean mailing list going forward — which also protects our deliverability.
 
