@@ -127,18 +127,48 @@ const BULLETINS = [
       - **End of Week 2 — Pick the winners.** With two weeks of data in hand, identify which creatives are actually working.
       - **After creative testing — New landing page (v2).** Once we know the winning creatives, roll out a 2nd version of the landing page and pair it with those proven creatives, so the strongest ads point to a page built to convert them.
 
-      ## 3. Marketing Hours Reduced to 20 Hours/Week
+      ## 3. Email Marketing — Strong Numbers on the July Newsletter
+
+      Our email channel is performing well, and the standout is our July "Beyond the Lab" Newsletter. Building on June's Starter Campaigns (the Referral, RETURN20, and SMILEPEN emails), we split the July Newsletter into two audiences and sent each its own send:
+
+      - **Engaged group** — contacts who opened or clicked our June Starter Campaigns.
+      - **Unengaged group** — contacts who did *not* engage with those June campaigns.
+
+      Sending the same newsletter to both segments lets us measure how each is warming up to us.
+
+      | Metric | Engaged group | Unengaged group |
+      | --- | --- | --- |
+      | Sent | 256 | 1,244 |
+      | Delivered | 254 (99.22%) | 1,015 (81.59%) |
+      | Open rate | 65.75% | 44.33% |
+      | Click rate | 19.69% | 2.56% |
+      | Click-to-open rate | 29.94% | 5.78% |
+      | Unsubscribe rate | 1.57% | 0.69% |
+      | Bounce / non-delivered rate | 0.78% | 18.41% |
+      | Spam complaints | 0 | 0 |
+
+      **What the numbers mean**
+
+      - **The engaged group is exceptional.** A 65.75% open rate and 19.69% click rate sit well above ecommerce email benchmarks (which typically land around 35–45% open and ~2% click). This is our warmest audience, and they're highly responsive.
+      - **The unengaged group is warming up too.** Even contacts who ignored June's campaigns opened at 44.33% and clicked at 2.56% — right in line with (or above) typical benchmarks. The list as a whole is reacting well to our newsletters and getting more receptive over time.
+      - **Clicks are the signal to trust most.** Apple's Mail Privacy Protection auto-opens inflate open rates (especially for the larger unengaged group), but clicks aren't inflated that way — and clicks are healthy in both segments, which is the real proof of interest.
+      - **Zero spam complaints to date.** Across every campaign in the report we have 0 complaints — a strong sign our content is wanted and our sender reputation is clean.
+      - **One cleanup item: the unengaged group's 18.41% bounce rate.** That's high (mostly soft bounces on older, inactive addresses). We'll remove these bounced accounts so we keep a clean mailing list going forward — which also protects our deliverability.
+
+      Looking ahead, the August Newsletter will feature our "Teeth Whitening Strips Fail for Two Reasons" blog post (pending Tabatha's review — see This Week's Next Actions).
+
+      ## 4. Marketing Hours Reduced to 20 Hours/Week
 
       Effective the week of July 13–16, marketing hours have been reduced to 20 hours per week. Flagging it here so the team knows what to expect: we'll be prioritizing the highest-impact work (the retargeting campaign, the partner outreach launch, and the outstanding review items) within the tighter window, so some lower-priority items may move a bit slower than usual.
 
-      ## 4. Alfred — Mentions Removed from Website & Social
+      ## 5. Alfred — Mentions Removed from Website & Social
 
       Per Tabatha's instructions, all mentions of the Alfred site have been removed from our website and our social media accounts.
 
       > **FOR THE RECORD**
       > On the website, the Alfred changes were reverted back to their original state as of July 20, following a discussion between Tabatha, Tamara, and the attorneys.
 
-      ## 5. This Week's Next Actions
+      ## 6. This Week's Next Actions
 
       A fresh batch of action items — combining the new item from this week with the ones still carried over from last week.
 
@@ -149,7 +179,7 @@ const BULLETINS = [
 
       - **Molly:** Promote one blog post per week on our Social Media account. [Published blog posts are listed here](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
       - **Tabatha:** Review the Partner Referral Program mechanics, Partner 1-Pager, Partner Posters, and Partner Outreach Email Sequence.
-      - **Tabatha:** Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version.
+      - **Tabatha:** Read and (optionally) edit the "Teeth Whitening Strips Fail for Two Reasons" blog post, then let Angel know once it's the approved version. Following up from last week — we plan to feature this post in the August Newsletter, so it now ties directly into email marketing.
       - **Tabatha:** Review the Customer Journey Email Series and let Angel know if it's approved. This one is holding up the Square setup, so please prioritize it when you can.
 
       ## Quick Reference
