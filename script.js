@@ -111,7 +111,10 @@
       // to their /preview form so they play inline in an iframe.
       const videoMatch = line.match(/^@\[([^\]]*)\]\(([^)]+)\)$/);
 
-      if (line.startsWith("## ")) {
+      if (line.startsWith("### ")) {
+        flushPara(); flushList(); flushCallout(); flushTable();
+        html += `<h4>${inline(line.slice(4).trim())}</h4>`;
+      } else if (line.startsWith("## ")) {
         flushPara(); flushList(); flushCallout(); flushTable();
         html += `<h3>${inline(line.slice(3).trim())}</h3>`;
       } else if (imgMatch) {

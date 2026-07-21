@@ -95,7 +95,7 @@ const BULLETINS = [
       - **2.72% CTR is strong for this kind of campaign.** As a rough yardstick, a ~1% CTR is considered normal; because this is a warm audience, they clicked at nearly triple that rate — exactly what you'd expect (and want) from retargeting.
       - **The early read was positive — the pause is about leadership alignment, not performance.** The numbers were healthy for a few days of spend. We've stopped delivery while we address the concerns raised; next steps will follow once we've aligned.
 
-      ## 3. Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
+      ### Proof the Ads Are Sending Visitors Back to the Site (Google Analytics, July 12–16)
 
       The Meta numbers above show clicks leaving the ad; the question is whether those visitors actually land on our website. Our Google Analytics traffic report for July 12–16 confirms they do — **Paid Social** (which is this retargeting campaign) shows up as our **third-largest traffic source** for the week, behind only Direct and Organic Search.
 
@@ -115,10 +115,10 @@ const BULLETINS = [
       - **It's already our #3 channel** out of seven, from a standing start mid-week and on a tiny budget. As we scale spend, this channel has clear room to climb.
       - **Why do the session counts here differ slightly from Meta's click counts?** Two different tools counting two slightly different things: Google Analytics counts *sessions* over July 12–16 and folds in any paid-social visit, while Meta counts *link clicks* and *landing page views* on this one campaign. Small gaps like this between platforms are normal — the point is both tools independently confirm the ads are working.
 
-      ## 4. Retargeting Campaign — Roadmap (On Hold)
+      ### Retargeting Campaign — Roadmap (On Hold)
 
       > **ON HOLD**
-      > This roadmap is paused while we address the leadership concerns covered in Section 2. It reflects the original plan and will resume (or be revised) once we've aligned. Sharing it here so everyone knows the intended direction.
+      > This roadmap is paused while we address the leadership concerns covered above in this section. It reflects the original plan and will resume (or be revised) once we've aligned. Sharing it here so everyone knows the intended direction.
 
       The original plan was: now that the campaign is live and delivering, run it undisturbed for the next few weeks so we collect clean data before we change anything. Editing a campaign too early resets Meta's learning phase and muddies the results, so patience now pays off later.
 
@@ -127,11 +127,11 @@ const BULLETINS = [
       - **End of Week 2 — Pick the winners.** With two weeks of data in hand, identify which creatives are actually working.
       - **After creative testing — New landing page (v2).** Once we know the winning creatives, roll out a 2nd version of the landing page and pair it with those proven creatives, so the strongest ads point to a page built to convert them.
 
-      ## 5. Marketing Hours Reduced to 20 Hours/Week
+      ## 3. Marketing Hours Reduced to 20 Hours/Week
 
       Effective the week of July 13–16, marketing hours have been reduced to 20 hours per week. Flagging it here so the team knows what to expect: we'll be prioritizing the highest-impact work (the retargeting campaign, the partner outreach launch, and the outstanding review items) within the tighter window, so some lower-priority items may move a bit slower than usual.
 
-      ## 6. This Week's Next Actions
+      ## 4. This Week's Next Actions
 
       A fresh batch of action items — combining the new item from this week with the ones still carried over from last week.
 
