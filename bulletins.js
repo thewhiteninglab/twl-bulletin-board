@@ -67,13 +67,22 @@ const BULLETINS = [
 
       [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
 
-      ## 3. This Week's Next Actions
+      ## 3. New Blog for Review — Publishing Monday
+
+      A new blog post is ready for Tabatha's review, targeted for publishing on Monday.
+
+      Title: **"Teeth Whitening Prices Are All Over the Map. Here's Why."**
+
+      [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
+
+      ## 4. This Week's Next Actions
 
       > **EVERYONE**
       > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 1).
 
       **For Tabatha:**
 
+      - **Review the new blog post** "Teeth Whitening Prices Are All Over the Map. Here's Why." and let Angel know once it's approved — targeted for publishing on Monday. [Blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing).
       - **Review the Alfred transition plan** — the proposed closure newsletter and social messaging, plus the items to consider such as prepaid services, gift cards, and other outstanding commitments. [Transition plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing).
       - **Provide the final close date** of the Alfred location.
 
@@ -83,6 +92,7 @@ const BULLETINS = [
 
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
       - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
+      - ["Teeth Whitening Prices Are All Over the Map. Here's Why." blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
     `
   },
   {
