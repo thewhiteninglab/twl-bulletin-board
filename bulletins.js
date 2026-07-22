@@ -67,13 +67,12 @@ const BULLETINS = [
 
       [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
 
-      ## 3. New Blog for Review — Publishing Monday
+      ## 3. New Blogs for Review
 
-      A new blog post is ready for Tabatha's review, targeted for publishing on Monday.
+      Two new blog posts are ready for Tabatha's review and approval, each with its own target publish date:
 
-      Title: **"Teeth Whitening Prices Are All Over the Map. Here's Why."**
-
-      [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
+      - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
+      - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
 
       ## 4. This Week's Next Actions
 
@@ -82,7 +81,8 @@ const BULLETINS = [
 
       **For Tabatha:**
 
-      - **Review the new blog post** "Teeth Whitening Prices Are All Over the Map. Here's Why." and let Angel know once it's approved — targeted for publishing on Monday. [Blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing).
+      - **Review and approve the blog post** "Teeth Whitening Prices Are All Over the Map. Here's Why." and let Angel know once it's approved — targeted for publishing on Monday. [Blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing).
+      - **Review and approve the blog post** "Does Whitening Damage Your Enamel? The Honest Answer." and let Angel know once it's approved — targeted for publishing August 8. [Blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing).
       - **Review the Alfred transition plan** — the proposed closure newsletter and social messaging, plus the items to consider such as prepaid services, gift cards, and other outstanding commitments. [Transition plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing).
       - **Provide the final close date** of the Alfred location.
 
@@ -93,6 +93,7 @@ const BULLETINS = [
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
       - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
       - ["Teeth Whitening Prices Are All Over the Map. Here's Why." blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
+      - ["Does Whitening Damage Your Enamel? The Honest Answer." blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
     `
   },
   {
