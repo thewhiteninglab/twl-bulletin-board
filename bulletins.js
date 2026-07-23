@@ -74,17 +74,34 @@ const BULLETINS = [
       - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
 
-      ## 4. This Week's Next Actions
+      ## 4. Podcast Guesting — Earned Media Opportunity
+
+      Today (July 23), Tabatha is guesting on a podcast. This is a valuable earned-media opportunity, and we want to squeeze the most out of it — not just for traditional SEO (a backlink and brand mentions), but also for GEO (Generative Engine Optimization: getting The Whitening Lab recognized and surfaced by AI platforms). Podcast transcripts get indexed, so both what's said on air and how we're linked afterward matter.
+
+      Here's what we're executing to maximize it:
+
+      - **Get the backlink.** Ask the host for a show notes link to thewhiteninglab.co — that's the backlink that supports our SEO.
+      - **Name the studio and location on air.** Mention the studio name and our Gray location explicitly during the episode. Transcripts get indexed, and unnamed references (e.g. "a whitening studio in Maine") do nothing for entity building — naming us explicitly is what ties the mention to our brand.
+      - **Send Angel the links.** Once it's live, provide Angel the link to the podcast episode and to the show notes.
+
+      Angel will then log this as an Earned Media Placement so it counts toward our SEO and GEO efforts.
+
+      ## 5. This Week's Next Actions
 
       > **EVERYONE**
       > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 1).
 
       **For Tabatha:**
 
+      - **Podcast follow-up (today's guesting).** During/after the episode: ask the host for a show notes backlink to thewhiteninglab.co; make sure you name the studio and our Gray location explicitly on air; and send Angel the links to the episode and the show notes.
       - **Review and approve the blog post** "Teeth Whitening Prices Are All Over the Map. Here's Why." and let Angel know once it's approved — targeted for publishing on Monday. [Blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing).
       - **Review and approve the blog post** "Does Whitening Damage Your Enamel? The Honest Answer." and let Angel know once it's approved — targeted for publishing August 8. [Blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing).
       - **Review the Alfred transition plan** — the proposed closure newsletter and social messaging, plus the items to consider such as prepaid services, gift cards, and other outstanding commitments. [Transition plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing).
       - **Provide the final close date** of the Alfred location.
+
+      **For Angel:**
+
+      - **Log the podcast as an Earned Media Placement** (once Tabatha sends the episode and show notes links) to complete our SEO and GEO efforts.
 
       ## Quick Reference
 
