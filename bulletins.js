@@ -116,7 +116,37 @@ const BULLETINS = [
       > **Tabatha:** Ask the host for a show-notes backlink to thewhiteninglab.co, name the studio and our Gray location explicitly on air, and send Angel the episode and show notes links.
       > **Angel:** Log the podcast as an Earned Media Placement once the links arrive.
 
-      ## 6. This Week's Next Actions — Summary
+      ## 6. SEO & GEO (AI Visibility) — Audit Summary
+
+      Angel completed an SEO and GEO (AI visibility) audit for The Whitening Lab. Here's the quick version.
+
+      ### The headline: it's already working
+
+      The website is in good shape for a business this size, and the most encouraging finding is that it's already working:
+
+      - The site **ranks at the top for "teeth whitening Portland Maine."**
+      - A blog post published in July was already being **pulled into AI-generated search answers within two weeks.**
+
+      The audit surfaced three kinds of work: **technical fixes**, a **content gap**, and a set of **opportunities around getting found by AI tools** like ChatGPT and Google's AI answers. Next actions are ongoing.
+
+      **Completed so far:**
+
+      - **PRIORITY —** www vs non-www canonical split (canonicals, redirect, Domain property, sitemap).
+      - **PRIORITY —** Lovable placeholder og:images replaced.
+      - **GEO —** llms.txt live at the site root.
+      - **GEO —** Named, credentialed bylines + author bio pages.
+      - **GEO —** Google Business Profile built out.
+
+      ### Quick primer: SEO vs GEO
+
+      - **SEO (traditional search):** being found when someone types "teeth whitening near Portland" into Google and the studio appears in the results.
+      - **GEO (AI visibility):** being found and *named* when someone asks an AI assistant. More and more people ask ChatGPT or Google's AI summary something like "where should I get my teeth whitened in southern Maine" and get a short answer naming a couple of businesses instead of a list of ten links. Being one of the businesses named is a different job from ranking — and it's becoming just as important.
+      - **The good news:** TWL is ahead of local competitors on GEO.
+
+      > **NEXT ACTION — ANGEL**
+      > Complete the remaining to-dos for our SEO and GEO improvements.
+
+      ## 7. This Week's Next Actions — Summary
 
       A quick roll-up of this week's action items (full detail in each section above). Carried-over open items from previous weeks are in Section 1.
 
@@ -133,6 +163,7 @@ const BULLETINS = [
       **Angel**
 
       - Log the podcast as an Earned Media Placement once the links arrive (Section 5).
+      - Complete the remaining SEO and GEO improvement to-dos (Section 6).
 
       ## Quick Reference
 
