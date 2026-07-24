@@ -92,13 +92,14 @@ const BULLETINS = [
 
       ## 4. New Blogs for Review
 
-      Two new blog posts are ready for Tabatha's review and approval, each with its own target publish date:
+      Three new blog posts are ready for Tabatha's review and approval:
 
       - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
+      - **"Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast."** — this is our way to promote Tabatha and Courtney's podcast guesting. Once approved, we'll publish it next on our website — another opportunity to strengthen our SEO/GEO. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1EGysv7pyS3ekFpsvt74C7hbkdlnayokY72VsNqF8NW4/edit?usp=sharing)
 
       > **NEXT ACTION — TABATHA**
-      > Review and approve both blog posts — "Teeth Whitening Prices Are All Over the Map. Here's Why." (publishing Monday) and "Does Whitening Damage Your Enamel? The Honest Answer." (publishing August 8) — and let Angel know once each is approved.
+      > Review and approve all three blog posts, and let Angel know once each is approved: "Teeth Whitening Prices Are All Over the Map. Here's Why." (publishing Monday), "Does Whitening Damage Your Enamel? The Honest Answer." (publishing August 8), and "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast." (publishing next).
 
       ## 5. Podcast Guesting — Earned Media Opportunity
 
@@ -184,7 +185,7 @@ const BULLETINS = [
       **Tabatha**
 
       - Review the Alfred Closure Transition Plan and provide the final close date (Section 3).
-      - Review and approve both new blog posts — publishing Monday and August 8 (Section 4).
+      - Review and approve all three new blog posts — publishing Monday, August 8, and the podcast recap next (Section 4).
       - Podcast follow-up: get the show-notes backlink, name the studio and Gray location on air, and send Angel the episode and show notes links (Section 5).
 
       **Angel**
@@ -209,6 +210,7 @@ const BULLETINS = [
       - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
       - ["Teeth Whitening Prices Are All Over the Map. Here's Why." blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - ["Does Whitening Damage Your Enamel? The Honest Answer." blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
+      - ["Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast." blog post (Google Doc)](https://docs.google.com/document/d/1EGysv7pyS3ekFpsvt74C7hbkdlnayokY72VsNqF8NW4/edit?usp=sharing)
     `
   },
   {
