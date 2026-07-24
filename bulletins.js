@@ -146,7 +146,32 @@ const BULLETINS = [
       > **NEXT ACTION — ANGEL**
       > Complete the remaining to-dos for our SEO and GEO improvements.
 
-      ## 7. This Week's Next Actions — Summary
+      ## 7. Marketing Analytics Snapshot — April 26 to July 18
+
+      A quarter's snapshot of our Google Analytics and social analytics (April 26 – July 18). [Full report (Google Sheet)](https://docs.google.com/spreadsheets/d/1ChRlG3V_mtigeXCNOuF8aHUWR3-beXw1xRnIFVUuJa8/edit?usp=sharing).
+
+      ### What's going well
+
+      - **Website traffic is at its highest point in 12 weeks** — and it's been climbing three weeks straight.
+      - **Google search is our steadiest source of visitors** — it brings in almost half our traffic every week.
+      - **Most importantly, visits from people in Maine are growing.** Those are the people who can actually book with us.
+
+      ### What needs attention
+
+      **Instagram gets seen but not clicked.** We had almost 880,000 views this quarter, but only a few hundred people clicked through, and we gained fewer than 200 followers. We want to convert those views into website visitors — more visitors to our site means more bookings. Two ways to bring people over:
+
+      - Promote our products in our posts/reels, then drop the website link in the comments (just like we're doing with Tabatha's PDF guide).
+      - Promote blog posts in our posts/reels to bring our audience to the website.
+
+      **Two reels in early May went viral.** We need to study what made them work so we can repeat it — and add stronger "book now" prompts to our videos to improve conversion.
+
+      **Our Google Business Profile is cooling off.** Calls, direction requests, and profile visits have slipped each month since April — and this is where our most ready-to-book customers find us.
+
+      > **NEXT ACTIONS — ANGEL & OPERATIONS TEAM**
+      > **Angel:** Post weekly on our Google Business Profile and add fresh photos to reverse the decline (already started).
+      > **Operations Team:** Ask happy clients for Google reviews.
+
+      ## 8. This Week's Next Actions — Summary
 
       A quick roll-up of this week's action items (full detail in each section above). Carried-over open items from previous weeks are in Section 1.
 
@@ -164,6 +189,11 @@ const BULLETINS = [
 
       - Log the podcast as an Earned Media Placement once the links arrive (Section 5).
       - Complete the remaining SEO and GEO improvement to-dos (Section 6).
+      - Post weekly on our Google Business Profile and add fresh photos — already started (Section 7).
+
+      **Operations Team**
+
+      - Ask happy clients for Google reviews (Section 7).
 
       ## Quick Reference
 
@@ -172,6 +202,7 @@ const BULLETINS = [
       - [Published Blog Posts list (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327)
       - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
       - [Angel's Meta Ads explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
+      - [Marketing Analytics Snapshot report — Apr 26–Jul 18 (Google Sheet)](https://docs.google.com/spreadsheets/d/1ChRlG3V_mtigeXCNOuF8aHUWR3-beXw1xRnIFVUuJa8/edit?usp=sharing)
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
       - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
       - ["Teeth Whitening Prices Are All Over the Map. Here's Why." blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
