@@ -37,9 +37,6 @@ const BULLETINS = [
     id: "weekly-update-07-24-26",
     date: "2026-07-24",
     title: "Weekly Marketing Update — Keeping Our Analytics Clean",
-    // draft: true hides this bulletin from the public site (sidebar, search,
-    // and deep links). Set to false or remove this line to publish it.
-    draft: true,
     body: `
       Hi team — a couple of updates this week: a quick analytics task for everyone, plus the recommended transition plan for Alfred's closure. Action items (for everyone and for Tabatha) are consolidated at the end. More to come as things develop this week.
 
