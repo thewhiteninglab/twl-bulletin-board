@@ -158,14 +158,16 @@ const BULLETINS = [
 
       ### What needs attention
 
-      **Instagram gets seen but not clicked.** We had almost 880,000 views this quarter, but only a few hundred people clicked through, and we gained fewer than 200 followers. We want to convert those views into website visitors — more visitors to our site means more bookings. Two ways to bring people over:
+      **Instagram gets seen but not clicked.** We had almost 880,000 views this quarter, but only a few hundred people clicked through, and we gained fewer than 200 followers. We want to convert those views into website visitors — more visitors to our site means more bookings.
 
-      - Promote our products in our posts/reels, then drop the website link in the comments (just like we're doing with Tabatha's PDF guide).
-      - Promote blog posts in our posts/reels to bring our audience to the website.
-
-      **Two reels in early May went viral.** We need to study what made them work so we can repeat it — and add stronger "book now" prompts to our videos to improve conversion.
+      **Two reels in early May went viral.** Big reach, but we haven't yet turned that into site traffic or bookings.
 
       **Our Google Business Profile is cooling off.** Calls, direction requests, and profile visits have slipped each month since April — and this is where our most ready-to-book customers find us.
+
+      > **RECOMMENDATION — Turn Instagram reach into website visits**
+      > • Promote our products in our posts/reels, then drop the website link in the comments (just like we're doing with Tabatha's PDF guide).
+      > • Promote blog posts in our posts/reels to bring our audience to the website.
+      > • Study the two early-May viral reels to learn what made them work so we can repeat it — and add stronger "book now" prompts to our videos to improve conversion.
 
       > **NEXT ACTIONS — ANGEL & OPERATIONS TEAM**
       > **Angel:** Post weekly on our Google Business Profile and add fresh photos to reverse the decline (already started).
