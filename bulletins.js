@@ -38,9 +38,29 @@ const BULLETINS = [
     date: "2026-07-24",
     title: "Weekly Marketing Update — Keeping Our Analytics Clean",
     body: `
-      Hi team — a couple of updates this week: a quick analytics task for everyone, plus the recommended transition plan for Alfred's closure. Action items (for everyone and for Tabatha) are consolidated at the end. More to come as things develop this week.
+      Hi team — we're leading off with the open items still outstanding from the past few weeks (July 3–17) — please help close these out. Then this week's new updates, with this week's fresh action items consolidated at the end.
 
-      ## 1. Block Internal IP Addresses in Google Analytics
+      ## 1. Open Items from Previous Weeks — Please Close Out
+
+      Before this week's updates, here are the action items still open from the past few weeks. Let's get these wrapped up.
+
+      **1. Molly — Promote one blog post per week on Social Media.** Please promote our blog posts once a week. This gives our audience educational material and brings them to our website (where we can encourage them to book a session). It also adds them to our audience list, so we can target them later when we run paid ads. [See the list of published blog posts (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327).
+
+      **2. Tabatha — Review the Partner Referral Program materials** (mechanics, 1-Pager, Posters, Outreach Email Sequence). Please review our Partner Program materials. This lets us collaborate with other businesses to bring their audience to learn about The Whitening Lab. [See the Partner Program details (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing). Key items to decide on:
+
+      1. Are you okay with giving complimentary experience sessions to our potential partners?
+      2. Are you okay giving a ONE-TIME $20 off to partner referrals?
+      3. Can we put a Partner Board in our studio to promote our partners to our customers?
+      4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
+      5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
+
+      **3. Tabatha — Review the Customer Journey Email Series and approve** (this is blocking the Square setup). This email series will be configured so that a sequence of emails gets sent after a customer's first booking. It ensures the customer keeps moving forward and continues as a paying, active customer after their first session.
+
+      **4. Everyone — Watch Angel's explainer video on the Meta Ads campaign.** The video explains the importance and the results of our Meta Ads, since we decided to stop the campaign after running it for a few days.
+
+      @[Angel's explainer — what's happening in our Meta Ads campaign](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
+
+      ## 2. Block Internal IP Addresses in Google Analytics
 
       Right now, every time one of us visits thewhiteninglab.co, Google Analytics counts it as a website visitor — the same as a real customer. That inflates our numbers and makes it harder to read how our actual audience behaves. To fix it, we're going to filter out our own visits by telling Google Analytics to ignore our internet connections' IP addresses.
 
@@ -53,7 +73,7 @@ const BULLETINS = [
 
       Once Angel has them, he'll add each address to our internal IP list in Google Analytics so our own visits stop being counted as external visitors.
 
-      ## 2. Alfred Closure — Transition Plan
+      ## 3. Alfred Closure — Transition Plan
 
       Following the discussion around Alfred (see last week's update), we've prepared a recommended transition plan for its closure and shared it with Tabatha for review.
 
@@ -64,14 +84,14 @@ const BULLETINS = [
 
       [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
 
-      ## 3. New Blogs for Review
+      ## 4. New Blogs for Review
 
       Two new blog posts are ready for Tabatha's review and approval, each with its own target publish date:
 
       - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
 
-      ## 4. Podcast Guesting — Earned Media Opportunity
+      ## 5. Podcast Guesting — Earned Media Opportunity
 
       Today (July 23), Tabatha is guesting on a podcast. This is a valuable earned-media opportunity, and we want to squeeze the most out of it — not just for traditional SEO (a backlink and brand mentions), but also for GEO (Generative Engine Optimization: getting The Whitening Lab recognized and surfaced by AI platforms). Podcast transcripts get indexed, so both what's said on air and how we're linked afterward matter.
 
@@ -83,10 +103,10 @@ const BULLETINS = [
 
       Angel will then log this as an Earned Media Placement so it counts toward our SEO and GEO efforts.
 
-      ## 5. This Week's Next Actions
+      ## 6. This Week's Next Actions
 
       > **EVERYONE**
-      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 1).
+      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 2).
 
       **For Tabatha:**
 
@@ -104,6 +124,9 @@ const BULLETINS = [
 
       **Links Mentioned**
 
+      - [Published Blog Posts list (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327)
+      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - [Angel's Meta Ads explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
       - [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
       - ["Teeth Whitening Prices Are All Over the Map. Here's Why." blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
