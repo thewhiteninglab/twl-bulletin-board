@@ -73,6 +73,9 @@ const BULLETINS = [
 
       Once Angel has them, he'll add each address to our internal IP list in Google Analytics so our own visits stop being counted as external visitors.
 
+      > **NEXT ACTION — EVERYONE**
+      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you use (office, home, mobile data).
+
       ## 3. Alfred Closure — Transition Plan
 
       Following the discussion around Alfred (see last week's update), we've prepared a recommended transition plan for its closure and shared it with Tabatha for review.
@@ -84,12 +87,18 @@ const BULLETINS = [
 
       [Alfred Transition Plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing)
 
+      > **NEXT ACTION — TABATHA**
+      > Review the Alfred Closure Transition Plan document, then provide the final close date of the Alfred location.
+
       ## 4. New Blogs for Review
 
       Two new blog posts are ready for Tabatha's review and approval, each with its own target publish date:
 
       - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
+
+      > **NEXT ACTION — TABATHA**
+      > Review and approve both blog posts — "Teeth Whitening Prices Are All Over the Map. Here's Why." (publishing Monday) and "Does Whitening Damage Your Enamel? The Honest Answer." (publishing August 8) — and let Angel know once each is approved.
 
       ## 5. Podcast Guesting — Earned Media Opportunity
 
@@ -103,22 +112,27 @@ const BULLETINS = [
 
       Angel will then log this as an Earned Media Placement so it counts toward our SEO and GEO efforts.
 
-      ## 6. This Week's Next Actions
+      > **NEXT ACTIONS — TABATHA & ANGEL**
+      > **Tabatha:** Ask the host for a show-notes backlink to thewhiteninglab.co, name the studio and our Gray location explicitly on air, and send Angel the episode and show notes links.
+      > **Angel:** Log the podcast as an Earned Media Placement once the links arrive.
 
-      > **EVERYONE**
-      > Go to [whatismyip.com](https://www.whatismyip.com/), copy your IPv4 address, and send it to Angel — once for each connection you browse the site from (office, home, mobile data). This lets us filter our own visits out of Google Analytics (see Section 2).
+      ## 6. This Week's Next Actions — Summary
 
-      **For Tabatha:**
+      A quick roll-up of this week's action items (full detail in each section above). Carried-over open items from previous weeks are in Section 1.
 
-      - **Podcast follow-up (today's guesting).** During/after the episode: ask the host for a show notes backlink to thewhiteninglab.co; make sure you name the studio and our Gray location explicitly on air; and send Angel the links to the episode and the show notes.
-      - **Review and approve the blog post** "Teeth Whitening Prices Are All Over the Map. Here's Why." and let Angel know once it's approved — targeted for publishing on Monday. [Blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing).
-      - **Review and approve the blog post** "Does Whitening Damage Your Enamel? The Honest Answer." and let Angel know once it's approved — targeted for publishing August 8. [Blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing).
-      - **Review the Alfred transition plan** — the proposed closure newsletter and social messaging, plus the items to consider such as prepaid services, gift cards, and other outstanding commitments. [Transition plan (Google Doc)](https://docs.google.com/document/d/1SU0a-vN3paiAXanvx_jPtpdffb8mp7L2sjEKjzHWL18/edit?usp=sharing).
-      - **Provide the final close date** of the Alfred location.
+      **Everyone**
 
-      **For Angel:**
+      - Send Angel your IPv4 address from [whatismyip.com](https://www.whatismyip.com/) for each connection you use — office, home, mobile (Section 2).
 
-      - **Log the podcast as an Earned Media Placement** (once Tabatha sends the episode and show notes links) to complete our SEO and GEO efforts.
+      **Tabatha**
+
+      - Review the Alfred Closure Transition Plan and provide the final close date (Section 3).
+      - Review and approve both new blog posts — publishing Monday and August 8 (Section 4).
+      - Podcast follow-up: get the show-notes backlink, name the studio and Gray location on air, and send Angel the episode and show notes links (Section 5).
+
+      **Angel**
+
+      - Log the podcast as an Earned Media Placement once the links arrive (Section 5).
 
       ## Quick Reference
 
