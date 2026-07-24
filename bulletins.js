@@ -92,30 +92,28 @@ const BULLETINS = [
 
       ## 4. New Blogs for Review
 
-      Three new blog posts are ready for Tabatha's review and approval:
+      Two new blog posts are ready for Tabatha's review and approval, each with its own target publish date:
 
       - **"Teeth Whitening Prices Are All Over the Map. Here's Why."** — targeted for publishing on Monday. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1bGz6WJfkSW_hCQx-0qVj7gZot0IiJTf9HBVejZtFIqc/edit?usp=sharing)
       - **"Does Whitening Damage Your Enamel? The Honest Answer."** — targeted for publishing August 8. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1O3vaEyuJ_zynfWVaMqDXySoz1vf5F4jsBC-i2LVayog/edit?usp=sharing)
-      - **"Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast."** — this is our way to promote Tabatha and Courtney's podcast guesting. Once approved, we'll publish it next on our website — another opportunity to strengthen our SEO/GEO. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1EGysv7pyS3ekFpsvt74C7hbkdlnayokY72VsNqF8NW4/edit?usp=sharing)
+
+      (A third blog — "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast" — is also up for review; it's covered in Section 5 since it promotes the podcast guesting.)
 
       > **NEXT ACTION — TABATHA**
-      > Review and approve all three blog posts, and let Angel know once each is approved: "Teeth Whitening Prices Are All Over the Map. Here's Why." (publishing Monday), "Does Whitening Damage Your Enamel? The Honest Answer." (publishing August 8), and "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast." (publishing next).
+      > Review and approve both blog posts — "Teeth Whitening Prices Are All Over the Map. Here's Why." (publishing Monday) and "Does Whitening Damage Your Enamel? The Honest Answer." (publishing August 8) — and let Angel know once each is approved.
 
       ## 5. Podcast Guesting — Earned Media Opportunity
 
-      Today (July 23), Tabatha is guesting on a podcast. This is a valuable earned-media opportunity, and we want to squeeze the most out of it — not just for traditional SEO (a backlink and brand mentions), but also for GEO (Generative Engine Optimization: getting The Whitening Lab recognized and surfaced by AI platforms). Podcast transcripts get indexed, so both what's said on air and how we're linked afterward matter.
+      Tabatha and Courtney guested on a podcast (recorded July 23). This is a valuable earned-media placement that supports both traditional SEO (a backlink and brand mentions) and GEO (Generative Engine Optimization: getting The Whitening Lab recognized and surfaced by AI platforms). Podcast transcripts get indexed, so both what's said on the episode and how we're linked afterward matter.
 
-      Here's what we're executing to maximize it:
+      Good progress already: Angel has the podcast episode link and has transcribed the episode. From that transcript, we've created a blog post to promote the guesting:
 
-      - **Get the backlink.** Ask the host for a show notes link to thewhiteninglab.co — that's the backlink that supports our SEO.
-      - **Name the studio and location on air.** Mention the studio name and our Gray location explicitly during the episode. Transcripts get indexed, and unnamed references (e.g. "a whitening studio in Maine") do nothing for entity building — naming us explicitly is what ties the mention to our brand.
-      - **Send Angel the links.** Once it's live, provide Angel the link to the podcast episode and to the show notes.
+      **"Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast."** This is our way to promote Tabatha and Courtney's podcast guesting. Once approved, we'll publish it next on our website — another opportunity to strengthen our SEO/GEO. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1EGysv7pyS3ekFpsvt74C7hbkdlnayokY72VsNqF8NW4/edit?usp=sharing).
 
-      Angel will then log this as an Earned Media Placement so it counts toward our SEO and GEO efforts.
+      To capture the rest of the earned-media value, Angel will also secure a show notes backlink to thewhiteninglab.co and log the appearance as an Earned Media Placement (counting toward our SEO and GEO efforts).
 
-      > **NEXT ACTIONS — TABATHA & ANGEL**
-      > **Tabatha:** Ask the host for a show-notes backlink to thewhiteninglab.co, name the studio and our Gray location explicitly on air, and send Angel the episode and show notes links.
-      > **Angel:** Log the podcast as an Earned Media Placement once the links arrive.
+      > **NEXT ACTION — TABATHA**
+      > Review the "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast" blog post. Once approved, we'll publish it on our website.
 
       ## 6. SEO & GEO (AI Visibility) — Audit Summary
 
@@ -185,12 +183,12 @@ const BULLETINS = [
       **Tabatha**
 
       - Review the Alfred Closure Transition Plan and provide the final close date (Section 3).
-      - Review and approve all three new blog posts — publishing Monday, August 8, and the podcast recap next (Section 4).
-      - Podcast follow-up: get the show-notes backlink, name the studio and Gray location on air, and send Angel the episode and show notes links (Section 5).
+      - Review and approve both new blog posts — publishing Monday and August 8 (Section 4).
+      - Review the podcast-recap blog ("Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast"); once approved, we publish it (Section 5).
 
       **Angel**
 
-      - Log the podcast as an Earned Media Placement once the links arrive (Section 5).
+      - Secure a show-notes backlink to thewhiteninglab.co and log the podcast as an Earned Media Placement (Section 5).
       - Complete the remaining SEO and GEO improvement to-dos (Section 6).
       - Post weekly on our Google Business Profile and add fresh photos — already started (Section 7).
 
