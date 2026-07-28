@@ -54,7 +54,7 @@ const BULLETINS = [
       4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
       5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
 
-      **3. Tabatha — Review the Customer Journey Email Series and approve** (this is blocking the Square setup). This email series will be configured so that a sequence of emails gets sent after a customer's first booking. It ensures the customer keeps moving forward and continues as a paying, active customer after their first session.
+      **3. Tabatha — Review the Customer Journey Email Series and approve** (this is blocking the Square setup). This email series will be configured so that a sequence of emails gets sent after a customer's first booking. It ensures the customer keeps moving forward and continues as a paying, active customer after their first session. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
 
       **4. Everyone — Watch Angel's explainer video on the Meta Ads campaign.** The video explains the importance and the results of our Meta Ads, since we decided to stop the campaign after running it for a few days.
 
@@ -202,6 +202,7 @@ const BULLETINS = [
 
       - [Published Blog Posts list (Google Sheet)](https://docs.google.com/spreadsheets/d/1bkwB9esvHN9pzUdTCz1HsRsu7zFFM5-Cf-kERQAx27s/edit?gid=1359978327#gid=1359978327)
       - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
       - [Angel's Meta Ads explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
       - [Marketing Analytics Snapshot report — Apr 26–Jul 18 (Google Sheet)](https://docs.google.com/spreadsheets/d/1ChRlG3V_mtigeXCNOuF8aHUWR3-beXw1xRnIFVUuJa8/edit?usp=sharing)
       - [What Is My IP — whatismyip.com](https://www.whatismyip.com/)
