@@ -34,6 +34,102 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-07-31-26",
+    date: "2026-07-31",
+    title: "Weekly Marketing Update — August Newsletter & Customer Journey Emails",
+    // draft: true hides this bulletin from the public site (sidebar, search,
+    // and deep links). Set to false or remove this line to publish it.
+    draft: true,
+    body: `
+      Hi team — here's the July 31 update. We start with where last week's open items landed (done vs. still outstanding), then this week's two updates: the August "Beyond the Lab" newsletter and our Customer Journey emails now configured in Square. This week's action items are consolidated at the end.
+
+      ## 1. Last Week's Open Items — Status
+
+      Where last week's (7/24) open items stand.
+
+      **Completed:**
+
+      - **Molly — Promote one blog post per week.** Done — Molly and Courtney promoted the ["We Went On a Podcast" blog](https://thewhiteninglab.co/blog/we-went-on-a-podcast). Thank you!
+      - **Block Internal IP Addresses in Google Analytics.** Done. One loose end: Courtney's device is returning a MAC address instead of an IPv4 — Angel will sort that out with her shortly.
+      - **Alfred Closure — Transition Plan.** Done — Tabatha is good with the transition plan. New next action: Tabatha to let Angel know once she's ready to proceed.
+      - **New blogs for review.** Done — all reviewed: "Teeth Whitening Prices Are All Over the Map. Here's Why.", "Does Whitening Damage Your Enamel? The Honest Answer.", and the podcast recap "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast."
+
+      **Still outstanding / in progress:**
+
+      - **Tabatha — Review the Partner Referral Program materials** (mechanics, 1-Pager, Posters, Outreach Email Sequence). Not done yet. [Partner Program details (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing). Key items to decide on:
+
+      1. Are you okay with giving complimentary experience sessions to our potential partners?
+      2. Are you okay giving a ONE-TIME $20 off to partner referrals?
+      3. Can we put a Partner Board in our studio to promote our partners to our customers?
+      4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
+      5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
+
+      - **Tabatha — Review & approve the Customer Journey Email Series.** In progress as of 7/29. It's now configured in Square and only needs Tabatha's approval to switch on — see Section 3. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
+      - **Everyone — Watch Angel's Meta Ads explainer video.** Status unconfirmed — if you haven't watched it yet, please do. [Explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing).
+      - **Angel — Complete the remaining SEO & GEO improvement to-dos.** Not done yet.
+      - **Angel — Post weekly on our Google Business Profile and add fresh photos.** Not done yet (already started).
+
+      ## 2. Beyond the Lab — August 2026 Newsletter (Configured)
+
+      Our August 2026 "Beyond the Lab" newsletter is configured and ready for Tabatha's review. This issue:
+
+      - Promotes the blog ["Teeth Whitening Strips Fail for Two Reasons"](https://thewhiteninglab.co/blog/why-teeth-whitening-strips-fail).
+      - Teases the longer, sculpted **at-home whitening strip** we've been developing (a "we went back to the mold" preview).
+      - Closes by promoting **The Whitening Lab Startup Guide**.
+
+      It also carries our **August-only promo — code WHITEPEN** for a free whitening pen with every booking through August 31, so please recognize that code if a customer mentions it.
+
+      ![Beyond the Lab — August 2026 newsletter (preview)](assets/2026-07-31/beyond-the-lab-august-2026-preview.jpg)
+
+      > **NEXT ACTION — TABATHA**
+      > Please review the Beyond the Lab August 2026 Newsletter.
+
+      ## 3. Customer Journey Emails — Configured in Square
+
+      The Customer Journey email series is now configured in Square. It's ready to switch on — we're just waiting on Tabatha's approval (the last open item blocking the Square setup, from Section 1).
+
+      > **NEXT ACTIONS — TABATHA & ANGEL**
+      > **Tabatha:** Approve the Customer Journey Email Series so we can turn it on in Square.
+      > **Angel:** Once approved, update the newsletter photo with a newer one.
+
+      ## 4. This Week's Next Actions — Summary
+
+      A quick roll-up of open action items (full detail in the sections above).
+
+      **Everyone**
+
+      - Watch Angel's Meta Ads explainer video if you haven't yet (Section 1).
+
+      **Tabatha**
+
+      - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
+      - Approve the Customer Journey Email Series to unblock the Square setup (Sections 1 & 3).
+      - Review the Beyond the Lab August 2026 Newsletter (Section 2).
+      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
+
+      **Angel**
+
+      - Complete the remaining SEO & GEO improvement to-dos (Section 1).
+      - Post weekly on our Google Business Profile and add fresh photos (Section 1).
+      - Resolve Courtney's IPv4 (currently showing a MAC address) for the Google Analytics filter (Section 1).
+      - Once the Customer Journey series is approved, update the newsletter photo with a newer one (Section 3).
+
+      ## Quick Reference
+
+      **Promo Codes Mentioned**
+
+      - WHITEPEN — free whitening pen with every booking through August 31, 2026 (August newsletter)
+
+      **Links Mentioned**
+
+      - ["We Went On a Podcast" blog](https://thewhiteninglab.co/blog/we-went-on-a-podcast)
+      - ["Teeth Whitening Strips Fail for Two Reasons" blog](https://thewhiteninglab.co/blog/why-teeth-whitening-strips-fail)
+      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
+      - [Angel's Meta Ads explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing)
+    `
+  },
+  {
     id: "weekly-update-07-24-26",
     date: "2026-07-24",
     title: "Weekly Marketing Update — Keeping Our Analytics Clean",
