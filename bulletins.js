@@ -37,9 +37,6 @@ const BULLETINS = [
     id: "weekly-update-07-31-26",
     date: "2026-07-31",
     title: "Weekly Marketing Update — August Newsletter & Customer Journey Emails",
-    // draft: true hides this bulletin from the public site (sidebar, search,
-    // and deep links). Set to false or remove this line to publish it.
-    draft: true,
     body: `
       Hi team — here's the July 31 update. We start with where last week's open items landed (done vs. still outstanding), then this week's two updates: the August "Beyond the Lab" newsletter and our Customer Journey emails now configured in Square. This week's action items are consolidated at the end.
 
