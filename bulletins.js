@@ -92,7 +92,24 @@ const BULLETINS = [
       > **Tabatha:** Approve the Customer Journey Email Series so we can turn it on in Square.
       > **Angel:** Once approved, update the newsletter photo with a newer one.
 
-      ## 4. This Week's Next Actions — Summary
+      ## 4. Square Visitor Tracking — Resolved
+
+      Tracking visitors on Square has been resolved. Our Square booking page is now being tracked by both **Google Analytics** and the **Facebook Pixel**, so we can now record visitors there.
+
+      Square is also part of Google Analytics now, which means we'll be able to report **appointment bookings directly in Google Analytics**. This closes the loop on attribution: we can finally connect where a visitor came from (email, social, ads, search) to whether they actually booked an appointment.
+
+      > **NEXT ACTION — ANGEL**
+      > Once enough data is available, create a report showing Appointment Bookings vs. Sources — so we can see proper lead attribution against each traffic source.
+
+      ## 5. New Blog Sidebar — A Home for Promoting Our Resources
+
+      Our blog now has a sidebar where we can promote resources such as **The Whitening Lab Startup Guide**. See it live here: ["We Went On a Podcast" blog post](https://thewhiteninglab.co/blog/we-went-on-a-podcast).
+
+      This will be very useful for promoting resources, products, and other downloadables — we just need to keep driving people to our website and blog (which is exactly what our blog promotion and social efforts are for).
+
+      One note: the sidebar is more visible on **desktop** than on mobile, so mobile readers may not see it as prominently.
+
+      ## 6. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail in the sections above).
 
@@ -113,6 +130,7 @@ const BULLETINS = [
       - Post weekly on our Google Business Profile and add fresh photos (Section 1).
       - Resolve Courtney's IPv4 (currently showing a MAC address) for the Google Analytics filter (Section 1).
       - Once the Customer Journey series is approved, update the newsletter photo with a newer one (Section 3).
+      - Create a report showing Appointment Bookings vs. Sources once data is available, for proper lead attribution (Section 4).
 
       ## Quick Reference
 
