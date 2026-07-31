@@ -38,7 +38,11 @@ const BULLETINS = [
     date: "2026-07-31",
     title: "Weekly Marketing Update — August Newsletter & Customer Journey Emails",
     body: `
-      Hi team — here's the July 31 update. We start with where last week's open items landed (done vs. still outstanding), then this week's two updates: the August "Beyond the Lab" newsletter and our Customer Journey emails now configured in Square. This week's action items are consolidated at the end.
+      Hi team — here's the July 31 update. We start with where last week's open items landed (done vs. still outstanding), then this week's updates. This week's action items are consolidated at the end.
+
+      > **⭐ TWO ITEMS ON DECK — WAITING ON TABATHA**
+      > **1. Customer Journey Email Series** — Tabatha is reviewing it this week; we're waiting on her revisions (no update since yesterday). Target: set up and activate next week (Section 3).
+      > **2. Beyond the Lab August 2026 Newsletter** — needs Tabatha's review and approval. We start sending it to our list Wednesday next week (Section 2).
 
       ## 1. Last Week's Open Items — Status
 
@@ -50,6 +54,8 @@ const BULLETINS = [
       - 🟢 **Block Internal IP Addresses in Google Analytics.** Done. One loose end: Courtney's device is returning a MAC address instead of an IPv4 — Angel will sort that out with her shortly.
       - 🟢 **Alfred Closure — Transition Plan.** Done — Tabatha is good with the transition plan. New next action: Tabatha to let Angel know once she's ready to proceed.
       - 🟢 **New blogs for review.** Done — all reviewed: "Teeth Whitening Prices Are All Over the Map. Here's Why.", "Does Whitening Damage Your Enamel? The Honest Answer.", and the podcast recap "Charcoal, Confidence, and a 35th Anniversary: We Went On a Podcast."
+      - 🟢 **Angel — Complete the remaining SEO & GEO improvement to-dos.** Done.
+      - 🟢 **Angel — Post weekly on our Google Business Profile and add fresh photos.** Done.
 
       **Still outstanding / in progress:**
 
@@ -61,10 +67,8 @@ const BULLETINS = [
       4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
       5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
 
-      - 🟡 **Tabatha — Review & approve the Customer Journey Email Series.** In progress as of 7/29. It's now configured in Square and only needs Tabatha's approval to switch on — see Section 3. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
+      - 🟡 **Tabatha — Review & approve the Customer Journey Email Series.** In progress — Tabatha is reviewing it this week; we're waiting on her revisions (no update since yesterday). Target: set up and activate next week — see Section 3. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
       - 🟡 **Everyone — Watch Angel's Meta Ads explainer video.** Status unconfirmed — if you haven't watched it yet, please do. [Explainer video (Google Drive)](https://drive.google.com/file/d/1eVOsL0LvsJeniFiZptEaYrqLihBZZ2ug/view?usp=sharing).
-      - 🔴 **Angel — Complete the remaining SEO & GEO improvement to-dos.** Not done yet.
-      - 🔴 **Angel — Post weekly on our Google Business Profile and add fresh photos.** Not done yet (already started).
 
       ## 2. Beyond the Lab — August 2026 Newsletter (Configured)
 
@@ -78,15 +82,17 @@ const BULLETINS = [
 
       ![Beyond the Lab — August 2026 newsletter (preview)](assets/2026-07-31/beyond-the-lab-august-2026-preview.jpg)
 
+      We're going to start sending this newsletter to our list **Wednesday next week**, so we need Tabatha's review and approval before then.
+
       > **NEXT ACTION — TABATHA**
-      > Please review the Beyond the Lab August 2026 Newsletter.
+      > Please review and approve the Beyond the Lab August 2026 Newsletter — we start sending it to our list Wednesday next week.
 
       ## 3. Customer Journey Emails — Configured in Square
 
-      The Customer Journey email series is now configured in Square. It's ready to switch on — we're just waiting on Tabatha's approval (the last open item blocking the Square setup, from Section 1).
+      The Customer Journey email series is now configured in Square. Tabatha is reviewing it this week — we're waiting on her revisions (no update since yesterday). Once her revisions are in, it will be ready for **setup and activation next week**.
 
       > **NEXT ACTIONS — TABATHA & ANGEL**
-      > **Tabatha:** Approve the Customer Journey Email Series so we can turn it on in Square.
+      > **Tabatha:** Send your revisions / approval on the Customer Journey Email Series so we can set it up and activate it in Square next week.
       > **Angel:** Once approved, update the newsletter photo with a newer one.
 
       ## 4. New Blog Sidebar — A Home for Promoting Our Resources
@@ -206,15 +212,13 @@ const BULLETINS = [
 
       **Tabatha**
 
+      - Send your revisions / approval on the Customer Journey Email Series — target is setup and activation next week (Sections 1 & 3).
+      - Review and approve the Beyond the Lab August 2026 Newsletter — sending starts Wednesday next week (Section 2).
       - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
-      - Approve the Customer Journey Email Series to unblock the Square setup (Sections 1 & 3).
-      - Review the Beyond the Lab August 2026 Newsletter (Section 2).
       - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
 
       **Angel**
 
-      - Complete the remaining SEO & GEO improvement to-dos (Section 1).
-      - Post weekly on our Google Business Profile and add fresh photos (Section 1).
       - Resolve Courtney's IPv4 (currently showing a MAC address) for the Google Analytics filter (Section 1).
       - Once the Customer Journey series is approved, update the newsletter photo with a newer one (Section 3).
 
