@@ -97,7 +97,106 @@ const BULLETINS = [
 
       One note: the sidebar is more visible on **desktop** than on mobile, so mobile readers may not see it as prominently.
 
-      ## 5. This Week's Next Actions — Summary
+      ## 5. Weekly Analytics Summary — Google Analytics
+
+      ### Date ranges
+
+      This summary compares two periods of Google Analytics data:
+
+      - This week: July 26 to July 31, 2026 (6 days).
+      - Last week: July 19 to July 24, 2026 (6 days).
+
+      Both periods have the same length. GA4 aligns the two periods by day of week.
+
+      ### Top-level results
+
+      The table shows the main numbers for the two periods.
+
+      | Item | This week | Last week | Change |
+      | --- | --- | --- | --- |
+      | Active users | 162 | 190 | down 14.7% |
+      | New users | 146 | 178 | down 18.0% |
+      | Engaged sessions | 98 | 112 | down 12.5% |
+      | Engagement rate | 44.3% | 46.7% | down 5.0% |
+      | Average engagement time | 45s | 43s | up 4.9% |
+      | Event count | 1,097 | 1,259 | down 12.9% |
+      | Contact key events | 2 | 1 | up 100% |
+      | Session conversion rate | 0.9% | 0.42% | up 117% |
+
+      The traffic quantity went down. But the traffic quality went up. Fewer persons came to the website. But more of these persons did the actions that we want.
+
+      ### Observation 1 — Traffic is lower, but the decrease is smaller
+
+      The number of users went down for the second week. But the decrease is much smaller than before. Two weeks ago, the users went down approximately 40%. This week, the users went down approximately 15%.
+
+      The primary cause is the stop of the paid advertisements. The website now gets almost all traffic from organic sources.
+
+      ### Observation 2 — Conversions increased
+
+      The website recorded 2 contact key events this week. Last week, the website recorded only 1. This is an increase of 100%.
+
+      The session conversion rate also increased from 0.42% to 0.9%. This is the most important positive result.
+
+      ### Observation 3 — Organic search is the strongest source
+
+      Organic search from Google gave 88 sessions. This is an increase of approximately 6%.
+
+      Organic search caused both of the 2 contact key events. No other source caused a conversion.
+
+      The search clicks increased to 32 from 29. At the same time, the impressions decreased. Thus, the click-through rate increased 52%. More persons who saw the website in search results made a click.
+
+      The local search terms increased. For example, the clicks for "the whitening lab gray maine" increased 75%. The clicks for "teeth whitening near me" increased 50%.
+
+      ### Observation 4 — The home page converts best
+
+      The home page ( / ) is the best entry point for conversions.
+
+      The home page got 127 sessions. It caused both contact key events. Its conversion rate is 1.57%.
+
+      The booking page ( /book-an-appointment ) is a weak entry point. Only 11 persons started on this page. These persons stayed for 1 second. They caused no conversions.
+
+      Persons do not convert when they start on the booking page. Persons convert when they start on the home page and then move to the booking page.
+
+      > **RECOMMENDATION**
+      > Make the path from the home page to the booking page more clear.
+
+      ### Observation 5 — Maine traffic is stable and more engaged
+
+      Maine is the most important location, because these persons can make a booking.
+
+      The Maine users stayed almost the same: 46 this week, and 48 last week. This is much better than two weeks ago. Two weeks ago, the Maine users went down 40%.
+
+      The Maine engagement time increased to 1 minute 31 seconds from 57 seconds. This is an increase of approximately 58%. The Maine visitors read more of the content.
+
+      ### Observation 6 — Days of the week
+
+      The traffic increased from July 26 to a maximum on Wednesday July 29. Then the traffic decreased on July 30 and July 31.
+
+      Wednesday July 29 was a strong day. It had 68 sessions. This is an increase of 58% against the same weekday last week.
+
+      Note: The data for the last 1 or 2 days is not complete. The numbers for July 30 and July 31 can increase later.
+
+      ### Observation 7 — No AI assistant traffic in the data
+
+      Our SEO/GEO work gives importance to GEO (visibility in AI tools).
+
+      The analytics data shows no traffic from AI assistants. There is no traffic from ChatGPT, Perplexity, Gemini, or Copilot.
+
+      Two facts are important:
+
+      - AI tools frequently send visitors with no source data. Thus, this traffic can go into the "Direct" group. GA4 cannot identify this traffic.
+      - GEO gives its primary value when the AI tool speaks the name of the business. This value causes no website visit. Thus, GA4 cannot measure it.
+
+      > **RECOMMENDATION**
+      > Do the GEO checks by hand. Ask an AI tool a question. For example, ask "where should I get my teeth whitened in southern Maine". Then look for the name of the business in the answer.
+
+      ### Summary
+
+      This week had fewer visitors. But the quality was better. The conversions increased 100%. Organic search caused all conversions. The Maine traffic became stable. The home page is the best entry point for conversions.
+
+      The traffic decrease is now smaller than before. The important quality signals move in the correct direction.
+
+      ## 6. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail in the sections above).
 
