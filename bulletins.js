@@ -34,6 +34,68 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-08-07-26",
+    date: "2026-08-07",
+    title: "Weekly Marketing Update — Follow-Ups from Last Week",
+    // draft: true hides this bulletin from the public site (sidebar, search,
+    // and deep links). Set to false or remove this line to publish it.
+    draft: true,
+    body: `
+      Hi team — here's the August 7 update. We start with where last week's action items landed. More updates to come as things develop this week, with this week's action items consolidated at the end.
+
+      > **⭐ STILL ON DECK — WAITING ON TABATHA**
+      > **1. Customer Journey Email Series** — no feedback yet. Setup and activation in Square are on hold until your revisions/approval come in (see below).
+      > **2. Beyond the Lab August 2026 Newsletter** — no feedback yet. Sending to our list is on hold until it's reviewed and approved (see below).
+
+      ## 1. Last Week's Open Items — Status
+
+      Where last week's (7/31) action items stand. Status key: 🟢 Done · 🟡 In progress · 🔴 Not done.
+
+      **Completed:**
+
+      - 🟢 **Everyone — Watch Angel's Meta Ads explainer video.** Done — the team has confirmed they've all watched it. Thank you!
+
+      **Still outstanding:**
+
+      - 🔴 **Tabatha — Send your revisions / approval on the Customer Journey Email Series.** No feedback yet. This is the last step before we can set it up and activate it in Square. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
+      - 🔴 **Tabatha — Review and approve the Beyond the Lab August 2026 Newsletter.** No feedback yet. Sending to our list is on hold until it's approved.
+      - 🔴 **Tabatha — Review the Partner Referral Program materials** (mechanics, 1-Pager, Posters, Outreach Email Sequence). No feedback yet. [Partner Program details (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing). Key items to decide on:
+
+      1. Are you okay with giving complimentary experience sessions to our potential partners?
+      2. Are you okay giving a ONE-TIME $20 off to partner referrals?
+      3. Can we put a Partner Board in our studio to promote our partners to our customers?
+      4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
+      5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
+
+      - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No feedback yet.
+      - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter** (her device is returning a MAC address). Not done — Angel will provide instructions to Courtney this week.
+      - 🔴 **Angel — Update the newsletter photo with a newer one.** Not done — this is waiting on the Customer Journey Email Series approval above, so it can't move until Tabatha's step is completed.
+
+      ## 2. This Week's Next Actions — Summary
+
+      A quick roll-up of open action items (full detail above).
+
+      **Tabatha**
+
+      - Send your revisions / approval on the Customer Journey Email Series so we can set it up and activate it in Square (Section 1).
+      - Review and approve the Beyond the Lab August 2026 Newsletter so we can start sending it to our list (Section 1).
+      - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
+      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
+
+      **Angel**
+
+      - Provide Courtney instructions to get her IPv4 for the Google Analytics filter (Section 1).
+      - Once the Customer Journey series is approved, update the newsletter photo with a newer one (Section 1).
+
+      ## Quick Reference
+
+      **Links Mentioned**
+
+      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
+      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+    `
+  },
+  {
     id: "weekly-update-07-31-26",
     date: "2026-07-31",
     title: "Weekly Marketing Update — August Newsletter & Customer Journey Emails",
