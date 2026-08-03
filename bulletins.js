@@ -105,6 +105,39 @@ const BULLETINS = [
 
       One additional note: as you can see in the table, our social media numbers (mainly Instagram reach and views) are softening — website traffic still grew this week because the search gains more than compensated. We'll keep an eye on it.
 
+      ### The Work Behind the Numbers — SEO & GEO Initiatives Shipped
+
+      These results didn't happen on their own. Here's a quick summary of the SEO and GEO work completed over the past two weeks (tracked in Asana):
+
+      **Priority technical fixes**
+
+      - Fixed the **www vs non-www split** — canonicals, redirect, Search Console Domain property, and sitemap now all point to one version of the site, so Google no longer splits our ranking credit across two.
+      - Replaced the **placeholder og:images**, so shared links now show proper Whitening Lab branding.
+
+      **Site-wide quick wins (11 items closed)**
+
+      - Verified **robots.txt allows AI crawlers** to read the site.
+      - Made the **homepage FAQ answers render server-side**, so search engines and AI tools can actually read them.
+      - Cleaned up business-info consistency — one address format (NAP), one years-of-experience number, everywhere.
+      - Unified the site footer, fixed image alt text and the broken footer Team link.
+      - Metadata cleanup: removed the obsolete meta keywords tag, synced stale twitter: tags with og: tags sitewide.
+      - Confirmed the canonical /blog/ URL pattern and removed the old www sitemap from Search Console.
+      - Swept the brand-compliance violations found in the site crawl.
+
+      **GEO (AI visibility) items shipped**
+
+      - **llms.txt** live at the site root — a guide for AI engines reading our site.
+      - **Named, credentialed bylines and author bio pages** — so AI engines can attribute our content to real experts.
+      - **Google Business Profile built out** — the profile AI tools and Google lean on for local answers.
+      - First **earned media placement** in motion: the podcast guesting plus its recap blog post.
+
+      **In flight now**
+
+      - A 5-part **CTR fix series** on our top-performing pages (retitling the gumline post for the searches it actually wins, consolidating duplicate URLs, FAQ and LocalBusiness schema, a rewritten Portland snippet) — with an 8-week measurement checkpoint.
+      - Remaining GEO items: a Bing Places listing, resolving contradictory facts across public sources, and landing 2–3 more earned media placements.
+
+      This is the work sitting directly behind the record search numbers above — and the CTR series now in flight is aimed at converting our higher rankings into even more clicks.
+
       ## 3. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail above).
