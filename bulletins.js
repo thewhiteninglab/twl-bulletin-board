@@ -71,7 +71,41 @@ const BULLETINS = [
       - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter** (her device is returning a MAC address). Not done — Angel will provide instructions to Courtney this week.
       - 🔴 **Angel — Update the newsletter photo with a newer one.** Not done — this is waiting on the Customer Journey Email Series approval above, so it can't move until Tabatha's step is completed.
 
-      ## 2. This Week's Next Actions — Summary
+      ## 2. Organic Search Is Now Our Strongest Marketing Channel
+
+      Over the past two weeks, we've made improvements and changes to our **SEO and GEO initiatives** to increase our visibility on both search engines and AI platforms. The numbers are starting to show it — here's the analysis we ran today from our TWL Marketing Metrics report. (Note: the report's weeks run Sunday–Saturday, so the latest week covers July 26 – August 1.)
+
+      **This week (July 26 – Aug 1): organic-led and all earned.** Website traffic landed at **141 sessions**, and none of it was paid — essentially all earned. **Organic Search was the largest source at 79 sessions (56% of all traffic)**, with Direct at 51, Organic Social at 8, and Email at 2.
+
+      **Google Search Console was the standout:**
+
+      - **126 combined clicks** — the highest weekly figure on record.
+      - **5,282 impressions** at a **2.39% CTR**.
+      - **Average position 13.1** — our best (highest-ranking) position on record.
+
+      In plain terms: the site is ranking higher, showing up more often, and converting those impressions into clicks better than in any prior week. Our blog post "Why Are My Teeth Yellow Near the Gumline" was the top impression driver at 1,371 — even edging out the homepage. That's our content marketing doing exactly what it's supposed to do.
+
+      **Week over week:**
+
+      | Metric | July 19–25 | July 26–Aug 1 | Change |
+      | --- | --- | --- | --- |
+      | Total website traffic | 130 | 141 | +8% |
+      | Organic Search sessions | 66 | 79 | +20% |
+      | Direct | 49 | 51 | +2 |
+      | GSC combined clicks | 89 | 126 | +42% |
+      | GSC impressions | 4,414 | 5,282 | +20% |
+      | GSC average position | 13.65 | 13.1 | improved |
+      | Instagram views | 11,855 | 8,332 | −30% |
+      | Instagram reach | 4,478 | 1,813 | −60% |
+      | Facebook views | 885 | 887 | flat |
+
+      **The full-July picture confirms it's a trend, not a blip.** Across the month, our average search position improved every single week (roughly 17.9 → 15.3 → 13.7 → 13.1) while impressions climbed and clicks accelerated from 87 to the record 126. Mid-month, traffic peaked with a burst of paid ads — but when that spend paused, organic search quietly picked up the slack and kept weekly traffic stable. Our SEO is **compounding, not fluctuating** — and it means we're becoming less dependent on any single channel to keep traffic coming.
+
+      **Geographically**, our audience remains strongly Maine-centric — Maine was the top region every week. Those are the visitors who can actually book with us.
+
+      One additional note: as you can see in the table, our social media numbers (mainly Instagram reach and views) are softening — website traffic still grew this week because the search gains more than compensated. We'll keep an eye on it.
+
+      ## 3. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail above).
 
