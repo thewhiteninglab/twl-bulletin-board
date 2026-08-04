@@ -150,7 +150,21 @@ const BULLETINS = [
       > **NEXT ACTION — TABATHA**
       > Review and approve both blog posts before their publish dates — "Crowns, Veneers, or Fillings" before August 10 and "How Many Shades Whiter" before August 17 — and let Angel know once each is approved.
 
-      ## 4. This Week's Next Actions — Summary
+      ## 4. Strip Like a Pro Program — Proposed Home for One-on-One Mentorship
+
+      Tabatha mentioned she'd like to discuss two things:
+
+      1. Exploring **one-on-one mentorship opportunities** — these can provide value without requiring the resources needed for larger in-person trainings.
+      2. Focusing on creating **digital resources, templates, guides, and educational materials** that can continue to grow our brand without adding significant operational or financial demands.
+
+      Our proposal: use the **Strip Like a Pro Program** as the vehicle for the one-on-one mentorship. This page has already been crawled by search engines and was already getting visitors before — so it comes with built-in visibility instead of starting from zero, which makes it a strong fit for this program.
+
+      A page for this is now live for review: [thewhiteninglab.co/striplikeapro](https://thewhiteninglab.co/striplikeapro).
+
+      > **NEXT ACTION — TABATHA**
+      > View and review the [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro), then share your thoughts with Angel — including how you'd like the one-on-one mentorship and digital resources to fit into it.
+
+      ## 5. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail above).
 
@@ -161,6 +175,7 @@ const BULLETINS = [
       - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
       - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
       - Review and approve the two new blog posts before their publish dates — "Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" (publishing Aug 10) and "How Many Shades Whiter Will My Teeth Actually Get?" (publishing Aug 17) (Section 3).
+      - Review the Strip Like a Pro page and share your thoughts with Angel on using it for the one-on-one mentorship program (Section 4).
 
       **Angel**
 
@@ -175,6 +190,7 @@ const BULLETINS = [
       - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
       - ["Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" blog post (Google Doc)](https://docs.google.com/document/d/1rwX4Cw9yUWFy8icD65FNI8amkFv__akMDuMSJ5q7Zug/edit?usp=sharing)
       - ["How Many Shades Whiter Will My Teeth Actually Get?" blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing)
+      - [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro)
     `
   },
   {
