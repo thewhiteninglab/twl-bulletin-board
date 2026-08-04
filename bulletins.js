@@ -138,7 +138,19 @@ const BULLETINS = [
 
       This is the work sitting directly behind the record search numbers above — and the CTR series now in flight is aimed at converting our higher rankings into even more clicks.
 
-      ## 3. This Week's Next Actions — Summary
+      ## 3. New Blogs for Review
+
+      Two new blog posts are ready for Tabatha's review and approval, publishing on consecutive weeks:
+
+      - **"Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?"** — publishing **August 10**. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1rwX4Cw9yUWFy8icD65FNI8amkFv__akMDuMSJ5q7Zug/edit?usp=sharing)
+      - **"How Many Shades Whiter Will My Teeth Actually Get?"** — publishing **August 17**. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing)
+
+      These continue the question-shaped, direct-answer content that's been driving our record search numbers (see Section 2).
+
+      > **NEXT ACTION — TABATHA**
+      > Review and approve both blog posts before their publish dates — "Crowns, Veneers, or Fillings" before August 10 and "How Many Shades Whiter" before August 17 — and let Angel know once each is approved.
+
+      ## 4. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail above).
 
@@ -148,6 +160,7 @@ const BULLETINS = [
       - Review and approve the Beyond the Lab August 2026 Newsletter so we can start sending it to our list (Section 1).
       - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
       - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
+      - Review and approve the two new blog posts before their publish dates — "Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" (publishing Aug 10) and "How Many Shades Whiter Will My Teeth Actually Get?" (publishing Aug 17) (Section 3).
 
       **Angel**
 
@@ -160,6 +173,8 @@ const BULLETINS = [
 
       - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
       - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
+      - ["Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" blog post (Google Doc)](https://docs.google.com/document/d/1rwX4Cw9yUWFy8icD65FNI8amkFv__akMDuMSJ5q7Zug/edit?usp=sharing)
+      - ["How Many Shades Whiter Will My Teeth Actually Get?" blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing)
     `
   },
   {
