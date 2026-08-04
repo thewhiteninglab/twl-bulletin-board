@@ -207,9 +207,9 @@ const BULLETINS = [
       - Teases the longer, sculpted **at-home whitening strip** we've been developing (a "we went back to the mold" preview).
       - Closes by promoting **The Whitening Lab Startup Guide**.
 
-      It also carries our **August-only promo — code WHITEPEN** for a free whitening pen with every booking through August 31, so please recognize that code if a customer mentions it.
+      **Update (8/4):** the newsletter's CTA has been changed to our new August promo — **code GROUP25**, promoting Group Booking. Book as a group (at least 2 people) and **every member of the group gets $25 off** any service booked this August (valid through August 31). Customers will enter GROUP25 at checkout and list their companions' names in the Appointment Note — so please recognize the code and the group names when those bookings come in.
 
-      ![Beyond the Lab — August 2026 newsletter (preview)](assets/2026-07-31/beyond-the-lab-august-2026-preview.jpg)
+      ![Beyond the Lab — August 2026 newsletter (updated preview, GROUP25)](assets/2026-07-31/beyond-the-lab-august-2026-group25.jpg)
 
       We're going to start sending this newsletter to our list **Wednesday next week**, so we need Tabatha's review and approval before then.
 
@@ -256,7 +256,7 @@ const BULLETINS = [
 
       **Promo Codes Mentioned**
 
-      - WHITEPEN — free whitening pen with every booking through August 31, 2026 (August newsletter)
+      - GROUP25 — $25 off for every member of a group booking (2+ people) on any service this August, through August 31, 2026 (August newsletter)
 
       **Links Mentioned**
 
