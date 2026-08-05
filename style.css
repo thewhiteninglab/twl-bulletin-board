@@ -354,6 +354,30 @@ body {
   margin-top: 0;
 }
 
+.bulletin-body h3,
+.bulletin-body h4 {
+  scroll-margin-top: calc(var(--header-h) + 16px);
+}
+
+.bulletin-body .anchor-link {
+  margin-left: 8px;
+  color: var(--twl-gray-text);
+  text-decoration: none;
+  font-weight: 600;
+  opacity: 0.4;
+  transition: opacity 0.12s ease, color 0.12s ease;
+}
+
+.bulletin-body h3:hover .anchor-link,
+.bulletin-body h4:hover .anchor-link,
+.bulletin-body .anchor-link:focus-visible {
+  opacity: 1;
+}
+
+.bulletin-body .anchor-link:hover {
+  color: var(--twl-black);
+}
+
 .bulletin-body h4 {
   font-size: 15.5px;
   font-weight: 700;

@@ -161,8 +161,10 @@ const BULLETINS = [
 
       A page for this is now live for review: [thewhiteninglab.co/striplikeapro](https://thewhiteninglab.co/striplikeapro).
 
+      Note: the page is currently **private** while under review — enter the password **StripLikeAPro2026** to view it.
+
       > **NEXT ACTION — TABATHA**
-      > View and review the [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro), then share your thoughts with Angel — including how you'd like the one-on-one mentorship and digital resources to fit into it.
+      > View and review the [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro) (password: **StripLikeAPro2026**), then share your thoughts with Angel — including how you'd like the one-on-one mentorship and digital resources to fit into it.
 
       ## 5. This Week's Next Actions — Summary
 

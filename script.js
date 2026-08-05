@@ -57,9 +57,49 @@
     return t;
   }
 
-  function bodyToHtml(raw) {
+  // Section anchors: every heading gets an id + a "#" link whose URL is
+  // "#<bulletin-id>--<section-slug>". Sharing that URL opens the bulletin
+  // and scrolls directly to the section.
+  function slugify(text) {
+    return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  }
+
+  function parseHash() {
+    const raw = decodeURIComponent(location.hash.replace("#", ""));
+    const sep = raw.indexOf("--");
+    if (sep === -1) return { id: raw, section: null };
+    return { id: raw.slice(0, sep), section: raw.slice(sep + 2) };
+  }
+
+  function scrollToSection(slug) {
+    const el = document.getElementById(slug);
+    if (!el) return;
+    // Manual scrollTo instead of scrollIntoView: the latter can silently
+    // no-op (e.g. in background tabs). Offset keeps the heading clear of
+    // the sticky header.
+    const headerH = document.querySelector(".site-header")?.offsetHeight || 0;
+    const y = el.getBoundingClientRect().top + window.scrollY - headerH - 16;
+    window.scrollTo(0, Math.max(0, y));
+  }
+
+  function bodyToHtml(raw, bulletinId) {
     const lines = raw.replace(/\r\n/g, "\n").split("\n");
     let html = "";
+    const slugCounts = {};
+
+    function headingHtml(tag, text) {
+      let slug = slugify(text) || "section";
+      if (slugCounts[slug]) {
+        slugCounts[slug]++;
+        slug += "-" + slugCounts[slug];
+      } else {
+        slugCounts[slug] = 1;
+      }
+      const anchor = bulletinId
+        ? `<a class="anchor-link" href="#${bulletinId}--${slug}" title="Link to this section" aria-label="Link to this section">#</a>`
+        : "";
+      return `<${tag} id="${escapeHtml(slug)}">${inline(text)}${anchor}</${tag}>`;
+    }
     let paraBuffer = [];
     let listBuffer = [];
     let olBuffer = [];
@@ -128,10 +168,10 @@
 
       if (line.startsWith("### ")) {
         flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
-        html += `<h4>${inline(line.slice(4).trim())}</h4>`;
+        html += headingHtml("h4", line.slice(4).trim());
       } else if (line.startsWith("## ")) {
         flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
-        html += `<h3>${inline(line.slice(3).trim())}</h3>`;
+        html += headingHtml("h3", line.slice(3).trim());
       } else if (imgMatch) {
         flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
         const alt = escapeHtml(imgMatch[1]);
@@ -258,7 +298,7 @@
       return;
     }
 
-    const bodyHtml = highlightHtml(bodyToHtml(bulletin.body), term);
+    const bodyHtml = highlightHtml(bodyToHtml(bulletin.body, bulletin.id), term);
 
     contentEl.innerHTML = `
       <article class="bulletin-full">
@@ -268,13 +308,16 @@
       </article>`;
   }
 
-  function selectBulletin(id, term) {
+  function selectBulletin(id, term, section) {
     activeId = id;
     const bulletin = bulletins.find((b) => b.id === id);
     renderContent(bulletin, term);
     renderList(term || searchEl.value.trim());
     contentEl.scrollTop = 0;
-    history.replaceState(null, "", "#" + id);
+    history.replaceState(null, "", "#" + id + (section ? "--" + section : ""));
+    // Rendering is synchronous, so the section element exists already;
+    // jump immediately (a setTimeout here gets throttled in background tabs).
+    if (section) scrollToSection(section);
   }
 
   function handleSearchInput() {
@@ -290,19 +333,32 @@
 
   searchEl.addEventListener("input", handleSearchInput);
 
-  // Deep-link support: #bulletin-id in the URL opens that bulletin directly.
+  // Deep-link support: #bulletin-id opens that bulletin directly, and
+  // #bulletin-id--section-slug also scrolls to that section.
   // Otherwise, show the welcome page by default.
   function init() {
     renderList("");
-    const hashId = decodeURIComponent(location.hash.replace("#", ""));
-    const hashMatch = bulletins.find((b) => b.id === hashId);
+    const { id, section } = parseHash();
+    const hashMatch = bulletins.find((b) => b.id === id);
 
     if (hashMatch) {
-      selectBulletin(hashMatch.id, "");
+      selectBulletin(hashMatch.id, "", section);
     } else {
       renderContent(null, "");
     }
   }
+
+  // Handle anchor-link clicks and pasted section URLs while the page is open.
+  window.addEventListener("hashchange", () => {
+    const { id, section } = parseHash();
+    const bulletin = bulletins.find((b) => b.id === id);
+    if (!bulletin) return;
+    if (activeId !== id) {
+      selectBulletin(id, "", section);
+    } else if (section) {
+      scrollToSection(section);
+    }
+  });
 
   init();
 })();
