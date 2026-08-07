@@ -37,9 +37,6 @@ const BULLETINS = [
     id: "weekly-update-08-07-26",
     date: "2026-08-07",
     title: "Weekly Marketing Update — Follow-Ups from Last Week",
-    // draft: true hides this bulletin from the public site (sidebar, search,
-    // and deep links). Set to false or remove this line to publish it.
-    draft: true,
     body: `
       Hi team — here's the August 7 update. We start with where last week's action items landed. More updates to come as things develop this week, with this week's action items consolidated at the end.
 
