@@ -40,9 +40,9 @@ const BULLETINS = [
     body: `
       Hi team — here's the August 7 update. We start with where last week's action items landed. More updates to come as things develop this week, with this week's action items consolidated at the end.
 
-      > **⭐ STILL ON DECK — WAITING ON TABATHA**
-      > **1. Customer Journey Email Series** — no feedback yet. Setup and activation in Square are on hold until your revisions/approval come in (see below).
-      > **2. Beyond the Lab August 2026 Newsletter** — no feedback yet. Sending to our list is on hold until it's reviewed and approved (see below).
+      > **🎉 TWO BIG LAUNCHES THIS WEEK**
+      > **1. Customer Journey Email Series is live** — approved, image updated, and the automated sequence is now running in Square.
+      > **2. Beyond the Lab August 2026 Newsletter launched** — now going out to our list. More details on this later.
 
       ## 1. Last Week's Open Items — Status
 
@@ -51,22 +51,18 @@ const BULLETINS = [
       **Completed:**
 
       - 🟢 **Everyone — Watch Angel's Meta Ads explainer video.** Done — the team has confirmed they've all watched it. Thank you!
+      - 🟢 **Tabatha — Revisions / approval on the Customer Journey Email Series.** Done.
+      - 🟢 **Angel — Update the image on the Customer Journey emails.** Done — and with that, the **automated email sequence is now live in Square**. Customers automatically receive the right emails after their first booking.
+      - 🟢 **Beyond the Lab August 2026 Newsletter.** Launched — the August newsletter is now going out to our list. More details on this later.
 
       **Still outstanding:**
 
-      - 🔴 **Tabatha — Send your revisions / approval on the Customer Journey Email Series.** No feedback yet. This is the last step before we can set it up and activate it in Square. [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing).
-      - 🔴 **Tabatha — Review and approve the Beyond the Lab August 2026 Newsletter.** No feedback yet. Sending to our list is on hold until it's approved.
-      - 🔴 **Tabatha — Review the Partner Referral Program materials** (mechanics, 1-Pager, Posters, Outreach Email Sequence). No feedback yet. [Partner Program details (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing). Key items to decide on:
+      - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No change — carrying this forward as is.
+      - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter** (her device is returning a MAC address). Not done. **Courtney:** please try one of these alternate sites — they identify your IPv4 address directly: [whatismyip.io](https://whatismyip.io/) or [expressvpn.com/what-is-my-ip](https://www.expressvpn.com/what-is-my-ip). Copy the IPv4 shown and send it to Angel (once for each connection you use — office, home, mobile data).
 
-      1. Are you okay with giving complimentary experience sessions to our potential partners?
-      2. Are you okay giving a ONE-TIME $20 off to partner referrals?
-      3. Can we put a Partner Board in our studio to promote our partners to our customers?
-      4. Are you okay giving a $100 gift card to a partner at every 5th confirmed referral?
-      5. Are you good with our partner marketing collaterals (email sequence and one-pager/poster)?
+      **On hold:**
 
-      - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No feedback yet.
-      - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter** (her device is returning a MAC address). Not done — Angel will provide instructions to Courtney this week.
-      - 🔴 **Angel — Update the newsletter photo with a newer one.** Not done — this is waiting on the Customer Journey Email Series approval above, so it can't move until Tabatha's step is completed.
+      - ⏸️ **Tabatha — Review the Partner Referral Program materials.** We're putting the Partner Referral Program review on hold for now, so it's no longer tracked as an open item. We'll bring it back when the timing is right.
 
       ## 2. Organic Search Is Now Our Strongest Marketing Channel
 
@@ -147,49 +143,51 @@ const BULLETINS = [
       > **NEXT ACTION — TABATHA**
       > Review and approve both blog posts before their publish dates — "Crowns, Veneers, or Fillings" before August 10 and "How Many Shades Whiter" before August 17 — and let Angel know once each is approved.
 
-      ## 4. Strip Like a Pro Program — Proposed Home for One-on-One Mentorship
+      ## 4. Private Mentorship Program — Page Revised After Tabatha's Feedback
 
-      Tabatha mentioned she'd like to discuss two things:
+      Quick recap: Tabatha mentioned she'd like to explore two things —
 
-      1. Exploring **one-on-one mentorship opportunities** — these can provide value without requiring the resources needed for larger in-person trainings.
-      2. Focusing on creating **digital resources, templates, guides, and educational materials** that can continue to grow our brand without adding significant operational or financial demands.
+      1. **One-on-one mentorship opportunities** — these can provide value without requiring the resources needed for larger in-person trainings.
+      2. Creating **digital resources, templates, guides, and educational materials** that can continue to grow our brand without adding significant operational or financial demands.
 
-      Our proposal: use the **Strip Like a Pro Program** as the vehicle for the one-on-one mentorship. This page has already been crawled by search engines and was already getting visitors before — so it comes with built-in visibility instead of starting from zero, which makes it a strong fit for this program.
-
-      A page for this is now live for review: [thewhiteninglab.co/striplikeapro](https://thewhiteninglab.co/striplikeapro).
-
-      Note: the page is currently **private** while under review — enter the password **StripLikeAPro2026** to view it.
+      We proposed a dedicated page as the home for the one-on-one mentorship, and Tabatha has given her first round of feedback: she'd prefer not to use the "Strip Like a Pro" naming. The page has been revised accordingly and now lives at [thewhiteninglab.co/private-mentorship](https://thewhiteninglab.co/private-mentorship).
 
       > **NEXT ACTION — TABATHA**
-      > View and review the [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro) (password: **StripLikeAPro2026**), then share your thoughts with Angel — including how you'd like the one-on-one mentorship and digital resources to fit into it.
+      > Review the revised [Private Mentorship page](https://thewhiteninglab.co/private-mentorship) and share your feedback with Angel, so we can keep improving the page based on it.
 
-      ## 5. This Week's Next Actions — Summary
+      ## 5. Monthly SEO, GEO & CRO Optimization
+
+      We've made another round of updates and changes to our website across three fronts: **SEO** (search engine optimization), **GEO** (visibility on AI platforms), and **CRO** (conversion rate optimization — turning visitors into clients).
+
+      We'll be optimizing these three every month. Together, the monthly cadence helps us improve our organic traffic, our visibility on both search engines and AI platforms, and — just as importantly — the conversion of visitors into booked clients.
+
+      ## 6. Shopify Store — Redesigned to Match Our Website
+
+      We've updated our Shopify store's design so it matches our main website. One consistent look means visitors moving between the store and the site never feel like they've landed somewhere unfamiliar — we're avoiding any confusion for our visitors.
+
+      We also configured SEO strategies in the Shopify store itself, to improve the store's traffic and conversion.
+
+      ## 7. This Week's Next Actions — Summary
 
       A quick roll-up of open action items (full detail above).
 
       **Tabatha**
 
-      - Send your revisions / approval on the Customer Journey Email Series so we can set it up and activate it in Square (Section 1).
-      - Review and approve the Beyond the Lab August 2026 Newsletter so we can start sending it to our list (Section 1).
-      - Review the Partner Referral Program materials and decide on the 5 items above (Section 1).
-      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
       - Review and approve the two new blog posts before their publish dates — "Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" (publishing Aug 10) and "How Many Shades Whiter Will My Teeth Actually Get?" (publishing Aug 17) (Section 3).
-      - Review the Strip Like a Pro page and share your thoughts with Angel on using it for the one-on-one mentorship program (Section 4).
+      - Review the revised Private Mentorship page and share your feedback with Angel (Section 4).
+      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
 
       **Angel**
 
       - Provide Courtney instructions to get her IPv4 for the Google Analytics filter (Section 1).
-      - Once the Customer Journey series is approved, update the newsletter photo with a newer one (Section 1).
 
       ## Quick Reference
 
       **Links Mentioned**
 
-      - [Full Customer Journey Email Series (Google Doc)](https://docs.google.com/document/d/1KOOBiIwThFMr8W3MpIX0H3wvSXzT5Q85fzKuJtc2Bbc/edit?usp=sharing)
-      - [Full Partner Referral Program plan (Google Doc)](https://docs.google.com/document/d/1ZYPoS8vLJn9GgOS9pAT-pMMgm_Q9Tsd0Qr52TdPA8NU/edit?usp=sharing)
       - ["Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?" blog post (Google Doc)](https://docs.google.com/document/d/1rwX4Cw9yUWFy8icD65FNI8amkFv__akMDuMSJ5q7Zug/edit?usp=sharing)
       - ["How Many Shades Whiter Will My Teeth Actually Get?" blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing)
-      - [Strip Like a Pro page](https://thewhiteninglab.co/striplikeapro)
+      - [Private Mentorship page](https://thewhiteninglab.co/private-mentorship)
     `
   },
   {
