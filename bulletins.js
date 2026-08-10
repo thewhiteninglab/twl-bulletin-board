@@ -58,7 +58,10 @@ const BULLETINS = [
       **Still outstanding:**
 
       - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No change — carrying this forward as is.
-      - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter** (her device is returning a MAC address). Not done. **Courtney:** please try one of these alternate sites — they identify your IPv4 address directly: [whatismyip.io](https://whatismyip.io/) or [expressvpn.com/what-is-my-ip](https://www.expressvpn.com/what-is-my-ip). Copy the IPv4 shown and send it to Angel (once for each connection you use — office, home, mobile data).
+      - 🔴 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter.** Not done — Courtney's device is returning a MAC address instead of an IPv4. Next step for Courtney is in the box below.
+
+      > **NEXT STEP — COURTNEY**
+      > Please try one of these alternate sites — they identify your IPv4 address directly: [whatismyip.io](https://whatismyip.io/) or [expressvpn.com/what-is-my-ip](https://www.expressvpn.com/what-is-my-ip). Copy the IPv4 shown and send it to Angel — once for each connection you use (office, home, mobile data).
 
       **On hold:**
 
@@ -177,9 +180,9 @@ const BULLETINS = [
       - Review the revised Private Mentorship page and share your feedback with Angel (Section 4).
       - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
 
-      **Angel**
+      **Courtney**
 
-      - Provide Courtney instructions to get her IPv4 for the Google Analytics filter (Section 1).
+      - Get your IPv4 from [whatismyip.io](https://whatismyip.io/) or [expressvpn.com/what-is-my-ip](https://www.expressvpn.com/what-is-my-ip) and send it to Angel — once per connection (office, home, mobile data) (Section 1).
 
       ## Quick Reference
 
