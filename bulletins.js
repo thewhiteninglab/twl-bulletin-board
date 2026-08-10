@@ -99,8 +99,6 @@ const BULLETINS = [
 
       **Geographically**, our audience remains strongly Maine-centric — Maine was the top region every week. Those are the visitors who can actually book with us.
 
-      One additional note: as you can see in the table, our social media numbers (mainly Instagram reach and views) are softening — website traffic still grew this week because the search gains more than compensated. We'll keep an eye on it.
-
       ### The Work Behind the Numbers — SEO & GEO Initiatives Shipped
 
       These results didn't happen on their own. Here's a quick summary of the SEO and GEO work completed over the past two weeks (tracked in Asana):
