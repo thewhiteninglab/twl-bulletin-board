@@ -41,9 +41,24 @@ const BULLETINS = [
     // and deep links). Set to false or remove this line to publish it.
     draft: true,
     body: `
-      Hi team — here's the August 14 update. First up: the first results are in from our Customer Lifecycle email series, now live and sending in Square. More updates to come this week.
+      Hi team — here's the August 14 update. We start with where last meeting's open items landed, then the first results from our Customer Lifecycle email series, now live in Square. More updates to come this week.
 
-      ## 1. Customer Lifecycle Emails — First Results from Square
+      ## 1. Last Meeting's Open Items — Status
+
+      Where last meeting's open items stand. Status key: 🟢 Done · 🟡 In progress · 🔴 Not done.
+
+      **Completed:**
+
+      - 🟢 **Angel — Resolve Courtney's IPv4 for the Google Analytics filter.** Done — Courtney was able to provide her IP address, so we can close this.
+      - 🟢 **Tabatha — Blog approval: "Is Teeth Whitening Safe if You Have Crowns, Veneers, or Fillings?"** Closed — we didn't get feedback before the August 10 publish date, and the post is now published, so we're closing it out.
+
+      **Still outstanding:**
+
+      - 🔴 **Tabatha — Review and approve "How Many Shades Whiter Will My Teeth Actually Get?"** before its **August 17** publish date, and let Angel know once it's approved. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing).
+      - 🔴 **Tabatha — Review the revised Private Mentorship page** and share your feedback with Angel, so we can keep improving it. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship).
+      - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No change — carrying this forward as is.
+
+      ## 2. Customer Lifecycle Emails — First Results from Square
 
       Our Customer Lifecycle email series (the automated sequence we set up in Square) is live and sending. Here are the first results across the three emails that have gone out.
 
