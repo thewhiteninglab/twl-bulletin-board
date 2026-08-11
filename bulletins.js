@@ -34,6 +34,38 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-08-14-26",
+    date: "2026-08-14",
+    title: "Weekly Marketing Update — Customer Lifecycle Email Results",
+    // draft: true hides this bulletin from the public site (sidebar, search,
+    // and deep links). Set to false or remove this line to publish it.
+    draft: true,
+    body: `
+      Hi team — here's the August 14 update. First up: the first results are in from our Customer Lifecycle email series, now live and sending in Square. More updates to come this week.
+
+      ## 1. Customer Lifecycle Emails — First Results from Square
+
+      Our Customer Lifecycle email series (the automated sequence we set up in Square) is live and sending. Here are the first results across the three emails that have gone out.
+
+      | Email | Delivered | Opened | Clicked | Result |
+      | --- | --- | --- | --- | --- |
+      | Google Review | 9 | 4 (44%) | 1 (11%) | 1 new Google review |
+      | Lapsed Booker | 452 | 169 (37%) | 6 (1%) | 1 booking |
+      | Winback | 41 | 24 (59%) | 1 (2%) | 1 "Book" click — lead to follow up |
+
+      **What the numbers mean**
+
+      - Emails are landing and getting opened — open rates of **37–59%** are healthy for lifecycle email.
+      - We're getting clicks and, more importantly, results: a **new Google review** from the review email, and our **first booking from a lapsed customer** via the Lapsed Booker email.
+      - The Winback email had the highest open rate (59%) and produced a warm lead worth a personal follow-up (below).
+
+      > **FOLLOW-UP LEAD — WINBACK**
+      > **Susan Lapreziosa** clicked the "Book" button in the Winback email. She booked her New Patient Whitening Package back on Feb 27, so she's a strong candidate for a personal follow-up to help her rebook. Contact details are in Square (and with Angel).
+
+      Overall: emails are being opened, we're getting clicks, and so far we've earned one new Google review and one booking from a lapsed customer — a strong early sign that the lifecycle series is working.
+    `
+  },
+  {
     id: "weekly-update-08-07-26",
     date: "2026-08-07",
     title: "Weekly Marketing Update — Follow-Ups from Last Week",
