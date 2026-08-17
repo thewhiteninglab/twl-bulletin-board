@@ -112,6 +112,88 @@ const BULLETINS = [
       > **Susan Lapreziosa** clicked the "Book" button in the Winback email. She booked her New Patient Whitening Package back on Feb 27, so she's a strong candidate for a personal follow-up to help her rebook. Contact details are in Square (and with Angel).
 
       *(Figures from Square Marketing automation reports, ~10 days since the Aug 6 launch — an early baseline. Three automations sent under 20 emails, so those percentages are directional. Open rates are inflated by Apple Mail's automatic image loading, so read them mainly as a deliverability signal.)*
+
+      ## 3. Weekly Performance Report — Aug 9–15
+
+      A steady week with real progress in the places that compound. Google Search delivered its **best ranking of 2026**, organic search became our **largest source of website visitors**, and Instagram engagement quality improved even as reach settled after the summer peak. Website sessions held close to the prior week at 153, keeping the site in its stable summer range. (Reporting period Aug 9–15, 2026, compared with Aug 2–8.)
+
+      ### Website traffic — organic search is now our top channel
+
+      | Channel | Aug 2–8 | Aug 9–15 | Change |
+      | --- | --- | --- | --- |
+      | Organic Search | 59 | 69 | +17% |
+      | Direct | 76 | 66 | −13% |
+      | Organic Social | 26 | 13 | −13 |
+      | Email | 1 | 5 | +4 |
+      | Total sessions | 164 | 153 | −7% |
+
+      Organic search overtaking Direct is a good marker: Direct is people who already know us, while search brings in **new people at the moment they're looking for whitening in Maine** — so we're widening the top of the funnel, not recycling the existing audience. Email visits also returned as the newsletter and automations came back online.
+
+      ### Google Search — best position of 2026
+
+      This is the standout area — every measure moved the right way at once.
+
+      | Metric | Aug 2–8 | Aug 9–15 |
+      | --- | --- | --- |
+      | Clicks | 64 | 70 |
+      | Impressions | 2,739 | 2,820 |
+      | Avg. click-through rate | 2.30% | 2.50% |
+      | Average position | 14.3 | 13.2 |
+
+      Average position has climbed from **32.5 in early June to 13.2 today** — nearly 20 places in ten weeks, and the fourth straight week of improvement. We're now surfacing on the first page for a growing set of searches. More impressions, more clicks, and a higher click-through rate all rising together means the added visibility is attracting the right searchers, not just noise. (Search Console's 70 clicks matched the site's 69 organic sessions almost exactly — a good sign our tracking is accurate.)
+
+      ### Instagram & Facebook
+
+      Instagram reach settled from the summer peak, but **engagement quality improved — engagement rate rose from 5.0% to 7.2%** as interactions held nearly flat on lower reach. The opportunity from here is distribution: getting strong posts in front of more new people so the better engagement rate works on a wider base.
+
+      | Instagram | Aug 2–8 | Aug 9–15 |
+      | --- | --- | --- |
+      | Views | 13,298 | 9,958 |
+      | Reach | 3,549 | 2,294 |
+      | Interactions | 176 | 165 |
+      | Engagement rate | 5.0% | 7.2% |
+      | Followers | 6,291 | 6,290 |
+
+      Facebook was a quieter week for views (689 vs 1,166), but the audience stayed intact — unique viewers actually edged up (228) and interactions were level. It remains a steady, low-maintenance presence for the brand.
+
+      ### Google Business Profile — both studios ahead of pace
+
+      GBP reports monthly, so the August figures below cover **Aug 1–15 (about half a month)**, compared with the full July total.
+
+      **Gray** — phone calls stand out: **14 calls in the first half of August vs. 20 for all of July**, well ahead of pace (calls are the closest signal to a booking in this data). Reviews have already matched the full July count.
+
+      | Gray studio | July total | Aug 1–15 |
+      | --- | --- | --- |
+      | Phone calls | 20 | 14 |
+      | Website clicks | 149 | 51 |
+      | Direction requests | 46 | 11 |
+      | Profile interactions | 215 | 76 |
+      | Google reviews | 2 | 2 |
+
+      **Alfred** — strong on local intent: **31 direction requests halfway through the month vs. 50 for all of July** — people are actively finding the studio and heading there. Profile interactions are right on pace.
+
+      | Alfred studio | July total | Aug 1–15 |
+      | --- | --- | --- |
+      | Direction requests | 50 | 31 |
+      | Profile interactions | 98 | 49 |
+      | Website clicks | 45 | 16 |
+      | Phone calls | 2 | 2 |
+
+      ### What's working
+
+      - **Search visibility is compounding** — ten weeks of steady ranking gains have moved us from the fourth page of results to the top of the second, and the click and impression growth confirms it's translating into real visits.
+      - **Content quality is landing** — Instagram engagement rate improved meaningfully, and Facebook interactions held level on lower distribution.
+      - **Local demand is strong at both studios** — Gray is ahead of pace on calls and Alfred ahead of pace on direction requests, both signals of people close to visiting.
+      - **Email is contributing again**, with visits returning as the automations run.
+
+      ### Where to focus next
+
+      - **Keep feeding search** — the same consistent content and technical work applied to service and location pages should keep lifting positions and clicks.
+      - **Widen social distribution** — engagement quality is up, so the opportunity is reaching more new people with the posts already performing well.
+      - **Build on Gray's call momentum** — keep the profile fresh with posts, photos, and review responses.
+      - **Keep encouraging reviews** — a steady flow supports both ranking and confidence at the point of decision.
+
+      *(Reporting period Aug 9–15 vs. Aug 2–8; Google Business Profile figures are Aug 1–15 vs. the full July total. The state/regional breakdown is held back this week — the export repeated an earlier week's figures and is being re-pulled rather than reported with a known error. All other figures were checked against source as of Aug 16, 2026. Prepared by Liger Media PH.)*
     `
   },
   {
