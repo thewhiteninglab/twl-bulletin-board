@@ -37,9 +37,6 @@ const BULLETINS = [
     id: "weekly-update-08-14-26",
     date: "2026-08-14",
     title: "Weekly Marketing Update — Customer Lifecycle Email Results",
-    // draft: true hides this bulletin from the public site (sidebar, search,
-    // and deep links). Set to false or remove this line to publish it.
-    draft: true,
     body: `
       Hi team — here's the August 14 update. We start with where last meeting's open items landed, then the first results from our Customer Lifecycle email series, now live in Square. More updates to come this week.
 
@@ -207,6 +204,35 @@ const BULLETINS = [
 
       > **NEXT ACTION — TABATHA**
       > Review the [ORLA product page](https://orla.thewhiteninglab.co/) and share your thoughts with Angel.
+
+      ## 5. This Week's Next Actions — Summary
+
+      A quick roll-up of open action items (full detail in the sections above).
+
+      **Tabatha**
+
+      - Review and approve "How Many Shades Whiter Will My Teeth Actually Get?" before its Aug 17 publish date (Section 1).
+      - Review and approve "Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works" before its Aug 24 publish date (Section 1).
+      - Review the revised Private Mentorship page and share your feedback with Angel (Section 1).
+      - Review the ORLA product page and share your thoughts with Angel (Section 4).
+      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
+
+      **Angel**
+
+      - Roll out the Square email improvements from the next-period plan — redemption instructions, a clearer Lapsed Booker booking button, content-led Welcome/Repeat emails, and list cleanup (Section 3).
+
+      **Team**
+
+      - Follow up personally with Susan Lapreziosa to help her rebook (Winback lead; contact details in Square) (Section 3).
+
+      ## Quick Reference
+
+      **Links Mentioned**
+
+      - ["How Many Shades Whiter Will My Teeth Actually Get?" blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing)
+      - ["Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works" blog post (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing)
+      - [Private Mentorship page](https://thewhiteninglab.co/private-mentorship)
+      - [ORLA product page](https://orla.thewhiteninglab.co/)
     `
   },
   {
