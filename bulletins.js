@@ -55,65 +55,11 @@ const BULLETINS = [
       **Still outstanding:**
 
       - 🔴 **Tabatha — Review and approve "How Many Shades Whiter Will My Teeth Actually Get?"** before its **August 17** publish date, and let Angel know once it's approved. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1ogrPymhHS-ej7TO8uCgEcB1brIc49ULaUGvYOZydRN4/edit?usp=sharing).
+      - 🔴 **Tabatha — Review and approve "Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works"** before its **August 24** publish date, and let Angel know once it's approved. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing).
       - 🔴 **Tabatha — Review the revised Private Mentorship page** and share your feedback with Angel, so we can keep improving it. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship).
       - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No change — carrying this forward as is.
 
-      ## 2. Square Customer Lifecycle Emails
-
-      All five Square email automations have been live since Aug 6 — a strong first ten days. The program is delivering cleanly and already producing revenue and bookings from a system that runs without daily attention: **$150 in attributable sales and 3 bookings**, with deliverability at or near 100%.
-
-      The most valuable outcome of the period wasn't a number — it was a discovery: we identified exactly **why coupon redemptions read as zero**, and the cause is a Square platform limitation, not a weakness in the offers or the emails. That's solvable, and it's the biggest single opportunity in front of us (details below).
-
-      ### At a glance
-
-      Across all five automations: **565 sent, 544 delivered, 222 opens, $150 in sales, and 3 bookings.**
-
-      | Automation | Sent | Open rate | Click rate | CTOR | Result |
-      | --- | --- | --- | --- | --- | --- |
-      | Winback ($20 off) | 41 | 59% | 2% | 4% | $150 in sales, 1 purchase |
-      | Lapsed Booker | 481 | 39% | 1% | 3% | 3 bookings, 178 opens |
-      | Drive Repeat Purchase ($5 off) | 14 | 57% | 0% | 0% | Too few sends to read |
-      | Google Reviews | 11 | 45% | 9% | 20% | 1 review click |
-      | Welcome Email ($5 off) | 18 | 39% | 6% | 14% | 1 click to blog content |
-
-      ### What's working
-
-      - **A clean, stable launch.** Deliverability is 100% on four of five (Lapsed Booker at 96%). Nothing is landing in spam; nothing is broken.
-      - **Clients are opening the emails.** Open rates run 39–59%, at the upper end of what service businesses see — the brand has attention in the inbox.
-      - **Winback is already paying for itself.** 41 emails produced a $150 sale — about $3.66 of revenue per person contacted — and it happened without the coupon being used, so the demand is real on its own merit.
-      - **Lapsed Booker reached a dormant audience at scale.** 481 former clients received it, 178 opened, and 3 bookings followed — 178 people who had gone quiet are paying attention again.
-      - **Google Reviews has the most engaged audience.** 1 in 5 openers clicked (20% CTOR), the highest in the program — and reviews compound beyond email by strengthening our Google Business Profile and local search.
-
-      ### The key finding — why redemptions read as zero
-
-      Square Appointments doesn't use coupon codes — there's no field for a client to enter one when booking online, so redemptions were never going to register through that path. This is a platform limitation, not a problem with the offers.
-
-      That's exactly why we already ask clients to write the code in the **Appointment Notes** — the same workaround we run on the paid ads side, which lets the team apply the discount at checkout. To improve conversion, we'll make the path obvious. Every offer email will spell out two easy options:
-
-      1. Type the code in the Appointment Notes when booking online, **or**
-      2. Simply present the email at payment, and we'll apply the discount.
-
-      Making redemption obvious is the fastest improvement available this period — and it needs no change to the discounts themselves.
-
-      ### What the data is telling us
-
-      - **Clients respond to education.** The one click from the Welcome email went to the blog post on how long whitening lasts — not the discount button beside it. Helpful content is out-pulling price, which fits a considered purchase like whitening.
-      - **Lapsed clients are looking for a way to reach us.** Every click from Lapsed Booker went to the Facebook, Instagram, or website links at the bottom — people wanted to get in touch and took the path they could find. The booking button is already there (highlighted in yellow), so this is refinement, not repair: testing a different button label and repositioning the social/website icons should send more of those 178 opens toward booking.
-      - **Three automations need more volume.** Drive Repeat Purchase, Google Reviews, and Welcome sent just 14, 11, and 18 emails — one click swings the percentages a lot, so treat these as directional until the audiences grow.
-
-      ### Plan for next period
-
-      - Add **redemption instructions** to every offer email (note the code at booking, or present it at the counter).
-      - Improve the **Lapsed Booker button** — test a different label and review where the social/website icons sit so the booking action stands out.
-      - **Pair helpful content with the booking ask** in Welcome and Drive Repeat Purchase — lead with a blog article, booking button directly beneath.
-      - **Clean the list** — suppress hard bounces to bring Lapsed Booker's bounce rate from 4% under the 2% healthy benchmark.
-
-      > **FOLLOW-UP LEAD — WINBACK**
-      > **Susan Lapreziosa** clicked the "Book" button in the Winback email. She booked her New Patient Whitening Package back on Feb 27, so she's a strong candidate for a personal follow-up to help her rebook. Contact details are in Square (and with Angel).
-
-      *(Figures from Square Marketing automation reports, ~10 days since the Aug 6 launch — an early baseline. Three automations sent under 20 emails, so those percentages are directional. Open rates are inflated by Apple Mail's automatic image loading, so read them mainly as a deliverability signal.)*
-
-      ## 3. Weekly Performance Report — Aug 9–15
+      ## 2. Weekly Performance Report — Aug 9–15
 
       A steady week with real progress in the places that compound. Google Search delivered its **best ranking of 2026**, organic search became our **largest source of website visitors**, and Instagram engagement quality improved even as reach settled after the summer peak. Website sessions held close to the prior week at 153, keeping the site in its stable summer range. (Reporting period Aug 9–15, 2026, compared with Aug 2–8.)
 
@@ -194,6 +140,73 @@ const BULLETINS = [
       - **Keep encouraging reviews** — a steady flow supports both ranking and confidence at the point of decision.
 
       *(Reporting period Aug 9–15 vs. Aug 2–8; Google Business Profile figures are Aug 1–15 vs. the full July total. The state/regional breakdown is held back this week — the export repeated an earlier week's figures and is being re-pulled rather than reported with a known error. All other figures were checked against source as of Aug 16, 2026. Prepared by Liger Media PH.)*
+
+      ## 3. Square Customer Lifecycle Emails
+
+      All five Square email automations have been live since Aug 6 — a strong first ten days. The program is delivering cleanly and already producing revenue and bookings from a system that runs without daily attention: **$150 in attributable sales and 3 bookings**, with deliverability at or near 100%.
+
+      The most valuable outcome of the period wasn't a number — it was a discovery: we identified exactly **why coupon redemptions read as zero**, and the cause is a Square platform limitation, not a weakness in the offers or the emails. That's solvable, and it's the biggest single opportunity in front of us (details below).
+
+      ### At a glance
+
+      Across all five automations: **565 sent, 544 delivered, 222 opens, $150 in sales, and 3 bookings.**
+
+      | Automation | Sent | Open rate | Click rate | CTOR | Result |
+      | --- | --- | --- | --- | --- | --- |
+      | Winback ($20 off) | 41 | 59% | 2% | 4% | $150 in sales, 1 purchase |
+      | Lapsed Booker | 481 | 39% | 1% | 3% | 3 bookings, 178 opens |
+      | Drive Repeat Purchase ($5 off) | 14 | 57% | 0% | 0% | Too few sends to read |
+      | Google Reviews | 11 | 45% | 9% | 20% | 1 review click |
+      | Welcome Email ($5 off) | 18 | 39% | 6% | 14% | 1 click to blog content |
+
+      ### What's working
+
+      - **A clean, stable launch.** Deliverability is 100% on four of five (Lapsed Booker at 96%). Nothing is landing in spam; nothing is broken.
+      - **Clients are opening the emails.** Open rates run 39–59%, at the upper end of what service businesses see — the brand has attention in the inbox.
+      - **Winback is already paying for itself.** 41 emails produced a $150 sale — about $3.66 of revenue per person contacted — and it happened without the coupon being used, so the demand is real on its own merit.
+      - **Lapsed Booker reached a dormant audience at scale.** 481 former clients received it, 178 opened, and 3 bookings followed — 178 people who had gone quiet are paying attention again.
+      - **Google Reviews has the most engaged audience.** 1 in 5 openers clicked (20% CTOR), the highest in the program — and reviews compound beyond email by strengthening our Google Business Profile and local search.
+
+      ### The key finding — why redemptions read as zero
+
+      Square Appointments doesn't use coupon codes — there's no field for a client to enter one when booking online, so redemptions were never going to register through that path. This is a platform limitation, not a problem with the offers.
+
+      That's exactly why we already ask clients to write the code in the **Appointment Notes** — the same workaround we run on the paid ads side, which lets the team apply the discount at checkout. To improve conversion, we'll make the path obvious. Every offer email will spell out two easy options:
+
+      1. Type the code in the Appointment Notes when booking online, **or**
+      2. Simply present the email at payment, and we'll apply the discount.
+
+      Making redemption obvious is the fastest improvement available this period — and it needs no change to the discounts themselves.
+
+      ### What the data is telling us
+
+      - **Clients respond to education.** The one click from the Welcome email went to the blog post on how long whitening lasts — not the discount button beside it. Helpful content is out-pulling price, which fits a considered purchase like whitening.
+      - **Lapsed clients are looking for a way to reach us.** Every click from Lapsed Booker went to the Facebook, Instagram, or website links at the bottom — people wanted to get in touch and took the path they could find. The booking button is already there (highlighted in yellow), so this is refinement, not repair: testing a different button label and repositioning the social/website icons should send more of those 178 opens toward booking.
+      - **Three automations need more volume.** Drive Repeat Purchase, Google Reviews, and Welcome sent just 14, 11, and 18 emails — one click swings the percentages a lot, so treat these as directional until the audiences grow.
+
+      ### Plan for next period
+
+      - Add **redemption instructions** to every offer email (note the code at booking, or present it at the counter).
+      - Improve the **Lapsed Booker button** — test a different label and review where the social/website icons sit so the booking action stands out.
+      - **Pair helpful content with the booking ask** in Welcome and Drive Repeat Purchase — lead with a blog article, booking button directly beneath.
+      - **Clean the list** — suppress hard bounces to bring Lapsed Booker's bounce rate from 4% under the 2% healthy benchmark.
+
+      > **FOLLOW-UP LEAD — WINBACK**
+      > **Susan Lapreziosa** clicked the "Book" button in the Winback email. She booked her New Patient Whitening Package back on Feb 27, so she's a strong candidate for a personal follow-up to help her rebook. Contact details are in Square (and with Angel).
+
+      *(Figures from Square Marketing automation reports, ~10 days since the Aug 6 launch — an early baseline. Three automations sent under 20 emails, so those percentages are directional. Open rates are inflated by Apple Mail's automatic image loading, so read them mainly as a deliverability signal.)*
+
+      ## 4. ORLA Product Pages
+
+      Our ORLA product page is live for the team to see: [orla.thewhiteninglab.co](https://orla.thewhiteninglab.co/).
+
+      ORLA products are expected to be released soon. We're **not** targeting a nationwide release, so here's what I recommend:
+
+      - **Market ORLA within The Whitening Lab's own website** as **"ORLA by The Whitening Lab,"** aimed at our existing Whitening Lab customers rather than a broad national launch. This lets ORLA borrow the trust and traffic we've already built.
+      - **As soon as the products release, actively collect feedback from our early users** — so we can put real customer credibility (reviews, testimonials, results) on the product pages and build the brand from a foundation of proof.
+
+      > **NEXT ACTION — TABATHA**
+      > Review the [ORLA product page](https://orla.thewhiteninglab.co/) and share your thoughts with Angel.
     `
   },
   {
