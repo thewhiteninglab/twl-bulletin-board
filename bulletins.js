@@ -34,6 +34,184 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-08-27-26",
+    date: "2026-08-27",
+    title: "Weekly Marketing Update — Follow-Ups & New Items",
+    body: `
+      Hi team — here's the August 27 update. (We didn't publish a bulletin on August 21, so this one picks up where the August 14 update left off.) We start with the open items still outstanding, then this week's updates. More to come as things develop.
+
+      ## 1. Outstanding Open Items
+
+      Still open from the last bulletin (Aug 14). Status key: 🟢 Done · 🟡 In progress · 🔴 Not done.
+
+      - 🔴 **Tabatha — Review and approve "Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works."** Not yet done — this one is past its Aug 24 target, so it's the most time-sensitive. [Read the blog post (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing).
+      - 🔴 **Tabatha — Review the revised Private Mentorship page** and share your feedback with Angel, so we can keep improving it. Not yet done. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship).
+      - 🔴 **Tabatha — Alfred: let Angel know once you're ready to proceed with the transition plan.** No change — carrying this forward as is.
+
+      ## 2. Weekly Performance Report — Aug 16–22
+
+      A strong rebound week with gains across **every major channel**. Website sessions jumped **18% to 180** — the highest single week since late June. Google Search hit its **best average position ever recorded** in this dataset (11.1). Instagram reach nearly tripled and engagement volume grew 78%. Facebook had its biggest distribution week in months. (Reporting period Aug 16–22, 2026, vs. Aug 9–15.)
+
+      ### Website traffic — strongest week since late June
+
+      | Channel | Aug 9–15 | Aug 16–22 | Change |
+      | --- | --- | --- | --- |
+      | Organic Search | 69 | 77 | +12% |
+      | Direct | 66 | 86 | +30% |
+      | Organic Social | 13 | 15 | +15% |
+      | Email | 5 | 2 | −3 |
+      | Total sessions | 153 | 180 | +18% |
+
+      Three of four channels rose in the same week — Direct bounced back sharply, Organic Search extended its climb to a **fifth straight week**, and Organic Social picked up modestly. Broad-based lift like this signals genuine momentum, not a single outlier post. Email dipped slightly as the initial re-engagement pulse settles, but it's still active and contributing.
+
+      ### Google Search — best position on record
+
+      | Metric | Aug 9–15 | Aug 16–22 | Change |
+      | --- | --- | --- | --- |
+      | Clicks | 70 | 70 | flat |
+      | Impressions | 2,820 | 3,076 | +9% |
+      | Avg. click-through rate | 2.50% | 2.30% | −0.2 pts |
+      | Average position | 13.2 | 11.1 | +2.1 (best ever) |
+
+      Average position improved from 13.2 to **11.1 — the best ranking all year**, and another step in the climb from **32.5 in early June to 11.1 today (21+ places in twelve weeks)**. That puts us right at the page-one threshold for a growing set of searches. Impressions rose 9% (we're appearing in more searches than ever); clicks held flat, which pulled CTR down slightly — the expected pattern when a site starts ranking for a broader, newer set of queries. The next step is converting that added visibility into more clicks. (A second tracked URL, thewhiteninglab.co, also improved — position 12.3 → 9.9, clicks 28 → 32. Combined across both properties: **102 clicks and 5,861 impressions** for the week.)
+
+      ### Instagram — reach nearly triples
+
+      | Metric | Aug 9–15 | Aug 16–22 | Change |
+      | --- | --- | --- | --- |
+      | Views | 9,958 | 16,621 | +67% |
+      | Reach | 2,294 | 6,105 | +166% |
+      | Interactions | 165 | 293 | +78% |
+      | Engagement rate | 7.2% | 4.8% | −2.4 pts |
+      | New follows | 8 | 10 | +2 |
+
+      Reach nearly tripled and interaction **volume grew 78%** (293 vs 165). The engagement rate came down from 7.2% to 4.8% — the expected trade-off when reach expands: a broader audience includes more casual viewers, pulling the rate down even as real interactions climb. Interaction volume is the more meaningful signal here, and it moved sharply the right way. Gaining 10 new follows in a high-reach week is a healthy conversion on new exposure.
+
+      ### Facebook — breakout distribution week
+
+      | Metric | Aug 9–15 | Aug 16–22 | Change |
+      | --- | --- | --- | --- |
+      | Views | 689 | 2,615 | +279% |
+      | Unique viewers | 228 | 1,485 | +551% |
+      | Interactions | 20 | 22 | +10% |
+      | Followers | 1,112 | 1,114 | +2 |
+
+      Views nearly quadrupled and unique viewers jumped more than 6× — a pattern that usually means one or a few posts earned strong algorithmic reach well beyond existing followers.
+
+      ### Top social posts this week
+
+      - **🏆 "Friday Funday 😎 Coworker Challenge"** (Aug 21, crossposted FB + IG) — the clear standout. ~6,400 views (5,907 IG / 516 FB), 137 shares, 113 comments, and an exceptional save count. The challenge format drove massive saves and shares and earned strong organic discovery (watch time split ~59% followers / 41% recommendations). **This format is worth repeating.**
+      - **"Tell us your icks below"** (Aug 17, crossposted) — ~5,700 views, strong reach via recommendations (77% of watch time came from new-audience recommendations). Good discovery, lower engagement rate than the Friday post.
+      - **"Put the Whiteout Down"** (Aug 19, crossposted) — ~1,300 views but stayed almost entirely within existing followers (98.8% follower watch time), almost no new discovery.
+      - **"Influencer marketing is everywhere…"** (Aug 20, Instagram only — no crosspost) — underperformed (43 views); Meta flagged it as below typical, and the missing Facebook crosspost likely hurt distribution.
+
+      Takeaway: repeat the challenge format that drove the Friday spike, and keep crossposting to Facebook — the IG-only post that skipped the crosspost was the one that didn't travel.
+
+      ### Google Business Profile — August pace
+
+      GBP reports monthly, so the figures below cover **Aug 1–22 (about 71% of the month)** against the full July total.
+
+      **Gray** — calls are tracking to match or slightly exceed July with a week still to go (calls are the closest signal to a booking), and reviews already match July's full-month count. Website clicks run behind, which suggests the profile is converting intent straight into phone calls rather than website visits — the higher-value outcome.
+
+      | Gray studio | July total | Aug 1–22 |
+      | --- | --- | --- |
+      | Phone calls | 20 | 18 |
+      | Website clicks | 149 | 77 |
+      | Direction requests | 46 | 25 |
+      | Profile interactions | 215 | 120 |
+      | Google reviews | 2 | 2 |
+
+      **Alfred** — already matched July's full call total with nine days remaining, and direction requests are on pace to reach or exceed July. Profile interactions are tracking exactly on pace.
+
+      | Alfred studio | July total | Aug 1–22 |
+      | --- | --- | --- |
+      | Direction requests | 50 | 37 |
+      | Profile interactions | 98 | 69 |
+      | Website clicks | 45 | 30 |
+      | Phone calls | 2 | 2 |
+
+      ### What's working
+
+      - **Google Search hit its best average position of the year (11.1)** — up from 32.5 in early June, 21 positions gained in twelve weeks.
+      - **Traffic up across all four channels in the same week** — Organic Search extended to five straight weeks of gains.
+      - **Instagram reach nearly tripled and interaction volume grew 78%** — both moving the right way together.
+      - **Facebook had its biggest distribution week in months** — one or more posts earned strong algorithmic reach.
+      - **Local demand is strong at both studios** — Gray on pace to match/exceed July calls; Alfred already matched its July calls with a week left, and both are on pace or ahead for direction requests.
+
+      ### Where to focus next
+
+      - **Convert the added search visibility into clicks** — position 11.1 means we're appearing; the next step is earning more clicks from those impressions as newer rankings build authority.
+      - **Study the Facebook/challenge spike** — identify what drove it (format, topic, timing) so we can replicate it.
+      - **Keep the Instagram momentum** — maintain posting consistency and watch which content types earn the wider distribution.
+      - **Keep encouraging reviews at Gray** — with calls strong and clients coming in, a steady review ask keeps social proof compounding alongside the search gains.
+
+      *(Reporting period Aug 16–22 vs. Aug 9–15; Google Business Profile figures are Aug 1–22 vs. the full July total. Google Search data from Search Console via the TWL Marketing Metrics spreadsheet. All figures checked as of Aug 26, 2026. Prepared by Liger Media PH.)*
+
+      ## 3. Tabatha's Blog Series — Two Parts
+
+      We're publishing the two-part blog post Tabatha wrote, in Tabatha's own voice:
+
+      - **Part One — "Built in a Treatment Room, Not a Boardroom"** is **live** (published last Monday): [Read Part One](https://thewhiteninglab.co/blog/built-in-a-treatment-room-not-a-boardroom).
+      - **Part Two — "What Real Teeth Have Taught Us About Whitening Products: Part Two"** publishes **Monday, August 31**: [Part Two](https://thewhiteninglab.co/blog/what-real-teeth-have-taught-us-about-whitening-products).
+
+      Founder-voice content like this builds authority and gives us more of the credible, human material that our search and social channels can promote.
+
+      ## 4. ORLA Presale — Now Live
+
+      Our **ORLA presale launched last Monday (Aug 24)** and is ongoing. Presale page: [thewhiteninglab.co/orla-presale](https://thewhiteninglab.co/orla-presale).
+
+      **Early traction:** as of Aug 26 we've already had **5 purchases of The Complete ORLA Routine bundle.**
+
+      **The offer.** The Complete ORLA Routine is a 14-day take-home whitening system — **Whitening Strips + Whitening Pen + Recovery Serum** — at **$80** during the presale (regularly $95; save $15).
+
+      **Presale details:**
+
+      - Runs **August 24 – September 10, 2026**. Orders begin shipping **October 1, 2026**.
+      - **First 10 orders of $50 or more get a FREE ORLA Bag.** The bag isn't part of the bundle, but buying the bundle qualifies a customer for the bag if they're among the first 10 orders of $50+.
+      - **Free shipping on orders of $50 or more.**
+      - Card is charged at order; customers can cancel anytime before shipment for a full refund.
+
+      > **NEXT ACTIONS — EVERYONE**
+      > 1. Keep promoting the ORLA presale in our social media posts.
+      > 2. Promote it to our in-store clients — this is our upsell offer.
+
+      > **NEXT ACTION — TABATHA**
+      > Please complete your review of the ORLA presale newsletter so we can send the email blast to our list ASAP. (A copy of the newsletter is with Angel / ready in Brevo.)
+
+      ## 5. Heads-Up: Angel Out Fri–Sun
+
+      Angel will be on a personal trip **Friday, Saturday, and Sunday** and will have limited internet access, so responses will be slower than usual.
+
+      > **FYI — REACHING ANGEL THIS WEEKEND**
+      > Angel will check messages between **10:00 AM – 12:00 PM EST** each day and respond as soon as possible. Please allow extra time for replies over the weekend.
+
+      ## 6. This Week's Next Actions — Summary
+
+      A quick roll-up of open action items (full detail in the sections above).
+
+      **Tabatha**
+
+      - Approve "Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works" — it's past its Aug 24 target, so it's the most time-sensitive (Section 1).
+      - Complete the ORLA presale newsletter review so we can send the email blast to our list ASAP (Section 4).
+      - Review the revised Private Mentorship page and share your feedback with Angel (Section 1).
+      - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
+
+      **Everyone**
+
+      - Keep promoting the ORLA presale in our social media posts, and upsell it to in-store clients (Section 4).
+
+      ## Quick Reference
+
+      **Links Mentioned**
+
+      - ["Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works" blog post (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing)
+      - [Private Mentorship page](https://thewhiteninglab.co/private-mentorship)
+      - [Blog — Part One: "Built in a Treatment Room, Not a Boardroom"](https://thewhiteninglab.co/blog/built-in-a-treatment-room-not-a-boardroom)
+      - [Blog — Part Two: "What Real Teeth Have Taught Us About Whitening Products"](https://thewhiteninglab.co/blog/what-real-teeth-have-taught-us-about-whitening-products)
+      - [ORLA Presale page](https://thewhiteninglab.co/orla-presale)
+    `
+  },
+  {
     id: "weekly-update-08-14-26",
     date: "2026-08-14",
     title: "Weekly Marketing Update — Customer Lifecycle Email Results",
