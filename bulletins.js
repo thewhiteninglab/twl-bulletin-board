@@ -160,7 +160,7 @@ const BULLETINS = [
 
       Our **ORLA presale launched last Monday (Aug 24)** and is ongoing. Presale page: [thewhiteninglab.co/orla-presale](https://thewhiteninglab.co/orla-presale).
 
-      **Early traction:** as of Aug 26 we've already had **5 purchases of The Complete ORLA Routine bundle.**
+      **Early traction:** we now have **6 purchases of The Complete ORLA Routine bundle** — including one from the email blast that just went out.
 
       **The offer.** The Complete ORLA Routine is a 14-day take-home whitening system — **Whitening Strips + Whitening Pen + Recovery Serum** — at **$80** during the presale (regularly $95; save $15).
 
@@ -175,8 +175,8 @@ const BULLETINS = [
       > 1. Keep promoting the ORLA presale in our social media posts.
       > 2. Promote it to our in-store clients — this is our upsell offer.
 
-      > **NEXT ACTION — TABATHA**
-      > Please complete your review of the ORLA presale newsletter so we can send the email blast to our list ASAP. (A copy of the newsletter is with Angel / ready in Brevo.)
+      > **✅ DONE — NEWSLETTER SENT**
+      > Tabatha completed her review yesterday and the ORLA presale email blast has gone out to our list — and it's already generated 1 bundle sale.
 
       ## 5. Heads-Up: Angel Out Fri–Sun
 
@@ -192,7 +192,6 @@ const BULLETINS = [
       **Tabatha**
 
       - Approve "Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works" — it's past its Aug 24 target, so it's the most time-sensitive (Section 1).
-      - Complete the ORLA presale newsletter review so we can send the email blast to our list ASAP (Section 4).
       - Review the revised Private Mentorship page and share your feedback with Angel (Section 1).
       - Alfred: let Angel know once you're ready to proceed with the transition plan (Section 1).
 
