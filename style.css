@@ -478,6 +478,49 @@ body {
   font-weight: 600;
 }
 
+/* Stat highlight cards — headline metrics in weekly reports */
+.bulletin-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 0 0 22px;
+}
+
+.stat {
+  flex: 1 1 140px;
+  min-width: 140px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px 18px;
+  background: var(--twl-off-white);
+  border: 1px solid var(--twl-gray-line);
+  border-top: 3px solid var(--twl-yellow);
+  border-radius: 6px;
+}
+
+.stat-value {
+  font-size: 26px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--twl-black);
+}
+
+.stat-label {
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--twl-gray-text);
+}
+
+.bulletin-hr {
+  border: 0;
+  border-top: 1px solid var(--twl-gray-line);
+  margin: 34px 0;
+}
+
 .bulletin-figure {
   margin: 0 0 24px;
   max-width: 420px;

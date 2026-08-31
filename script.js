@@ -105,6 +105,7 @@
     let olBuffer = [];
     let calloutBuffer = [];
     let tableBuffer = [];
+    let statBuffer = [];
 
     function flushPara() {
       if (paraBuffer.length) {
@@ -131,6 +132,19 @@
         calloutBuffer = [];
       }
     }
+    // Stat cards: "@@ value | label" (label optional). Consecutive @@ lines
+    // group into one horizontal row of big-number highlight cards — used for
+    // the headline metrics in weekly performance reports.
+    function flushStats() {
+      if (statBuffer.length) {
+        html += `<div class="bulletin-stats">` + statBuffer.map((s) => {
+          const value = `<span class="stat-value">${inline(s.value)}</span>`;
+          const label = s.label ? `<span class="stat-label">${inline(s.label)}</span>` : "";
+          return `<div class="stat">${value}${label}</div>`;
+        }).join("") + `</div>`;
+        statBuffer = [];
+      }
+    }
     // Pipe tables: | Col A | Col B |  with a | --- | --- | separator row.
     function splitRow(row) {
       return row.replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
@@ -155,7 +169,7 @@
       const line = rawLine.trim();
 
       if (line === "") {
-        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         continue;
       }
 
@@ -165,22 +179,31 @@
       const videoMatch = line.match(/^@\[([^\]]*)\]\(([^)]+)\)$/);
       // Ordered list: "1. step". Numbered so step order is preserved.
       const olMatch = line.match(/^\d+\.\s+(.*)$/);
+      // Stat card: "@@ value | label" (label optional).
+      const statMatch = line.match(/^@@\s+(.*)$/);
 
       if (line.startsWith("### ")) {
-        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         html += headingHtml("h4", line.slice(4).trim());
       } else if (line.startsWith("## ")) {
-        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         html += headingHtml("h3", line.slice(3).trim());
-      } else if (imgMatch) {
+      } else if (line === "---" || line === "***" || line === "___") {
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
+        html += `<hr class="bulletin-hr">`;
+      } else if (statMatch) {
         flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+        const parts = statMatch[1].split("|");
+        statBuffer.push({ value: parts[0].trim(), label: (parts[1] || "").trim() });
+      } else if (imgMatch) {
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         const alt = escapeHtml(imgMatch[1]);
         const src = escapeHtml(imgMatch[2]);
         html += `<figure class="bulletin-figure"><img src="${src}" alt="${alt}" loading="lazy">${
           alt ? `<figcaption>${alt}</figcaption>` : ""
         }</figure>`;
       } else if (videoMatch) {
-        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         const caption = escapeHtml(videoMatch[1]);
         const driveId = videoMatch[2].match(/drive\.google\.com\/file\/d\/([^/?]+)/);
         const embedSrc = escapeHtml(
@@ -191,23 +214,23 @@
             caption ? `<figcaption>${caption}</figcaption>` : ""
           }</figure>`;
       } else if (line.startsWith("|") && line.endsWith("|")) {
-        flushPara(); flushList(); flushOrderedList(); flushCallout();
+        flushPara(); flushList(); flushOrderedList(); flushCallout(); flushStats();
         tableBuffer.push(line);
       } else if (line.startsWith("- ")) {
-        flushPara(); flushOrderedList(); flushCallout(); flushTable();
+        flushPara(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         listBuffer.push(line.slice(2).trim());
       } else if (olMatch) {
-        flushPara(); flushList(); flushCallout(); flushTable();
+        flushPara(); flushList(); flushCallout(); flushTable(); flushStats();
         olBuffer.push(olMatch[1].trim());
       } else if (line.startsWith("> ")) {
-        flushPara(); flushList(); flushOrderedList(); flushTable();
+        flushPara(); flushList(); flushOrderedList(); flushTable(); flushStats();
         calloutBuffer.push(line.slice(2).trim());
       } else {
-        flushList(); flushOrderedList(); flushCallout(); flushTable();
+        flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
         paraBuffer.push(line);
       }
     }
-    flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable();
+    flushPara(); flushList(); flushOrderedList(); flushCallout(); flushTable(); flushStats();
     return html;
   }
 

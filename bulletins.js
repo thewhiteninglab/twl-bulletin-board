@@ -34,6 +34,284 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-08-31-26",
+    date: "2026-08-31",
+    title: "Weekly Marketing Update — We Went Viral",
+    body: `
+      Hi team — here is the weekly marketing update for **August 23–29, 2026**. This was one of our strongest weeks yet: viral Social content reached a brand-new audience at scale, while our intentional ORLA Presale promotion converted that momentum into real, attributable sales.
+
+      ## 🚀 This Week's Biggest Marketing Win
+
+      **We Went Viral — Now Let's Turn Attention Into Growth**
+
+      Last week was one of our strongest weeks for Social Media visibility. Our content generated **hundreds of thousands of views, tens of thousands of interactions, and a significant increase in audience reach.**
+
+      At the same time, our intentional ORLA Presale promotion generated:
+
+      @@ 7 | ORLA Complete Routine purchases
+      @@ $560 | in revenue
+
+      The opportunity now is clear:
+
+      > **We have proven that we can capture attention. Our next challenge is to build a simple system that turns more of that attention into ORLA sales and Whitening Lab appointments.**
+
+      ---
+
+      ## 🔥 Social Media: A Breakout Week
+
+      Two videos stood out in particular.
+
+      ### 🎥 Friday Coworker Challenge
+
+      @@ 403.6K | views
+      @@ 15.2K | interactions
+
+      This was a **major Social Media win**. The video dramatically expanded our exposure and showed us that people respond to fun, relatable and authentic content from The Whitening Lab.
+
+      The video did not promote ORLA and did not generate link clicks, so we cannot directly attribute an ORLA sale to this specific video. **But that doesn't make the video less valuable.** Quite the opposite — it introduced The Whitening Lab to a **much larger audience than we normally reach.**
+
+      The opportunity now is:
+
+      > **How do we take all of that new attention and introduce those people to The Whitening Lab, our whitening services and ORLA?**
+
+      The Coworker Challenge showed us that entertaining content can bring people into our ecosystem at a scale we haven't seen before.
+
+      ### 🎥 Tabatha's Fun Video
+
+      @@ 2.3K | views
+      @@ 1.6K | reach
+
+      Another example of fun, personality-driven content gaining traction. It reinforces something important: **our audience responds to personality, entertainment and authentic content.** We should continue developing this type of content.
+
+      ---
+
+      ## 💡 The Big Lesson
+
+      **We know how to get attention. Now we need to turn attention into action.**
+
+      Our viral content is doing something extremely valuable:
+
+      - **People are watching.**
+      - **People are engaging.**
+      - **People are discovering us.**
+
+      Now we need to give those people a reason to take the next step. The path from attention to purchase:
+
+      > **Viral Content**
+      > ↓
+      > **New People Discover Us**
+      > ↓
+      > **More People Learn About Us**
+      > ↓
+      > **ORLA / Whitening Education**
+      > ↓
+      > **Offer or Appointment**
+      > ↓
+      > **Purchase or Booking**
+
+      We don't need every viral video to sell something. Instead, we need to build a **series of content pieces that work together.**
+
+      ---
+
+      ## 🛍️ ORLA Presale: Strong Conversion Results
+
+      While our viral content was generating massive awareness, our intentional ORLA Presale promotion generated measurable sales. Last week:
+
+      @@ 7 | ORLA Complete Routines sold
+      @@ $560 | in revenue
+
+      ### Sales Attribution
+
+      | Channel | Purchases | Revenue | Share |
+      | --- | ---: | ---: | ---: |
+      | 🟢 **Social ORLA Promotion** | **5** | **$400** | **71.4%** |
+      | 🟠 **Email** | **2** | **$160** | **28.6%** |
+      | **Total** | **7** | **$560** | **100%** |
+
+      ### Social-attributed customers
+
+      - Emma Boyd
+      - Karen Gilles
+      - Bailey Bickford
+      - Megan Weed
+      - Matthew Carrier
+
+      ### Email-attributed customers
+
+      - Kathryn Seitz
+      - Dennis G Doiron
+
+      The two Email purchases were supported by confirmed Email clicks. The five Social purchases are attributed to the Social ORLA promotion based on the timing and campaign activity.
+
+      Three purchases followed Monday's promotional posts, including the **2:47 PM post**, which generated **23 link clicks**. Two additional purchases occurred the following day after the ORLA promotional video was released. The Email campaign did not launch until Thursday/Friday, supporting the Social attribution for those earlier purchases.
+
+      ---
+
+      ## 🎯 The Big Marketing Story
+
+      We now have **two things working**:
+
+      ### ① We can generate massive attention
+
+      @@ 403.6K | Coworker Challenge views
+      @@ 15.2K | interactions
+
+      ### ② We can generate sales through intentional promotion
+
+      @@ 7 | ORLA purchases
+      @@ $560 | revenue
+
+      ### The next step is to connect them
+
+      We don't want to change the viral content into advertisements. Instead:
+
+      > **Use the viral content to attract people, then use follow-up content to introduce them to ORLA and The Whitening Lab.**
+
+      ---
+
+      ## 📈 Ecommerce: A Major Improvement
+
+      Overall ecommerce performance also improved significantly.
+
+      @@ 8 | purchases last week (was 1)
+      @@ $572 | revenue last week (was $295)
+
+      That's **🟢 +700% purchases** and **🟢 +93.9% revenue**.
+
+      ORLA accounted for **7 of 8 ecommerce purchases** and **$560 of $572 ecommerce revenue** — approximately **98% of total ecommerce revenue**.
+
+      ---
+
+      ## ✉️ Email: Another Proven Sales Channel
+
+      Email generated:
+
+      @@ 2 | ORLA purchases
+      @@ $160 | revenue
+
+      That's **28.6% of ORLA sales**. This shows that we should continue using both channels together:
+
+      - **Social creates attention and reaches new people.**
+      - **Email helps turn interested people into customers.**
+
+      ---
+
+      ## 🔎 Google Search
+
+      Google Search visibility continued to improve.
+
+      @@ 6,642 | impressions (+13.3%)
+      @@ 105 | clicks (+2.9%)
+      @@ 10.45 | average position
+
+      However, CTR declined from **1.74% → 1.58%**. We're getting more visibility in Google, but we have an opportunity to turn more of that visibility into website visits.
+
+      ---
+
+      ## 🌎 Our Audience Is Expanding
+
+      Maine remains our strongest market, followed by a healthy spread of states across the country:
+
+      | State | Visitors |
+      | --- | ---: |
+      | Maine | 68 |
+      | Massachusetts | 18 |
+      | California | 15 |
+      | Florida | 12 |
+      | New York | 11 |
+      | North Carolina | 9 |
+      | Georgia | 8 |
+      | Michigan | 8 |
+
+      This reinforces the opportunity to operate two complementary marketing engines.
+
+      ### 🦷 The Whitening Lab — Local / Maine
+
+      - Appointments
+      - Local SEO
+      - Google Business Profile
+      - Reviews
+      - Whitening services
+
+      ### 🛍️ ORLA — National / U.S.
+
+      - Social
+      - Email
+      - Influencers
+      - Product education
+      - Viral content
+      - Ecommerce conversion
+
+      ---
+
+      ## 🔧 Important: Fix Social Attribution
+
+      We uncovered an important analytics issue. Our Social links are **not properly tagged with UTM parameters**.
+
+      As a result, some visitors who actually came from Social are being recorded in GA4 as **Direct** instead of **Organic Social**. This means our current reporting may be **underestimating the actual impact of Social Media.**
+
+      > **Action: properly tag all Social links with UTM parameters.**
+
+      Going forward, we want to clearly see the full path:
+
+      > **Social Content**
+      > ↓
+      > **Click**
+      > ↓
+      > **Website**
+      > ↓
+      > **ORLA / Service**
+      > ↓
+      > **Purchase / Appointment**
+
+      ---
+
+      ## 🏆 This Week's Wins
+
+      ### 🥇 Viral Content — 403.6K views / 15.2K interactions
+
+      A huge awareness win and proof that our content can reach an audience far beyond our existing followers.
+
+      ### 🥈 ORLA Sales — 7 purchases / $560
+
+      A major early validation of the ORLA Presale.
+
+      ### 🥉 Social Conversions — 5 ORLA purchases / $400
+
+      Social was responsible for **71.4% of attributed ORLA sales**.
+
+      ### 🏅 Email Conversions — 2 ORLA purchases / $160
+
+      Email generated **28.6% of ORLA sales**.
+
+      ### 📈 Ecommerce Growth — $295 → $572
+
+      Nearly doubling ecommerce revenue week over week.
+
+      ---
+
+      ## 🚀 What We Should Do Next
+
+      1. **Keep creating viral content.** The Coworker Challenge is proof that our audience responds to fun, relatable content. We should lean into this.
+      2. **Build a strategy around viral content.** When something takes off, we shouldn't just celebrate the views — we should ask, "What do we want these new people to see next?"
+      3. **Create "bridge content."** Use follow-up videos to naturally connect fun content to whitening, The Whitening Lab, ORLA, customer results, and education.
+      4. **Continue intentional ORLA promotion.** The Social ORLA promotion generated 5 attributed sales. We should keep testing different promotional formats, hooks and CTAs.
+      5. **Keep Email active.** Two confirmed ORLA sales demonstrate that Email is already contributing to revenue.
+      6. **Fix UTM tracking.** We need accurate attribution so future reports tell us exactly which Social campaigns are generating traffic and sales.
+
+      ---
+
+      ## 💬 The Message for the Team
+
+      > **Last week showed us that we can get people's attention at a scale we haven't seen before.**
+      > The 403.6K-view Coworker Challenge was a major win for The Whitening Lab. It expanded our reach, generated massive engagement and introduced our brand to a much larger audience.
+      > At the same time, our intentional ORLA promotion generated 7 sales and $560 in revenue, with 5 sales coming from Social and 2 from Email.
+      > **Now our opportunity is to connect these two successes.**
+      > We need to develop a strategy that takes the attention we're generating from viral content and gives those new audiences a path toward ORLA purchases and Whitening Lab appointments.
+      > **The goal isn't just to go viral. The goal is to turn the attention we earn into long-term customers.**
+    `
+  },
+  {
     id: "weekly-update-08-27-26",
     date: "2026-08-27",
     title: "Weekly Marketing Update — Follow-Ups & New Items",
