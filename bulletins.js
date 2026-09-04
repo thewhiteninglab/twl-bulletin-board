@@ -34,6 +34,121 @@
 
 const BULLETINS = [
   {
+    id: "weekly-update-09-04-26",
+    date: "2026-09-04",
+    title: "Weekly Marketing Update — ORLA Momentum & Alfred Wind-Down",
+    body: `
+      Hi team — here's the weekly marketing update for **September 4, 2026**. Headlines this week: the ORLA presale keeps climbing, a new blog goes live Monday, we're formalizing a weekly stats bulletin to track our viral momentum, and the Alfred transition has moved forward with concrete progress.
+
+      ## 1. Outstanding Open Items
+
+      | Status | Owner | Item |
+      | --- | --- | --- |
+      | 🔴 Open | Tabatha | Review & approve the blog **"Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works."** Past its Aug 24 target — but **lower urgency now**, since Monday's "Teeth Whitening Rebound" blog fills this week's publishing slot. [Read the draft (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing) |
+      | 🔴 Open | Tabatha | Review the **revised Private Mentorship page** and send feedback to Angel so we can keep improving it. Not urgent. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship) |
+      | 🟢 Done | Tabatha | **Alfred transition** — update received and next steps are planned. Full detail in **Section 6** below. |
+
+      ## 2. ORLA Presale — Momentum Building
+
+      The presale continues to pick up steam. As of today:
+
+      @@ 11 | ORLA Routine Bundles sold
+      @@ 14 | total ORLA units sold
+      @@ 12 | customers so far
+
+      ### Products sold
+
+      | Product | Units |
+      | --- | ---: |
+      | ORLA Complete Routine Bundle | 11 |
+      | ORLA Whitening Strips (box) | 1 |
+      | ORLA Whitening Strips — Sample Pack | 1 |
+      | Teeth Whitening Pen | 1 |
+      | **Total** | **14** |
+
+      ### Where the customers came from
+
+      | Channel | Customers | Share |
+      | --- | ---: | ---: |
+      | 🟢 **Social (attributed)** | **7** | **58.3%** |
+      | 🟠 **Email** | **5** | **41.7%** |
+      | **Total** | **12** | **100%** |
+
+      Five customers are confirmed from our **email campaign**. The other seven came from **other sources**, which we're **attributing to social** — we promoted the presale across our social hubs, so social is the most likely driver.
+
+      **Restock:** we've added **10 more units** of the ORLA Routine Bundle, approved by Tabatha.
+
+      **Timeline:** the presale runs **until September 10.**
+
+      > **Next steps:**
+      > • **Angel** — send the final email blasts to our subscribers in the coming days, before September 10.
+      > • **Team** — please promote the presale in our **social media ads** over the next several days.
+      > • **Team** — also share the presale on your **own personal social media**. This expands our reach beyond ORLA's existing followers and puts it in front of new people in your own networks.
+
+      ## 3. New Blog Publishing Monday — "Teeth Whitening Rebound"
+
+      A new blog post from **Tabatha** goes live **this coming Monday (Sept 7):**
+
+      **"Teeth Whitening Rebound: What to Expect from Your Results."**
+
+      It will be visible starting Monday at: [thewhiteninglab.co/blog/teeth-whitening-rebound](https://thewhiteninglab.co/blog/teeth-whitening-rebound)
+
+      > **Next step (team):** once it's live, please **promote it on social media** to drive people to the website.
+
+      ## 4. Viral Video Strategy — Angel's Plan (Open Item)
+
+      Following last Monday's special bulletin on the **viral videos** we've been producing, there's still one open piece: **Angel's recommendation** on how we turn that virality into **appointments** and **at-home product purchases.**
+
+      Angel is still completing this plan and will **distribute it to everyone by next week.**
+
+      > **Open item — Angel:** finish and share the viral-video utilization plan (target: next week).
+
+      ## 5. New: Weekly Monday Stats Bulletins
+
+      In line with the viral-video push, we're adding a new cadence. **Angel will publish a special bulletin at the start of every week** with our latest numbers — **website traffic plus the stats of our social media posts and videos.**
+
+      The goal is to monitor both site performance and social performance in one place, so we can **maintain the traction we're building** rather than let it fade.
+
+      > **Next action — Angel:** post the weekly stats bulletin every **Monday**, focused on website and social media performance.
+
+      ## 6. Alfred Transition — Progress & Next Steps
+
+      Tabatha has given her update, and here's where the Alfred wind-down stands. Completed so far:
+
+      - **Alfred removed from the website**, along with any related information about it.
+      - **Booking page revised.** Clicking **"Book Appointment"** now goes **directly to the Gray Square booking page** — the site no longer asks the customer which location they want.
+      - **Closure announcement messaging drafted.** [Alfred closure messaging (Google Doc)](https://docs.google.com/document/d/1LnrsTvQh5GfVydDSUB2ByBZ5Z6fQNXl0A36A1ufomto/edit?usp=sharing) — it contains the announcement copy for **email, website, and social media**, plus a **suggested script** for our reels/videos.
+
+      > **Next steps — Tabatha:**
+      > • **Review the messaging doc**, make any needed revisions, and let us know once it's approved.
+      > • **Get access to Alfred's Square account** so we can pull the Alfred customer list and send an email blast to Alfred's customers.
+
+      **Note on the email blast:** we should **only email Alfred's customer list** — not our Gray customers. The Alfred closure isn't relevant to Gray customers, and we don't want to overuse our Gray mailing list with information that doesn't apply to them.
+
+      ## 7. This Week's Next Actions — Summary
+
+      ### Tabatha
+
+      - Review & approve the **"Oil Pulling / Charcoal / Purple Paste / Lemon / UV Kits"** blog (open; lower urgency now).
+      - Review the **revised Private Mentorship page** and send feedback to Angel.
+      - **Review & approve the Alfred closure messaging** doc; revise as needed.
+      - **Get access to Alfred's Square account** to pull the Alfred customer list for the email blast.
+      - Help **promote the "Teeth Whitening Rebound" blog** on social from Monday.
+
+      ### Angel
+
+      - Send the **final ORLA presale email blasts** before September 10.
+      - Finish and distribute the **viral-video utilization plan** (by next week).
+      - Launch the **weekly Monday stats bulletin** (website + social).
+
+      ### Team / Everyone
+
+      - **Promote the ORLA presale** in our social media ads over the coming days.
+      - **Share the ORLA presale on your own personal social media** to reach new people in your networks.
+      - Once live Monday, **promote the "Teeth Whitening Rebound" blog** on social to drive website traffic.
+    `
+  },
+  {
     id: "weekly-update-08-31-26",
     date: "2026-08-31",
     title: "Weekly Marketing Update — We Went Viral",
