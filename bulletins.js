@@ -42,11 +42,9 @@ const BULLETINS = [
 
       ## 1. Outstanding Open Items
 
-      | Status | Owner | Item |
-      | --- | --- | --- |
-      | 🔴 Open | Tabatha | Review & approve the blog **"Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works."** Past its Aug 24 target — but **lower urgency now**, since Monday's "Teeth Whitening Rebound" blog fills this week's publishing slot. [Read the draft (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing) |
-      | 🔴 Open | Tabatha | Review the **revised Private Mentorship page** and send feedback to Angel so we can keep improving it. Not urgent. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship) |
-      | 🟢 Done | Tabatha | **Alfred transition** — update received and next steps are planned. Full detail in **Section 6** below. |
+      - 🔴 **Open — Tabatha:** Review & approve the blog **"Oil Pulling, Charcoal, Purple Paste, Lemon, UV Kits: We Ranked What Actually Works."** Past its Aug 24 target — but **lower urgency now**, since Monday's "Teeth Whitening Rebound" blog fills this week's publishing slot. [Read the draft (Google Doc)](https://docs.google.com/document/d/1RYrIOSVraXf_B6u0tHCKyr9XEg5SMl2-qYGbNiWGOxg/edit?usp=sharing)
+      - 🔴 **Open — Tabatha:** Review the **revised Private Mentorship page** and send feedback to Angel so we can keep improving it. Not urgent. [Private Mentorship page](https://thewhiteninglab.co/private-mentorship)
+      - 🟢 **Done — Tabatha:** **Alfred transition** — update received and next steps are planned. Full detail in **Section 6** below.
 
       ## 2. ORLA Presale — Momentum Building
 
